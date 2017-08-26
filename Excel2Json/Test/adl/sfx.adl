@@ -1,0 +1,9 @@
+namespace = sfx;
+
+sfx
+{
+    string sfx_id;
+    string effect_path;
+    int32 is_bullet;
+}
+

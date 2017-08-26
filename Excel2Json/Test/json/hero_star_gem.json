@@ -1,0 +1,62 @@
+{
+    "1001": {
+        "id": 1001,
+        "icon_id": 1,
+        "type": "hp",
+        "add_num": 100
+    },
+    "1002": {
+        "id": 1002,
+        "icon_id": 1,
+        "type": "attack_value",
+        "add_num": 10
+    },
+    "1003": {
+        "id": 1003,
+        "icon_id": 1,
+        "type": "ability_power",
+        "add_num": 5
+    },
+    "1004": {
+        "id": 1004,
+        "icon_id": 2,
+        "type": "armor",
+        "add_num": 100
+    },
+    "1005": {
+        "id": 1005,
+        "icon_id": 2,
+        "type": "magic_resist",
+        "add_num": 10
+    },
+    "1006": {
+        "id": 1006,
+        "icon_id": 1,
+        "type": "crit_chance",
+        "add_num": 5
+    },
+    "1007": {
+        "id": 1007,
+        "icon_id": 1,
+        "type": "hp",
+        "add_num": 100
+    },
+    "1008": {
+        "id": 1008,
+        "icon_id": 1,
+        "type": "attack_value",
+        "add_num": 10
+    },
+    "1009": {
+        "id": 1009,
+        "icon_id": 1,
+        "type": "ability_power",
+        "add_num": 5
+    },
+    "1010": {
+        "id": 1010,
+        "icon_id": 2,
+        "type": "armor",
+        "add_num": 5
+    }
+}

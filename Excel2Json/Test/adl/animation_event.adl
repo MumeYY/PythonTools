@@ -1,0 +1,13 @@
+namespace = animation_event;
+
+animation_event
+{
+    int32 id;
+    string anim_name;
+    string func_name;
+    string str_param;
+    string str_param2;
+    int32 time;
+    list<int32> offset;
+}
+

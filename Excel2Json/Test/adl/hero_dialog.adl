@@ -1,0 +1,9 @@
+namespace = hero_dialog;
+
+hero_dialog
+{
+    int32 id;
+    list<string> dialog_entrance;
+    list<string> dialog_turn;
+}
+

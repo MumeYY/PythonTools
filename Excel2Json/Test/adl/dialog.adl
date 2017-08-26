@@ -1,0 +1,28 @@
+namespace = dialog;
+
+stage_story
+{
+    int32 id;
+    int32 type;
+    list<string> dialog1;
+    string pram1;
+    list<string> dialog2;
+    string pram2;
+    list<string> dialog3;
+    string pram3;
+    list<string> dialog4;
+    string pram4;
+    list<string> dialog5;
+    string pram5;
+    list<string> dialog6;
+    string pram6;
+    list<string> dialog7;
+    string pram7;
+    list<string> dialog8;
+    string pram8;
+    list<string> dialog9;
+    string pram9;
+    list<string> dialog10;
+    string pram10;
+}
+

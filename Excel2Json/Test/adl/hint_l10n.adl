@@ -1,0 +1,8 @@
+namespace = hint_l10n;
+
+hint_l10n
+{
+    string key;
+    string cn;
+}
+

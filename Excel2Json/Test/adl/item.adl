@@ -1,0 +1,23 @@
+namespace = item;
+
+item
+{
+    int32 id;
+    string name;
+    string icon;
+    int32 type;
+    int32 sub_type;
+    int32 bag_type;
+    int32 quality;
+    int32 is_sell;
+    int32 price;
+    int32 is_pile;
+    int32 max_pile;
+    int32 is_use;
+    int32 is_goto;
+    int32 goto_system;
+    string txt1;
+    string txt2;
+    float64 param1;
+}
+

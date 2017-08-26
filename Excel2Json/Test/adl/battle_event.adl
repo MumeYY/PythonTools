@@ -1,0 +1,12 @@
+namespace = battle_event;
+
+battle_event
+{
+    int32 id;
+    string describe;
+    int32 event_type;
+    int32 event_param;
+    int32 interval;
+    list<int32> effect_id;
+}
+

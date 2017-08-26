@@ -1,0 +1,11 @@
+namespace = model_sfx;
+
+Sheet1
+{
+    string sfx_id;
+    int32 hero_id;
+    string position;
+    string close;
+    string open_only;
+}
+

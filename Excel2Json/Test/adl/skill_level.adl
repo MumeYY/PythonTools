@@ -1,0 +1,16 @@
+namespace = skill_level;
+
+skill_level
+{
+    int32 id;
+    int32 skill_id;
+    int32 skill_level;
+    string skill_description;
+    int32 special_active_duration_time;
+    int32 cooldown;
+    int32 cost_type1;
+    int32 cost_value1;
+    int32 cost_type2;
+    int32 cost_value2;
+}
+

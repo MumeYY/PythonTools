@@ -1,0 +1,110 @@
+{
+    "1": {
+        "id": "1",
+        "island_id": "island_B1",
+        "fov": 45,
+        "position": [-47, 65, 46]
+    },
+    "2": {
+        "id": "2",
+        "island_id": "island_M1",
+        "fov": 16,
+        "position": [58, 64, 20]
+    },
+    "3": {
+        "id": "3",
+        "island_id": "island_M2",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "4": {
+        "id": "4",
+        "island_id": "island_M3",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "5": {
+        "id": "5",
+        "island_id": "island_B2",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "6": {
+        "id": "6",
+        "island_id": "island_B3",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "7": {
+        "id": "7",
+        "island_id": "island_B4",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "8": {
+        "id": "8",
+        "island_id": "island_B5",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "9": {
+        "id": "9",
+        "island_id": "island_S1",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "10": {
+        "id": "10",
+        "island_id": "island_S2",
+        "fov": 16,
+        "position": [0, 0, 0]
+    },
+    "11": {
+        "id": "11",
+        "island_id": "island_S3",
+        "fov": 16,
+        "position": [0, 0, 1]
+    },
+    "12": {
+        "id": "12",
+        "island_id": "island_S4",
+        "fov": 16,
+        "position": [0, 0, 2]
+    },
+    "13": {
+        "id": "13",
+        "island_id": "island_S5",
+        "fov": 16,
+        "position": [0, 0, 3]
+    },
+    "14": {
+        "id": "14",
+        "island_id": "island_S6",
+        "fov": 16,
+        "position": [0, 0, 4]
+    },
+    "15": {
+        "id": "15",
+        "island_id": "island_S7",
+        "fov": 16,
+        "position": [0, 0, 5]
+    },
+    "16": {
+        "id": "16",
+        "island_id": "island_S8",
+        "fov": 16,
+        "position": [0, 0, 6]
+    },
+    "17": {
+        "id": "17",
+        "island_id": "island_S9",
+        "fov": 16,
+        "position": [0, 0, 7]
+    },
+    "18": {
+        "id": "18",
+        "island_id": "island_S10",
+        "fov": 16,
+        "position": [0, 0, 8]
+    }
+}

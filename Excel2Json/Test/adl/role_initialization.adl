@@ -1,0 +1,12 @@
+namespace = role_initialization;
+
+role_initialization
+{
+    int32 id;
+    map<int32,int32> item_1;
+    map<int32,int32> item_2;
+    map<int32,int32> item_3;
+    list<int32> hero;
+    list<int32> task;
+}
+

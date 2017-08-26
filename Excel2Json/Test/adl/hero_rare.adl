@@ -1,0 +1,15 @@
+namespace = hero_rare;
+
+hero_level
+{
+    int32 id;
+    int32 hero_id;
+    int32 rare_color;
+    int32 rare_num;
+    float64 hp_growth;
+    float64 atk_growth;
+    float64 def_growth;
+    map<int32,int32> upgrade_rare_consume;
+    int32 skill_unlock;
+}
+

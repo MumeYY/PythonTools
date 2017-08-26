@@ -1,0 +1,16 @@
+namespace = task;
+
+hero
+{
+    int32 id;
+    string name;
+    string description;
+    string type;
+    list<string> finish_need;
+    int32 reward;
+    int32 next_task;
+    list<string> destination;
+    list<string> event;
+    int32 need_guide;
+}
+

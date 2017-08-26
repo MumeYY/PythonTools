@@ -1,0 +1,9 @@
+namespace = medal_unlock;
+
+medal_unlock
+{
+    int32 type;
+    int32 uclock_level;
+    int32 unlock_money;
+}
+

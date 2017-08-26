@@ -1,0 +1,10 @@
+namespace = feel;
+
+stage_story
+{
+    int32 id;
+    string controller;
+    string left_pic;
+    string right_pic;
+}
+

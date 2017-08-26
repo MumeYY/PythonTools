@@ -1,0 +1,10 @@
+namespace = hero_star_gem;
+
+hero_star_gem
+{
+    int32 id;
+    int32 icon_id;
+    string type;
+    float64 add_num;
+}
+

@@ -1,0 +1,9 @@
+namespace = stage;
+
+stage
+{
+    int32 id;
+    string scenePath;
+    string stagePath;
+}
+

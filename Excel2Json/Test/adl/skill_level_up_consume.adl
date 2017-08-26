@@ -1,0 +1,9 @@
+namespace = skill_level_up_consume;
+
+skill_level
+{
+    int32 id;
+    int32 level;
+    map<int32,int32> consume;
+}
+

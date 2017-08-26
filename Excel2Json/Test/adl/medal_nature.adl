@@ -1,0 +1,12 @@
+namespace = medal_nature;
+
+medal_nature
+{
+    int32 id;
+    string name;
+    string icon;
+    int32 type;
+    int32 level;
+    int32 propMap;
+}
+

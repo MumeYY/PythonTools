@@ -1,0 +1,8 @@
+namespace = hero_levelup;
+
+hero_levelup
+{
+    int32 level;
+    int32 exp;
+}
+

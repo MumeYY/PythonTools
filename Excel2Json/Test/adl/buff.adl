@@ -1,0 +1,41 @@
+namespace = buff;
+
+buff
+{
+    int32 id;
+    string name;
+    string target_sfx;
+    string destroy_sfx;
+    string target_audio;
+    string target_ui;
+    string float_ui;
+    string target_sfx_position;
+    int32 is_show_icon;
+    string play_animation;
+    int32 buffer_type;
+    list<int32> hitfly_buff_param;
+    int32 avoid_damage_type;
+    int32 avoid_damage_param;
+    int32 avoid_damage_skill_type;
+    string avoid_damage_success_sfx;
+    string avoid_damage_success_sfx_position;
+    map<int32,int32> attr_buff_param_map;
+    int32 state_buff_type;
+    int32 state_buff_param;
+    list<int32> repel_buff_param;
+    int32 effect_type;
+    int32 neg_effect_type;
+    int32 anti_buff_type;
+    int32 is_event_drive;
+    int32 event_id;
+    int32 effect_count;
+    int32 interval;
+    int32 time;
+    int32 overlay_type;
+    int32 overlay_range;
+    int32 overlay_number;
+    int32 max_overlay_effect;
+    int32 max_overlay_effect_delay;
+    int32 is_clear_when_max_overlay;
+}
+

@@ -1,0 +1,26 @@
+namespace = skill_effect;
+
+skill_effect
+{
+    int32 id;
+    string name;
+    int32 suicide;
+    string description;
+    string camera_shake;
+    string target_effect;
+    string target_audio;
+    string target_effect_position;
+    string hit_anim;
+    string hit_pvp_anim;
+    int32 freeze_time_a;
+    int32 freeze_time_d;
+    int32 damage_nature;
+    int32 damage_type;
+    int32 param1;
+    int32 param2;
+    int32 param3;
+    list<int32> buff_vec;
+    int32 target_filter;
+    list<int32> flyaway;
+}
+

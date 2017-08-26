@@ -1,0 +1,19 @@
+namespace = global_config;
+
+name
+{
+    int32 id;
+    int32 combo_time;
+    int32 combo_max;
+    int32 combo_zan;
+    int32 combo_piaoliang;
+    int32 combo_bangjile;
+    int32 combo_nanyizhixin;
+    int32 magic_time;
+    int32 magic_time_speed_enemy;
+    int32 magic_time_speed_player;
+    int32 sprint_speed;
+    list<float64> born_position;
+    int32 ac_throw_hit_pause;
+}
+

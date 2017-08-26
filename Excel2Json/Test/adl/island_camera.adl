@@ -1,0 +1,10 @@
+namespace = island_camera;
+
+island_camera
+{
+    string id;
+    string island_id;
+    float64 fov;
+    list<float64> position;
+}
+

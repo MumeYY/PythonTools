@@ -1,0 +1,17 @@
+{
+    "105": {
+        "id": 105,
+        "dialog_entrance": ["hero_1050101", "hero_1050102", "hero_1050103"],
+        "dialog_turn": ["hero_1050201", "hero_1050202", "hero_1050203"]
+    },
+    "109": {
+        "id": 109,
+        "dialog_entrance": ["hero_1090101", "hero_1090102", "hero_1090103"],
+        "dialog_turn": ["hero_1090201", "hero_1090202", "hero_1090203"]
+    },
+    "110": {
+        "id": 110,
+        "dialog_entrance": ["hero_1100101", "hero_1100102", "hero_1100103"],
+        "dialog_turn": ["hero_1100201", "hero_1100202", "hero_1100203"]
+    }
+}

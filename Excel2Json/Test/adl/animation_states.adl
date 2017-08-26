@@ -1,0 +1,29 @@
+namespace = animation_states;
+
+animation_states
+{
+    string id;
+    int32 need_hero_id;
+    string path;
+    int32 is_to_idle;
+    string name;
+    int32 priority;
+    string root_name;
+    string next_name;
+    int32 force_next;
+    int32 skillloading;
+    int32 loop_duration;
+    int32 is_cover;
+    int32 move_controller;
+    int32 allow_rotate;
+    int32 rotation_constrain;
+    int32 can_go_through;
+    int32 is_default;
+    int32 endure_duration;
+    int32 anim_input;
+    int32 frame_num;
+    int32 cross_fade;
+    int32 perfect_frame;
+    int32 parry_limit;
+}
+

@@ -1,0 +1,37 @@
+namespace = ai_object;
+
+ai_object
+{
+    int32 id;
+    string name;
+    string birth_sfx;
+    string destroy_sfx;
+    string indicator_sfx;
+    int32 ai_type;
+    int32 target_filter;
+    int32 speed;
+    int32 sfx_life_time;
+    list<int32> delay;
+    int32 valid_time;
+    int32 interval;
+    int32 attack_number;
+    int32 shape;
+    int32 shape_param1;
+    int32 shape_param2;
+    int32 forward_offset;
+    int32 can_go_through;
+    int32 is_trigger_destroy;
+    int32 is_rebound;
+    int32 rebound_time;
+    int32 rebound_range;
+    int32 can_go_back;
+    string model;
+    int32 birth_position_offset_x;
+    int32 birth_position_offset_y;
+    int32 reduce_damage;
+    int32 reduce_damage_time;
+    list<int32> effect_vec;
+    string skill_script;
+    list<string> script_params;
+}
+

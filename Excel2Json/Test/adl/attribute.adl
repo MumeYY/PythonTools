@@ -1,0 +1,8 @@
+namespace = attribute;
+
+attribute
+{
+    string type;
+    string name;
+}
+

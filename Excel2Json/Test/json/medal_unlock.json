@@ -1,0 +1,16 @@
+{
+    "1": {
+        "type": 1,
+        "uclock_level": 1,
+        "unlock_money": 1
+    },
+    "2": {
+        "type": 2
+    },
+    "3": {
+        "type": 3
+    },
+    "4": {
+        "type": 4
+    }
+}

@@ -1,0 +1,50 @@
+namespace = monster;
+
+monster
+{
+    int32 id;
+    string name;
+    int32 level;
+    int32 monster_id;
+    string name_id;
+    string face;
+    string combat_show;
+    int32 type;
+    list<int32> front_back_damage;
+    list<int32> back_damage;
+    list<int32> all_skill;
+    int32 collide_radius;
+    float64 model_scale;
+    int32 repel_scale;
+    int32 attack_value;
+    int32 attack_speed;
+    int32 can_be_attacked;
+    int32 hp_display;
+    int32 hp;
+    int32 hp_regen;
+    int32 armor;
+    int32 magic_resist;
+    int32 mana;
+    int32 mana_regen;
+    int32 super_armor;
+    int32 super_armor_regen;
+    string ai;
+    int32 move_speed;
+    int32 speed_patrol;
+    int32 radius_patrol;
+    int32 drop_exp;
+    int32 drop_money;
+    int32 drop_item;
+    int32 drop_item_last;
+    int32 corpse_disappear_times;
+    int32 disappearance_type;
+    int32 refurbish_type;
+    string is_share;
+    list<int32> affix;
+    string strategy;
+    string skill_describe;
+    string monster_picture;
+    string skill_picture;
+    int32 dead_buff_Id;
+}
+

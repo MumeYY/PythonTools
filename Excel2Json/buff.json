@@ -1,0 +1,723 @@
+{
+    "100000": {
+        "buffer_type": 2,
+        "id": 100000,
+        "interval": 0,
+        "name": "\u5947\u5f02\u535a\u58eb\u7729\u6655",
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 3000
+    },
+    "100001": {
+        "buffer_type": 2,
+        "id": 100001,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u7729\u6655",
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 700
+    },
+    "100002": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -5000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 100002,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u51cf\u901f",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "target_sfx": "FX_Hero105_Skill_003_debuff",
+        "target_sfx_position": "Hit3",
+        "time": 5000
+    },
+    "100003": {
+        "buffer_type": 3,
+        "id": 100003,
+        "name": "\u8718\u86db\u666e\u653b\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "200001": {
+        "anti_buff_type": 0,
+        "buffer_type": 5,
+        "effect_type": 2,
+        "hitfly_buff_param": [
+            null
+        ],
+        "id": 200001,
+        "is_event_drive": 2,
+        "name": "\u51fb\u98de\u3010\u5c0f\u3011",
+        "neg_effect_type": 1
+    },
+    "200002": {
+        "anti_buff_type": 0,
+        "buffer_type": 5,
+        "effect_type": 2,
+        "hitfly_buff_param": [
+            null
+        ],
+        "id": 200002,
+        "is_event_drive": 2,
+        "name": "\u51fb\u98de\u3010\u4e2d\u3011",
+        "neg_effect_type": 1
+    },
+    "200003": {
+        "anti_buff_type": 0,
+        "buffer_type": 5,
+        "effect_type": 2,
+        "hitfly_buff_param": [
+            null
+        ],
+        "id": 200003,
+        "is_event_drive": 2,
+        "name": "\u51fb\u98de\u3010\u5927\u3011",
+        "neg_effect_type": 1
+    },
+    "900001": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "14": 1000
+        },
+        "buffer_type": 1,
+        "effect_type": 1,
+        "id": 900001,
+        "interval": 1000,
+        "is_clear_when_max_overlay": 0,
+        "is_event_drive": 2,
+        "name": "\u56de\u8840\uff08\u8131\u6218\uff09",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "target_sfx": "reply_blood2",
+        "target_sfx_position": "Hit3",
+        "time": -1
+    },
+    "900002": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "11": 888
+        },
+        "buffer_type": 1,
+        "effect_type": 1,
+        "id": 900002,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "is_event_drive": 2,
+        "name": "\u5927Buff\uff08\u961f\u4f0d\u56de\u8840\uff09",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "target_sfx": "reply_blood2",
+        "target_sfx_position": "Hit3",
+        "time": 0
+    },
+    "900003": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "11": 6666
+        },
+        "buffer_type": 1,
+        "effect_type": 1,
+        "id": 900003,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "is_event_drive": 2,
+        "name": "\u5c0fBuff\uff08\u5355\u4f53\u56de\u8840\uff09",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "target_sfx": "reply_blood2",
+        "target_sfx_position": "Hit3",
+        "time": 0
+    },
+    "900004": {
+        "anti_buff_type": 0,
+        "buffer_type": 2,
+        "effect_type": 1,
+        "id": 900004,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "is_event_drive": 2,
+        "name": "\u590d\u6d3b\u65e0\u654c",
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "state_buff_type": 2,
+        "target_sfx": "FX_Hero110_Skill003_debuff01",
+        "target_sfx_position": "Hit3",
+        "time": 4000
+    },
+    "102010101": {
+        "": null,
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -7000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "float_ui": "Buff_js",
+        "id": 102010101,
+        "interval": 0,
+        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd1\u51cf\u901f",
+        "neg_effect_type": 1,
+        "overlay_type": 1,
+        "target_sfx_position": "Hit3",
+        "time": 10000
+    },
+    "102010102": {
+        "": null,
+        "buffer_type": 2,
+        "float_ui": "Buff_cm",
+        "id": 102010102,
+        "interval": 0,
+        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd1\u6c89\u9ed8",
+        "overlay_type": 1,
+        "state_buff_type": 5,
+        "target_sfx_position": "Hit1",
+        "target_ui": "buff_silence",
+        "time": 10000
+    },
+    "102010103": {
+        "": null,
+        "attr_buff_param_map": {
+            "412": -8000
+        },
+        "buffer_type": 1,
+        "float_ui": "Buff_zm",
+        "id": 102010103,
+        "interval": 0,
+        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd1\u81f4\u76f2",
+        "overlay_type": 1,
+        "time": 10000
+    },
+    "102020101": {
+        "": null,
+        "attr_buff_param_map": {
+            "72": 3500
+        },
+        "buffer_type": 1,
+        "effect_type": 1,
+        "id": 102020101,
+        "interval": 0,
+        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd2\u52a0\u901f",
+        "overlay_type": 1,
+        "time": 8000
+    },
+    "102100101": {
+        "": null,
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -4000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "float_ui": "Buff_js",
+        "id": 102100101,
+        "interval": 0,
+        "name": "\u9ed1\u5be1\u5987\uff0c\u5927\u62db\u51cf\u901f",
+        "neg_effect_type": 1,
+        "overlay_type": 1,
+        "target_sfx_position": "Hit3",
+        "time": 5000
+    },
+    "104000000": {
+        "anti_buff_type": 0,
+        "avoid_damage_param": 300,
+        "avoid_damage_type": 2,
+        "buffer_type": 4,
+        "destroy_sfx": "FX_Hero104_Skill_000_end_C_Spine",
+        "effect_type": 1,
+        "id": 104000000,
+        "interval": 0,
+        "name": "\u94a2\u94c1\u4fa0\u88ab\u52a8\u62a4\u76fe",
+        "neg_effect_type": 0,
+        "overlay_type": 1,
+        "target_sfx": "FX_Hero104_Skill_000_C_Spine",
+        "target_sfx_position": "Hit2",
+        "time": 5000
+    },
+    "104000001": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "11": -333
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 104000001,
+        "interval": 800,
+        "is_clear_when_max_overlay": 0,
+        "is_event_drive": 2,
+        "name": "\u94a2\u94c1\u4fa0Dot\u71c3\u70e7",
+        "neg_effect_type": 1,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "time": 5000
+    },
+    "104000002": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -6000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 104000002,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u94a2\u94c1\u4fa0Dot\u51cf\u901f",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "time": 5000
+    },
+    "105010401": {
+        "buffer_type": 2,
+        "id": 105010401,
+        "name": "\u8718\u86db\u4fa0\u6280\u80fd1\u4e0d\u88ab\u9009",
+        "state_buff_type": 1,
+        "time": 1000
+    },
+    "105020103": {
+        "buffer_type": 2,
+        "id": 105020103,
+        "name": "\u8718\u86db\u4fa0\u6280\u80fd2\u4e0d\u88ab\u9009",
+        "state_buff_type": 1,
+        "time": 2000
+    },
+    "105040102": {
+        "buffer_type": 2,
+        "id": 105040102,
+        "name": "\u8718\u86db\u4fa0\u5927\u62db\u4e0d\u88ab\u9009",
+        "state_buff_type": 1,
+        "time": 3000
+    },
+    "105060101": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -10000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 105060101,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u8718\u86db\u5634\u70ae\u51cf\u901f",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "target_sfx": "FX_Hero105_ZuiPao",
+        "target_sfx_position": "Hit3",
+        "time": 3000
+    },
+    "105200101": {
+        "anti_buff_type": 0,
+        "buffer_type": 0,
+        "effect_type": 2,
+        "id": 105200101,
+        "interval": 0,
+        "is_clear_when_max_overlay": 1,
+        "is_event_drive": 2,
+        "max_overlay_effect": 105060101,
+        "max_overlay_effect_delay": 1000,
+        "name": "\u8718\u86db\u5634\u70ae",
+        "neg_effect_type": 0,
+        "overlay_number": 4,
+        "overlay_range": 2,
+        "overlay_type": 2,
+        "target_ui": "buff_zuipao",
+        "time": 8000
+    },
+    "105200102": {
+        "anti_buff_type": 0,
+        "buffer_type": 2,
+        "effect_type": 1,
+        "id": 105200102,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u8718\u86db\u4fa0\u95ea\u907f",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "state_buff_param": 10000,
+        "state_buff_type": 13,
+        "time": 2000
+    },
+    "109000000": {
+        "anti_buff_type": 0,
+        "buffer_type": 0,
+        "effect_type": 1,
+        "id": 109000000,
+        "interval": 0,
+        "is_clear_when_max_overlay": 1,
+        "is_event_drive": 2,
+        "max_overlay_effect": 109000001,
+        "name": "\u7f8e\u961f\u88ab\u52a8\u5012\u8ba1\u65f6",
+        "neg_effect_type": 0,
+        "overlay_number": 4,
+        "overlay_range": 2,
+        "overlay_type": 2,
+        "time": 4000
+    },
+    "109000001": {
+        "anti_buff_type": 0,
+        "avoid_damage_param": 3,
+        "avoid_damage_skill_type": 1,
+        "avoid_damage_success_sfx": "FX_Hero109_Defence",
+        "avoid_damage_success_sfx_position": "wp",
+        "avoid_damage_type": 1,
+        "buffer_type": 4,
+        "effect_type": 1,
+        "id": 109000001,
+        "interval": 0,
+        "is_event_drive": 2,
+        "name": "\u7f8e\u961f\u88ab\u52a8\u6548\u679c",
+        "neg_effect_type": 0,
+        "overlay_type": 1,
+        "target_audio": "SE_Hit109_shield_01",
+        "target_sfx": "FX_Hero109_Skill_000_wp",
+        "target_sfx_position": "wp",
+        "time": -1
+    },
+    "109000101": {
+        "buffer_type": 3,
+        "id": 109000101,
+        "name": "\u7f8e\u961f\u666e\u653b1\u6bb5\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109000102": {
+        "buffer_type": 3,
+        "id": 109000102,
+        "name": "\u7f8e\u961f\u666e\u653b2\u6bb5\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109000104": {
+        "buffer_type": 3,
+        "id": 109000104,
+        "name": "\u7f8e\u961f\u666e\u653b4\u6bb5\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109010101": {
+        "buffer_type": 3,
+        "id": 109010101,
+        "name": "\u7f8e\u961f\u98de\u76fe\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109010102": {
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -2000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 109010102,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u7f8e\u961f\u98de\u76fe\u51cf\u901f",
+        "neg_effect_type": 0,
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "target_sfx_position": "Hit3",
+        "time": 2000
+    },
+    "109010301": {
+        "buffer_type": 3,
+        "id": 109010301,
+        "name": "\u4e5d\u8fde\u51fb\u540e\u7a81\u51fb",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109020101": {
+        "buffer_type": 2,
+        "id": 109020101,
+        "interval": 0,
+        "name": "\u7f8e\u961f\u51b2\u950b\u7729\u6655",
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 1000
+    },
+    "109020201": {
+        "buffer_type": 3,
+        "id": 109020201,
+        "name": "\u7529\u76fe\u540e\u98de\u8e22",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109040101": {
+        "buffer_type": 3,
+        "id": 109040101,
+        "name": "\u7f8e\u961f\u5927\u62db\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "109040102": {
+        "buffer_type": 2,
+        "id": 109040102,
+        "name": "\u7f8e\u961f\u5927\u62db\u4e0d\u88ab\u9009",
+        "state_buff_type": 1,
+        "time": 3000
+    },
+    "109040103": {
+        "attr_buff_param_map": {
+            "191": 1000
+        },
+        "buffer_type": 1,
+        "id": 109040103,
+        "interval": 0,
+        "name": "\u7f8e\u961f\u5927\u62dbbuff",
+        "overlay_type": 1,
+        "target_sfx": "FX_Hero109_Skill_004_buff",
+        "target_sfx_position": "Hit3",
+        "time": 10000
+    },
+    "110000104": {
+        "buffer_type": 3,
+        "id": 110000104,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u666e\u653b4\u51fb\u9000",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "110020101": {
+        "anti_buff_type": 0,
+        "buffer_type": 0,
+        "effect_type": 2,
+        "id": 110020101,
+        "interval": 0,
+        "is_clear_when_max_overlay": 1,
+        "is_event_drive": 2,
+        "max_overlay_effect": 110020102,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u6280\u80fd2\u53e0\u5c42",
+        "neg_effect_type": 0,
+        "overlay_number": 2,
+        "overlay_range": 2,
+        "overlay_type": 2,
+        "time": 5000
+    },
+    "110020102": {
+        "": null,
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -9000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 110020102,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u6280\u80fd2\u51cf\u901f",
+        "neg_effect_type": 0,
+        "overlay_type": 1,
+        "time": 3000
+    },
+    "110100101": {
+        "buffer_type": 2,
+        "id": 110100101,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u5927\u62db\u7729\u6655",
+        "overlay_number": 1,
+        "overlay_range": 1,
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 2000
+    },
+    "110100102": {
+        "": null,
+        "anti_buff_type": 0,
+        "attr_buff_param_map": {
+            "72": -5000
+        },
+        "buffer_type": 1,
+        "effect_type": 2,
+        "id": 110100102,
+        "interval": 0,
+        "is_clear_when_max_overlay": 0,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u5927\u62db\u51cf\u901f",
+        "neg_effect_type": 0,
+        "overlay_type": 1,
+        "time": 4000
+    },
+    "110900101": {
+        "": null,
+        "anti_buff_type": 0,
+        "buffer_type": 0,
+        "effect_type": 1,
+        "id": 110900101,
+        "interval": 0,
+        "is_clear_when_max_overlay": 1,
+        "is_event_drive": 2,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u88ab\u52a8\u53e0\u5c42",
+        "neg_effect_type": 0,
+        "overlay_number": 3,
+        "overlay_range": 2,
+        "overlay_type": 2,
+        "target_sfx": "FX_Hero110_passive02",
+        "target_sfx_position": "Hit2",
+        "time": 10000
+    },
+    "110900102": {
+        "anti_buff_type": 0,
+        "buffer_type": 0,
+        "effect_type": 1,
+        "id": 110900102,
+        "interval": 0,
+        "is_event_drive": 2,
+        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u88ab\u52a8\u5b50\u5f39",
+        "neg_effect_type": 0,
+        "overlay_type": 1,
+        "target_sfx": "FX_Hero110_passive02",
+        "target_sfx_position": "Hit2",
+        "time": 8000
+    },
+    "127010101": {
+        "buffer_type": 2,
+        "id": 127010101,
+        "interval": 0,
+        "name": "\u706d\u9738\u6280\u80fd1\u7729\u66551",
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 1000
+    },
+    "127010102": {
+        "buffer_type": 2,
+        "id": 127010102,
+        "interval": 0,
+        "name": "\u706d\u9738\u6280\u80fd1\u7729\u66552",
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 1500
+    },
+    "127020101": {
+        "buffer_type": 3,
+        "id": 127020101,
+        "name": "\u706d\u97382\u6280\u80fd-\u51fb\u98de",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "127040101": {
+        "buffer_type": 2,
+        "id": 127040101,
+        "interval": 0,
+        "name": "\u706d\u9738\u5927\u62db\u7729\u6655",
+        "overlay_type": 1,
+        "play_animation": "Stun",
+        "state_buff_type": 4,
+        "target_sfx": "FX_Hero109_Hit_xuanyun",
+        "target_sfx_position": "Hit1",
+        "time": 1000
+    },
+    "127900101": {
+        "buffer_type": 2,
+        "id": 127900101,
+        "interval": 0,
+        "name": "\u706d\u9738\u88ab\u52a8\uff0c\u771f\u5b9e\u4f24\u5bb3",
+        "overlay_type": 1,
+        "state_buff_type": 14,
+        "time": 5000
+    },
+    "127900102": {
+        "attr_buff_param_map": {
+            "251": 2500
+        },
+        "buffer_type": 1,
+        "id": 127900102,
+        "interval": 0,
+        "name": "\u706d\u9738\u88ab\u52a8\uff0c\u5438\u8840\u6548\u679c",
+        "overlay_type": 1,
+        "time": 5000
+    },
+    "301000101": {
+        "buffer_type": 3,
+        "id": 301000101,
+        "name": "Hydra\u72d9\u51fb\u5175\u666e\u653b\u4f24\u5bb3",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "303010101": {
+        "buffer_type": 3,
+        "id": 303010101,
+        "name": "\u76fe\u724c\u51b2\u950b\u4f24\u5bb3",
+        "repel_buff_param": [
+            null
+        ]
+    },
+    "321020101": {
+        "buffer_type": 3,
+        "id": 321020101,
+        "name": "\u957f\u67aa\u5175\u7a81\u523a\u4f24\u5bb3"
+    },
+    "322000101": {
+        "buffer_type": 1,
+        "effect_count": 0,
+        "effect_type": 3,
+        "id": 322000101,
+        "interval": 4000,
+        "max_overlay_effect_delay": 0,
+        "name": "\u7075\u9b42\u9501\u94fe",
+        "neg_effect_type": 0,
+        "target_sfx": "FX_Npc322_skill_002_01",
+        "target_sfx_position": "Hit2",
+        "time": 1
+    },
+    "322010101": {
+        "buffer_type": 1,
+        "effect_count": 0,
+        "effect_type": 3,
+        "id": 322010101,
+        "interval": 4000,
+        "max_overlay_effect_delay": 0,
+        "name": "\u9b54\u6cd5\u7403\u4f24\u5bb3\u964d\u4f4e",
+        "neg_effect_type": 0,
+        "target_sfx": "FX_Hero110_Skill003_debuff01",
+        "target_sfx_position": "Hit3",
+        "time": 1
+    }
+}

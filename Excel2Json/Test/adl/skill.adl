@@ -1,0 +1,42 @@
+namespace = skill;
+
+skill
+{
+    int32 id;
+    int32 hero_id;
+    string name;
+    int32 level_limit;
+    string description;
+    string skill_icon;
+    string skill_motion;
+    list<int32> atk_random;
+    list<int32> atk_random_odds;
+    int32 skill_gather_id;
+    int32 skill_type;
+    list<int32> event_id_vec;
+    int32 target_filter;
+    int32 release_type;
+    int32 distance;
+    int32 select_area_type;
+    int32 center_type;
+    int32 range_type;
+    int32 range_param1;
+    int32 range_param2;
+    int32 indicator_show;
+    int32 indicator_show_shut;
+    int32 indicator_show_time;
+    int32 indicator_aim_switch;
+    int32 is_autoplay_next_skill;
+    int32 next_skill_condition;
+    int32 root_skill;
+    int32 next_skill;
+    int32 next_skill_parm1;
+    int32 next_skill_parm2;
+    int32 next_skill_parm3;
+    list<int32> effect_vec;
+    list<int32> aiobject_vec;
+    int32 angel;
+    string skill_script;
+    list<string> script_params;
+}
+

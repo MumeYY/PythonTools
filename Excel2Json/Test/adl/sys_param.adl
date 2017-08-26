@@ -1,0 +1,11 @@
+namespace = sys_param;
+
+hero_level
+{
+    int32 id;
+    float64 exp_cri;
+    float64 exp_cri_effect;
+    float64 exp_b_cri;
+    float64 exp_b_cri_effect;
+}
+

@@ -1,0 +1,17 @@
+{
+    "1": {
+        "id": 1,
+        "combo_time": 3000,
+        "combo_max": 999,
+        "combo_zan": 10,
+        "combo_piaoliang": 30,
+        "combo_bangjile": 60,
+        "combo_nanyizhixin": 100,
+        "magic_time": 5000,
+        "magic_time_speed_enemy": 1000,
+        "magic_time_speed_player": 15000,
+        "sprint_speed": 20000,
+        "born_position": [187, 0, -362],
+        "ac_throw_hit_pause": 1
+    }
+}

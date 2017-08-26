@@ -1,0 +1,44 @@
+namespace = chapter_story;
+
+chapter_story
+{
+    int32 id;
+    string name;
+    string island_id;
+    int32 need_level;
+    int32 clearance_need;
+    int32 start_dialog;
+    list<float64> start_position;
+    list<float64> end_position;
+    list<float64> birth_position;
+    list<float64> birth_rotation;
+    int32 scale;
+    int32 stage1;
+    int32 stage2;
+    int32 stage3;
+    int32 stage4;
+    int32 stage5;
+    int32 stage6;
+    int32 stage7;
+    int32 stage8;
+    int32 stage9;
+    int32 stage10;
+    int32 stage11;
+    int32 stage12;
+    map<int32,int32> reward1;
+    int32 reward1_icon;
+    int32 reward1_star;
+    map<int32,int32> reward2;
+    int32 reward2_icon;
+    int32 reward2_star;
+    map<int32,int32> reward3;
+    int32 reward3_icon;
+    int32 reward3_star;
+    map<int32,int32> reward4;
+    int32 reward4_icon;
+    int32 reward4_star;
+    map<int32,int32> reward5;
+    int32 reward5_icon;
+    int32 reward5_star;
+}
+

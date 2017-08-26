@@ -1,0 +1,21 @@
+namespace = skill_gather;
+
+skill
+{
+    int32 id;
+    float64 gather_speed;
+    int32 gather_t1;
+    int32 gather_t2;
+    int32 gather_t3;
+    int32 gather_skill1;
+    int32 gather_skill2;
+    int32 gather_skill3;
+    string gather_effect1;
+    string gather_effect2;
+    string gather_effect3;
+    string gather_play1;
+    string gather_play2;
+    string gather_begin_play1;
+    string gather_play1_play2;
+}
+

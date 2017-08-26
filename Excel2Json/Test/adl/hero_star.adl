@@ -1,0 +1,20 @@
+namespace = hero_star;
+
+hero_star
+{
+    int32 hero_id;
+    int32 item_id;
+    list<int32> upgrade_star_consume;
+    list<int32> pen_list1;
+    list<int32> pen_list2;
+    list<int32> pen_list3;
+    list<int32> pen_list4;
+    list<int32> pen_list5;
+    list<int32> hp_add;
+    list<int32> attack_value_add;
+    list<int32> ability_power_add;
+    list<int32> armor_add;
+    list<int32> magic_resist_add;
+    list<float64> crit_chance_add;
+}
+

@@ -1,0 +1,8 @@
+namespace = stage_l10n;
+
+stage_l10n
+{
+    string key;
+    string cn;
+}
+

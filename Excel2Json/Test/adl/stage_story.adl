@@ -1,0 +1,33 @@
+namespace = stage_story;
+
+stage_story
+{
+    int32 id;
+    int32 chapter_id;
+    string name;
+    string desc1;
+    int32 need_level;
+    string type;
+    list<float64> position3;
+    string terrain;
+    int32 lead_exp;
+    int32 exp;
+    map<int32,int32> reward_first;
+    int32 reward;
+    map<int32,int32> reward_show;
+    int32 day_limit;
+    int32 energy_cost;
+    int32 time_limit;
+    int32 win;
+    int32 lose1;
+    int32 gs;
+    int32 team;
+    int32 sweep;
+    string opening;
+    int32 start_dialog;
+    int32 scale_type;
+    list<int32> star1_need;
+    list<int32> star2_need;
+    list<int32> star3_need;
+}
+

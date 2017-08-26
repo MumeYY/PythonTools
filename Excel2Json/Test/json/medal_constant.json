@@ -1,0 +1,11 @@
+{
+    "3": {
+        "medalpage_num": 3,
+        "medalpage_level": [1, 10, 30],
+        "medalpage_money": 1,
+        "medalpage_max": 20,
+        "medalpage_unlock_money": 1,
+        "medal_level_up": 5,
+        "medal_compose": 2
+    }
+}

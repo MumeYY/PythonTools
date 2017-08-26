@@ -1,0 +1,13 @@
+namespace = medal_constant;
+
+medal_constant
+{
+    int32 medalpage_num;
+    list<int32> medalpage_level;
+    int32 medalpage_money;
+    int32 medalpage_max;
+    int32 medalpage_unlock_money;
+    int32 medal_level_up;
+    int32 medal_compose;
+}
+

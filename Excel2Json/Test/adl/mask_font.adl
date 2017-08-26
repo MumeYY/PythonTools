@@ -1,0 +1,9 @@
+namespace = mask_font;
+
+mask_font
+{
+    int32 id;
+    string name_word;
+    string chat_word;
+}
+

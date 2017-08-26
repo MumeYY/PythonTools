@@ -1,0 +1,12 @@
+namespace = ship_level;
+
+ship_level
+{
+    int32 level;
+    int32 exp;
+    int32 max_energy;
+    int32 add_energy;
+    int32 max_hero_level;
+    list<int32> unlock_system;
+}
+
