@@ -1,224 +1,317 @@
 {
     "4110101": {
-        "id": 4110101,
         "chapter_id": 47101,
-        "name": "stage_sname_10102",
-        "desc1": "stage_desic1_4110002",
-        "type": "normal",
-        "terrain": "Pve_map_0101_A",
-        "lead_exp": 30,
-        "exp": 30,
-        "reward_first": {"44109": 1, "11109": 1},
-        "reward_show": {"44109": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110002",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 30,
         "gs": 200,
-        "sweep": 1,
+        "id": 4110101,
+        "lead_exp": 30,
+        "name": "stage_sname_10102",
+        "reward_first": {
+            "11109": 1,
+            "44109": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "44109": 1
+        },
         "scale_type": 0,
-        "star1_need": [1],
-        "star2_need": [2, 100],
-        "star3_need": [3, 0.9]
+        "star2_need": [
+            2,
+            100
+        ],
+        "sweep": 1,
+        "terrain": "Pve_map_0101_A",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110102": {
-        "id": 4110102,
         "chapter_id": 47101,
-        "name": "stage_sname_10104",
-        "desc1": "stage_desic1_4110004",
-        "type": "normal",
-        "terrain": "Pve_map_0104_LD",
-        "lead_exp": 45,
-        "exp": 45,
-        "reward_first": {"44104": 1, "11109": 10},
-        "reward_show": {"44104": 1, "11109": 10},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110004",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 45,
         "gs": 400,
-        "sweep": 1,
+        "id": 4110102,
+        "lead_exp": 45,
+        "name": "stage_sname_10104",
+        "reward_first": {
+            "11109": 10,
+            "44104": 1
+        },
+        "reward_show": {
+            "11109": 10,
+            "44104": 1
+        },
         "scale_type": 0,
-        "star1_need": [1],
-        "star2_need": [4],
-        "star3_need": [5, 10]
+        "star3_need": [
+            5,
+            10
+        ],
+        "sweep": 1,
+        "terrain": "Pve_map_0104_LD",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110103": {
-        "id": 4110103,
         "chapter_id": 47101,
-        "name": "stage_sname_10108",
-        "desc1": "stage_desic1_4110008",
-        "type": "boss",
-        "terrain": "Pve_map_0105_LD",
-        "lead_exp": 60,
-        "exp": 60,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110008",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 60,
         "gs": 800,
-        "sweep": 1,
+        "id": 4110103,
+        "lead_exp": 60,
+        "name": "stage_sname_10108",
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [1],
-        "star2_need": [6, 100],
-        "star3_need": [7, 0.5]
+        "star2_need": [
+            6,
+            100
+        ],
+        "sweep": 1,
+        "terrain": "Pve_map_0105_LD",
+        "time_limit": 300,
+        "type": "boss"
     },
     "4110201": {
-        "id": 4110201,
         "chapter_id": 47102,
-        "name": "stage_sname_10101",
-        "desc1": "stage_desic1_4110001",
-        "type": "normal",
-        "position3": [64, 20, -18.8],
-        "terrain": "Pve_map_0101_A",
-        "lead_exp": 15,
-        "exp": 15,
-        "reward_first": {"44110": 1, "11109": 10},
-        "reward_show": {"44110": 1, "11109": 10},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110001",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 15,
         "gs": 900,
-        "start_dialog": 10100,
+        "id": 4110201,
+        "lead_exp": 15,
+        "name": "stage_sname_10101",
+        "position3": [
+            64.0,
+            20.0,
+            -18.8
+        ],
+        "reward_first": {
+            "11109": 10,
+            "44110": 1
+        },
+        "reward_show": {
+            "11109": 10,
+            "44110": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "Pve_map_0101_A",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110202": {
-        "id": 4110202,
         "chapter_id": 47102,
-        "name": "stage_sname_10102",
-        "desc1": "stage_desic1_4110002",
-        "type": "normal",
-        "position3": [62.9, 20, -20.5],
-        "terrain": "10002",
-        "lead_exp": 30,
-        "exp": 30,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110002",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 30,
         "gs": 1000,
-        "start_dialog": 10100,
+        "id": 4110202,
+        "lead_exp": 30,
+        "name": "stage_sname_10102",
+        "position3": [
+            62.9,
+            20.0,
+            -20.5
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10002",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110203": {
-        "id": 4110203,
         "chapter_id": 47102,
-        "name": "stage_sname_10103",
-        "desc1": "stage_desic1_4110003",
-        "type": "boss",
-        "position3": [61, 20, -22],
-        "terrain": "10001",
-        "lead_exp": 30,
-        "exp": 30,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110003",
         "energy_cost": 0,
-        "time_limit": 300,
-        "start_dialog": 10100,
+        "exp": 30,
+        "id": 4110203,
+        "lead_exp": 30,
+        "name": "stage_sname_10103",
+        "position3": [
+            61.0,
+            20.0,
+            -22.0
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10001",
+        "time_limit": 300,
+        "type": "boss"
     },
     "4110204": {
-        "id": 4110204,
         "chapter_id": 47102,
-        "name": "stage_sname_10104",
-        "desc1": "stage_desic1_4110004",
-        "type": "normal",
-        "position3": [59.8, 20, -19.3],
-        "terrain": "10002",
-        "lead_exp": 45,
-        "exp": 45,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110004",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 45,
         "gs": 1200,
-        "start_dialog": 10100,
+        "id": 4110204,
+        "lead_exp": 45,
+        "name": "stage_sname_10104",
+        "position3": [
+            59.8,
+            20.0,
+            -19.3
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10002",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110205": {
-        "id": 4110205,
         "chapter_id": 47102,
-        "name": "stage_sname_10105",
-        "desc1": "stage_desic1_4110005",
-        "type": "normal",
-        "position3": [57.6, 20, -20.3],
-        "terrain": "10001",
-        "lead_exp": 45,
-        "exp": 45,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110005",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 45,
         "gs": 1300,
-        "start_dialog": 10100,
+        "id": 4110205,
+        "lead_exp": 45,
+        "name": "stage_sname_10105",
+        "position3": [
+            57.6,
+            20.0,
+            -20.3
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10001",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110206": {
-        "id": 4110206,
         "chapter_id": 47102,
-        "name": "stage_sname_10106",
-        "desc1": "stage_desic1_4110006",
-        "type": "normal",
-        "position3": [56, 20, -21.7],
-        "terrain": "10002",
-        "lead_exp": 45,
-        "exp": 45,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110006",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 45,
         "gs": 1400,
-        "start_dialog": 10100,
+        "id": 4110206,
+        "lead_exp": 45,
+        "name": "stage_sname_10106",
+        "position3": [
+            56.0,
+            20.0,
+            -21.7
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10002",
+        "time_limit": 300,
+        "type": "normal"
     },
     "4110207": {
-        "id": 4110207,
         "chapter_id": 47102,
-        "name": "stage_sname_10107",
-        "desc1": "stage_desic1_4110007",
-        "type": "boss",
-        "position3": [54, 20, -24],
-        "terrain": "10001",
-        "lead_exp": 45,
-        "exp": 45,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110007",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 45,
         "gs": 1500,
-        "start_dialog": 10100,
+        "id": 4110207,
+        "lead_exp": 45,
+        "name": "stage_sname_10107",
+        "position3": [
+            54.0,
+            20.0,
+            -24.0
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10001",
+        "time_limit": 300,
+        "type": "boss"
     },
     "4110208": {
-        "id": 4110208,
         "chapter_id": 47102,
-        "name": "stage_sname_10108",
-        "desc1": "stage_desic1_4110008",
-        "type": "normal",
-        "position3": [52.5, 20, -22.4],
-        "terrain": "10002",
-        "lead_exp": 60,
-        "exp": 60,
-        "reward_first": {"11114": 1, "11109": 1},
-        "reward_show": {"11114": 1, "11109": 1},
         "day_limit": 99,
+        "desc1": "stage_desic1_4110008",
         "energy_cost": 0,
-        "time_limit": 300,
+        "exp": 60,
         "gs": 1600,
-        "start_dialog": 10100,
+        "id": 4110208,
+        "lead_exp": 60,
+        "name": "stage_sname_10108",
+        "position3": [
+            52.5,
+            20.0,
+            -22.4
+        ],
+        "reward_first": {
+            "11109": 1,
+            "11114": 1
+        },
+        "reward_show": {
+            "11109": 1,
+            "11114": 1
+        },
         "scale_type": 0,
-        "star1_need": [0]
+        "start_dialog": 10100,
+        "terrain": "10002",
+        "time_limit": 300,
+        "type": "normal"
     }
 }

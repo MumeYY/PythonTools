@@ -1,9 +1,9 @@
 {
     "1": {
-        "id": 1,
+        "exp_b_cri": 0.05,
+        "exp_b_cri_effect": 2.0,
         "exp_cri": 0.1,
         "exp_cri_effect": 1.5,
-        "exp_b_cri": 0.05,
-        "exp_b_cri_effect": 2
+        "id": 1
     }
 }

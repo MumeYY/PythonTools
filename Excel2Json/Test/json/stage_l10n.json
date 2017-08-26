@@ -1,493 +1,473 @@
 {
-    "stage_desic1_4110000": {
-        "key": "stage_desic1_4110000",
-        "cn": "新手关"
-    },
-    "stage_desic1_4110001": {
-        "key": "stage_desic1_4110001",
-        "cn": "    驾机意外坠毁在雨林的美队，发现雨林的边缘竟然就是宇宙空间，恰逢此时又遇到了九头蛇的巡逻兵，击溃了这股部队之后，美队决定深入其中，彻底调查清楚雨林深处的秘密。"
-    },
-    "stage_desic1_4110002": {
-        "key": "stage_desic1_4110002",
-        "cn": "    一路击退蜂拥而来的九头蛇士兵，美队等人终于在雨林深处找到了潜藏于此的九头蛇秘密基地的入口。"
-    },
-    "stage_desic1_4110003": {
-        "key": "stage_desic1_4110003",
-        "cn": "    进入基地之后，却发现这个基地小得像个车辆维修厂，没有纵深，视线范围内看到的都是墙，直到美队等人找到了通往地下深处的电梯入口。"
-    },
-    "stage_desic1_4110004": {
-        "key": "stage_desic1_4110004",
-        "cn": "    急速下降的电梯是个天然的“竞技场”，蜂拥赶来的九头蛇卫兵不断地从各个楼层跳落在电梯平台上，美队们在这个拥挤的空间中坚持到了最后。"
-    },
-    "stage_desic1_4110005": {
-        "key": "stage_desic1_4110005",
-        "cn": "    基地深处是九头蛇的实验室，躲藏在光怪陆离的实验仪器之间伺机暴起伤人的是一队美队他们从未遭遇过的“士兵”。"
-    },
-    "stage_desic1_4110006": {
-        "key": "stage_desic1_4110006",
-        "cn": "    阴暗狭窄的地下通道，在无可回避的一场场战斗间歇，美队他们必须搜遍通道两侧的房间，找到通往下一层的钥匙。"
-    },
-    "stage_desic1_4110007": {
-        "key": "stage_desic1_4110007",
-        "cn": "    近在眼前的红骷髅，一反常态，竟然和美队他们玩起猫捉老鼠的游戏来。无论如何，必须紧跟着他，看看这个重要人物在这个名不见经传的基地里搞什么名堂。"
-    },
-    "stage_desic1_4110008": {
-        "key": "stage_desic1_4110008",
-        "cn": "    通道尽头出现在众人眼前的竟然是一个巨型的金库大门，看起来红骷髅已经无处可逃，除了他藏在金库中的东西，似乎还有惊喜在等着美队众人。"
-    },
-    "stage_desic1_4120101": {
-        "key": "stage_desic1_4120101",
-        "cn": "    九头蛇基地的入口，航空港的入口，突破这里就能堵住出口，包围整个九头蛇，让他们无处可逃。"
-    },
-    "stage_desic1_4120102": {
-        "key": "stage_desic1_4120102",
-        "cn": "    九头蛇基地的入口，航空港的入口，突破这里就能堵住出口，包围整个九头蛇，让他们无处可逃。"
-    },
-    "stage_desic1_4120103": {
-        "key": "stage_desic1_4120103",
-        "cn": "    九头蛇基地的入口，航空港的入口，突破这里就能堵住出口，包围整个九头蛇，让他们无处可逃。"
-    },
-    "stage_desic2_4110001": {
-        "key": "stage_desic2_4110001",
-        "cn": "第1章普通01"
-    },
-    "stage_desic2_4110002": {
-        "key": "stage_desic2_4110002",
-        "cn": "第1章普通02"
-    },
-    "stage_desic2_4110003": {
-        "key": "stage_desic2_4110003",
-        "cn": "第1章普通03"
-    },
-    "stage_desic2_4110004": {
-        "key": "stage_desic2_4110004",
-        "cn": "第1章普通04"
-    },
-    "stage_desic2_4110005": {
-        "key": "stage_desic2_4110005",
-        "cn": "第1章普通05"
-    },
-    "stage_desic2_4110006": {
-        "key": "stage_desic2_4110006"
-    },
-    "stage_desic2_4110007": {
-        "key": "stage_desic2_4110007",
-        "cn": "第1章普通07"
-    },
-    "stage_desic2_4110008": {
-        "key": "stage_desic2_4110008",
-        "cn": "第1章普通08"
-    },
-    "stage_desic2_4120101": {
-        "key": "stage_desic2_4120101",
-        "cn": "第1章精英01"
-    },
-    "stage_desic2_4120102": {
-        "key": "stage_desic2_4120102",
-        "cn": "第1章精英02"
-    },
-    "stage_desic2_4120103": {
-        "key": "stage_desic2_4120103",
-        "cn": "第1章精英03"
-    },
-    "stage_cname_101": {
-        "key": "stage_cname_101",
-        "cn": "九头蛇基地"
-    },
-    "stage_cname_102": {
-        "key": "stage_cname_102",
-        "cn": "上海岛"
-    },
-    "stage_cname_103": {
-        "key": "stage_cname_103",
-        "cn": "阿斯加德"
-    },
-    "stage_cname_104": {
-        "key": "stage_cname_104",
-        "cn": "知无之地"
-    },
-    "stage_cname_105": {
-        "key": "stage_cname_105",
-        "cn": "瓦坎达"
-    },
-    "stage_cname_106": {
-        "key": "stage_cname_106",
-        "cn": "神盾局"
-    },
-    "stage_cname_107": {
-        "key": "stage_cname_107",
-        "cn": "约顿汉姆"
-    },
-    "stage_cname_108": {
-        "key": "stage_cname_108",
-        "cn": "雷神竞技场"
-    },
-    "stage_cname_109": {
-        "key": "stage_cname_109",
-        "cn": "瓦坎达首都"
-    },
-    "stage_sname_10101": {
-        "key": "stage_sname_10101",
-        "cn": "起降平台"
-    },
-    "stage_sname_10102": {
-        "key": "stage_sname_10102",
-        "cn": "前哨站"
-    },
-    "stage_sname_10103": {
-        "key": "stage_sname_10103",
-        "cn": "基地通道2"
-    },
-    "stage_sname_10104": {
-        "key": "stage_sname_10104",
-        "cn": "基地平台1"
-    },
-    "stage_sname_10105": {
-        "key": "stage_sname_10105",
-        "cn": "基地平台2"
-    },
-    "stage_sname_10106": {
-        "key": "stage_sname_10106",
-        "cn": "基地内部1"
-    },
-    "stage_sname_10107": {
-        "key": "stage_sname_10107",
-        "cn": "基地指挥通道1"
-    },
-    "stage_sname_10108": {
-        "key": "stage_sname_10108",
-        "cn": "指挥中心"
-    },
     "Prompt_0001": {
-        "key": "Prompt_0001",
-        "cn": "Hi，该我上场了。"
+        "cn": "Hi，该我上场了。",
+        "id": "Prompt_0001"
     },
     "Prompt_0002": {
-        "key": "Prompt_0002",
-        "cn": "吼……你让我很愤怒，所以去死--吧。"
+        "cn": "吼……你让我很愤怒，所以去死--吧。",
+        "id": "Prompt_0002"
     },
     "chapter_0101": {
-        "key": "chapter_0101",
-        "cn": "没想到，在绿魔的基地里会遇到你，这趟我真应该带罗杰斯过来。"
+        "cn": "没想到，在绿魔的基地里会遇到你，这趟我真应该带罗杰斯过来。",
+        "id": "chapter_0101"
     },
     "chapter_0102": {
-        "key": "chapter_0102",
-        "cn": "我也这么想，捏碎你这个生锈的罐头简直易如反掌，毫无成就感可言。"
+        "cn": "我也这么想，捏碎你这个生锈的罐头简直易如反掌，毫无成就感可言。",
+        "id": "chapter_0102"
     },
     "chapter_0103": {
-        "key": "chapter_0103",
-        "cn": "你的吹牛皮功夫是在1945年学的吧？"
+        "cn": "你的吹牛皮功夫是在1945年学的吧？",
+        "id": "chapter_0103"
     },
     "chapter_0104": {
-        "key": "chapter_0104",
-        "cn": "不知道等你七零八落地躺到废品站的时候还会不会有现在这样的幽默感！"
-    },
-    "stage_010101": {
-        "key": "stage_010101",
-        "cn": "没想到，在绿魔的基地里会遇到你，这趟我真应该带罗杰斯过来。"
-    },
-    "stage_010102": {
-        "key": "stage_010102",
-        "cn": "我也这么想，捏碎你这个生锈的罐头简直易如反掌，毫无成就感可言。"
-    },
-    "stage_010103": {
-        "key": "stage_010103",
-        "cn": "真~是个好笑话！"
-    },
-    "stage_010104": {
-        "key": "stage_010104",
-        "cn": "你让我很生气！"
-    },
-    "stage_010105": {
-        "key": "stage_010105",
-        "cn": "不知道等你七零八落地躺到废品站的时候还会不会有现在这样的幽默感！"
-    },
-    "star_1": {
-        "key": "star_1",
-        "cn": "胜利通关关卡"
-    },
-    "star_2": {
-        "key": "star_2",
-        "cn": "通关限时剩余%s秒"
-    },
-    "star_3": {
-        "key": "star_3",
-        "cn": "英雄通关剩余血量%s%%"
-    },
-    "star_4": {
-        "key": "star_4",
-        "cn": "角色无死亡"
-    },
-    "star_5": {
-        "key": "star_5",
-        "cn": "连击数达到%s"
-    },
-    "star_6": {
-        "key": "star_6",
-        "cn": "受到伤害低于%s"
-    },
-    "star_7": {
-        "key": "star_7",
-        "cn": "守护对象剩余血量%s%%"
+        "cn": "不知道等你七零八落地躺到废品站的时候还会不会有现在这样的幽默感！",
+        "id": "chapter_0104"
     },
     "hero_1050101": {
-        "key": "hero_1050101",
-        "cn": "Your friendly neighbour here."
+        "cn": "Your friendly neighbour here.",
+        "id": "hero_1050101"
     },
     "hero_1050102": {
-        "key": "hero_1050102",
-        "cn": "Mind if I cut in?"
+        "cn": "Mind if I cut in?",
+        "id": "hero_1050102"
     },
     "hero_1050103": {
-        "key": "hero_1050103",
-        "cn": "okay, okay, I can do this."
+        "cn": "okay, okay, I can do this.",
+        "id": "hero_1050103"
     },
     "hero_1050201": {
-        "key": "hero_1050201",
-        "cn": "Whoa, am I amazing or what!"
+        "cn": "Whoa, am I amazing or what!",
+        "id": "hero_1050201"
     },
     "hero_1050202": {
-        "key": "hero_1050202",
-        "cn": "Sorry, better luck next time."
+        "cn": "Sorry, better luck next time.",
+        "id": "hero_1050202"
     },
     "hero_1050203": {
-        "key": "hero_1050203",
-        "cn": "THAT'll teach you a thing or two about responsibility."
+        "cn": "THAT'll teach you a thing or two about responsibility.",
+        "id": "hero_1050203"
     },
     "hero_1090101": {
-        "key": "hero_1090101",
-        "cn": "Avengers Assemble!"
+        "cn": "Avengers Assemble!",
+        "id": "hero_1090101"
     },
     "hero_1090102": {
-        "key": "hero_1090102",
-        "cn": "March on, soldiers!"
+        "cn": "March on, soldiers!",
+        "id": "hero_1090102"
     },
     "hero_1090103": {
-        "key": "hero_1090103",
-        "cn": "Follow my lead."
+        "cn": "Follow my lead.",
+        "id": "hero_1090103"
     },
     "hero_1090201": {
-        "key": "hero_1090201",
-        "cn": "This war ends NOW."
+        "cn": "This war ends NOW.",
+        "id": "hero_1090201"
     },
     "hero_1090202": {
-        "key": "hero_1090202",
-        "cn": "Stand down and think about why you failed, kid."
+        "cn": "Stand down and think about why you failed, kid.",
+        "id": "hero_1090202"
     },
     "hero_1090203": {
-        "key": "hero_1090203",
-        "cn": "Not bad, but you are on the wrong side of the war!"
+        "cn": "Not bad, but you are on the wrong side of the war!",
+        "id": "hero_1090203"
     },
     "hero_1100101": {
-        "key": "hero_1100101",
-        "cn": "The doctor will see you now."
+        "cn": "The doctor will see you now.",
+        "id": "hero_1100101"
     },
     "hero_1100102": {
-        "key": "hero_1100102",
-        "cn": "I have little patience to mortals' matter."
+        "cn": "I have little patience to mortals' matter.",
+        "id": "hero_1100102"
     },
     "hero_1100103": {
-        "key": "hero_1100103",
-        "cn": "Foul spirits, be gone!"
+        "cn": "Foul spirits, be gone!",
+        "id": "hero_1100103"
     },
     "hero_1100201": {
-        "key": "hero_1100201",
-        "cn": "Open your eyes to the universe!"
+        "cn": "Open your eyes to the universe!",
+        "id": "hero_1100201"
     },
     "hero_1100202": {
-        "key": "hero_1100202",
-        "cn": "You have much to learn."
+        "cn": "You have much to learn.",
+        "id": "hero_1100202"
     },
     "hero_1100203": {
-        "key": "hero_1100203",
-        "cn": "Let me know if you need a prescription when you wake up."
+        "cn": "Let me know if you need a prescription when you wake up.",
+        "id": "hero_1100203"
     },
-    "task_name_10001": {
-        "key": "task_name_10001",
-        "cn": "The Madripoor Insident"
+    "stage_010101": {
+        "cn": "没想到，在绿魔的基地里会遇到你，这趟我真应该带罗杰斯过来。",
+        "id": "stage_010101"
     },
-    "task_name_10002": {
-        "key": "task_name_10002",
-        "cn": "The Madripoor Insident"
+    "stage_010102": {
+        "cn": "我也这么想，捏碎你这个生锈的罐头简直易如反掌，毫无成就感可言。",
+        "id": "stage_010102"
     },
-    "task_name_10003": {
-        "key": "task_name_10003",
-        "cn": "Track Hydra forces"
+    "stage_010103": {
+        "cn": "真~是个好笑话！",
+        "id": "stage_010103"
     },
-    "task_name_10004": {
-        "key": "task_name_10004",
-        "cn": "Track Hydra forces"
+    "stage_010104": {
+        "cn": "你让我很生气！",
+        "id": "stage_010104"
     },
-    "task_name_10005": {
-        "key": "task_name_10005",
-        "cn": "Track Hydra forces"
+    "stage_010105": {
+        "cn": "不知道等你七零八落地躺到废品站的时候还会不会有现在这样的幽默感！",
+        "id": "stage_010105"
     },
-    "task_name_10006": {
-        "key": "task_name_10006",
-        "cn": "Attack Hydra Base"
+    "stage_cname_101": {
+        "cn": "九头蛇基地",
+        "id": "stage_cname_101"
     },
-    "task_name_10007": {
-        "key": "task_name_10007",
-        "cn": "Attack Hydra Base"
+    "stage_cname_102": {
+        "cn": "上海岛",
+        "id": "stage_cname_102"
     },
-    "task_des_10001": {
-        "key": "task_des_10001",
-        "cn": "Return to Manhattan"
+    "stage_cname_103": {
+        "cn": "阿斯加德",
+        "id": "stage_cname_103"
     },
-    "task_des_10002": {
-        "key": "task_des_10002",
-        "cn": "fly to S.H.I.E.L.D"
+    "stage_cname_104": {
+        "cn": "知无之地",
+        "id": "stage_cname_104"
     },
-    "task_des_10003": {
-        "key": "task_des_10003",
-        "cn": "Go to the Avengers Tower"
+    "stage_cname_105": {
+        "cn": "瓦坎达",
+        "id": "stage_cname_105"
     },
-    "task_des_10004": {
-        "key": "task_des_10004",
-        "cn": "Go to Sanctum Sanctorum"
+    "stage_cname_106": {
+        "cn": "神盾局",
+        "id": "stage_cname_106"
     },
-    "task_des_10005": {
-        "key": "task_des_10005",
-        "cn": "locate Hydra base"
+    "stage_cname_107": {
+        "cn": "约顿汉姆",
+        "id": "stage_cname_107"
     },
-    "task_des_10006": {
-        "key": "task_des_10006",
-        "cn": "locate Hydra base"
+    "stage_cname_108": {
+        "cn": "雷神竞技场",
+        "id": "stage_cname_108"
     },
-    "task_des_10007": {
-        "key": "task_des_10007",
-        "cn": " attack and occupy it"
+    "stage_cname_109": {
+        "cn": "瓦坎达首都",
+        "id": "stage_cname_109"
     },
-    "task10001_1": {
-        "key": "task10001_1",
-        "cn": "COMMANDER,
-REPORT TO TRISKILION RIGHT THIS MOMENT, "
+    "stage_desic1_4110000": {
+        "cn": "新手关",
+        "id": "stage_desic1_4110000"
     },
-    "task10001_2": {
-        "key": "task10001_2",
-        "cn": "AND HELP ME UNDERSTAND HOW DID YOU LET MADAME HYDRA GET AWAY A SECOND TIME!"
+    "stage_desic1_4110001": {
+        "cn": "    驾机意外坠毁在雨林的美队，发现雨林的边缘竟然就是宇宙空间，恰逢此时又遇到了九头蛇的巡逻兵，击溃了这股部队之后，美队决定深入其中，彻底调查清楚雨林深处的秘密。",
+        "id": "stage_desic1_4110001"
     },
-    "task10001_3": {
-        "key": "task10001_3",
-        "cn": "YIKES.
- BUT ON THE BRIGHT SIDE, COMMANDER,"
+    "stage_desic1_4110002": {
+        "cn": "    一路击退蜂拥而来的九头蛇士兵，美队等人终于在雨林深处找到了潜藏于此的九头蛇秘密基地的入口。",
+        "id": "stage_desic1_4110002"
     },
-    "task10001_4": {
-        "key": "task10001_4",
-        "cn": "I WAS JUST 
-INFORMED BY THE R&D BOYS THAT THE UPGRADE IS READY. "
+    "stage_desic1_4110003": {
+        "cn": "    进入基地之后，却发现这个基地小得像个车辆维修厂，没有纵深，视线范围内看到的都是墙，直到美队等人找到了通往地下深处的电梯入口。",
+        "id": "stage_desic1_4110003"
     },
-    "task10001_5": {
-        "key": "task10001_5",
-        "cn": "SWING BY THE AVENGERS TOWER, I'LL SHOW YOU… IF YOU SURIVIVED DIRECTOR FURY ;P"
+    "stage_desic1_4110004": {
+        "cn": "    急速下降的电梯是个天然的“竞技场”，蜂拥赶来的九头蛇卫兵不断地从各个楼层跳落在电梯平台上，美队们在这个拥挤的空间中坚持到了最后。",
+        "id": "stage_desic1_4110004"
     },
-    "task10002_1": {
-        "key": "task10002_1",
-        "cn": "SIR, WHAT 
-HAPPENED IN MADRIPOOR WAS MORE COMPLICATED THAN WE WERE LET TO BELIEVE, AND THE HAND…"
+    "stage_desic1_4110005": {
+        "cn": "    基地深处是九头蛇的实验室，躲藏在光怪陆离的实验仪器之间伺机暴起伤人的是一队美队他们从未遭遇过的“士兵”。",
+        "id": "stage_desic1_4110005"
     },
-    "task10002_2": {
-        "key": "task10002_2",
-        "cn": "…WAS NOT THE PRIORITY. AND DID YOU AT LEAST MANAGED A GOOD LOOK ON THE TENTICLES?"
+    "stage_desic1_4110006": {
+        "cn": "    阴暗狭窄的地下通道，在无可回避的一场场战斗间歇，美队他们必须搜遍通道两侧的房间，找到通往下一层的钥匙。",
+        "id": "stage_desic1_4110006"
     },
-    "task10002_3": {
-        "key": "task10002_3",
-        "cn": "YES 
-AND I WISHED
-I HAD A SOLID BODY JUST SO I CAN WASH MY EYES"
+    "stage_desic1_4110007": {
+        "cn": "    近在眼前的红骷髅，一反常态，竟然和美队他们玩起猫捉老鼠的游戏来。无论如何，必须紧跟着他，看看这个重要人物在这个名不见经传的基地里搞什么名堂。",
+        "id": "stage_desic1_4110007"
     },
-    "task10002_4": {
-        "key": "task10002_4",
-        "cn": " :S 
-I'VE BEEN TRACKING BUT THE SIGNAL HAD BEEN FADING IN AND OUT."
+    "stage_desic1_4110008": {
+        "cn": "    通道尽头出现在众人眼前的竟然是一个巨型的金库大门，看起来红骷髅已经无处可逃，除了他藏在金库中的东西，似乎还有惊喜在等着美队众人。",
+        "id": "stage_desic1_4110008"
     },
-    "task10002_5": {
-        "key": "task10002_5",
-        "cn": "THEN LET'S GET MOVING, LADIES."
+    "stage_desic1_4120101": {
+        "cn": "    九头蛇基地的入口，航空港的入口，突破这里就能堵住出口，包围整个九头蛇，让他们无处可逃。",
+        "id": "stage_desic1_4120101"
     },
-    "task10002_6": {
-        "key": "task10002_6",
-        "cn": "SMELLS LIKE A TRAP, 'S ALL I'M SAYING."
+    "stage_desic1_4120102": {
+        "cn": "    九头蛇基地的入口，航空港的入口，突破这里就能堵住出口，包围整个九头蛇，让他们无处可逃。",
+        "id": "stage_desic1_4120102"
     },
-    "task10002_7": {
-        "key": "task10002_7",
-        "cn": "WHICH IS WHY I'M LENDING THE ARK TO YOU THIS TIME, JUNIOR. TAKE CARE OF HER FOR ME."
+    "stage_desic1_4120103": {
+        "cn": "    九头蛇基地的入口，航空港的入口，突破这里就能堵住出口，包围整个九头蛇，让他们无处可逃。",
+        "id": "stage_desic1_4120103"
     },
-    "task10003_1": {
-        "key": "task10003_1",
-        "cn": "OKAY,
-THE AMPLIFIER IS NOW OPERATIONAL, COMMANDER. "
+    "stage_desic2_4110001": {
+        "cn": "第1章普通01",
+        "id": "stage_desic2_4110001"
     },
-    "task10003_2": {
-        "key": "task10003_2",
-        "cn": "YOU CAN ACCESS IT ANYTIME VIA YOUR ONBOARD INTERFACE."
+    "stage_desic2_4110002": {
+        "cn": "第1章普通02",
+        "id": "stage_desic2_4110002"
     },
-    "task10003_3": {
-        "key": "task10003_3",
-        "cn": "THAT SHOULD
-BE ALL FOR NOW, COMMANDER, SHALL WE CATCH UP WITH THE DIRECTOR?"
+    "stage_desic2_4110003": {
+        "cn": "第1章普通03",
+        "id": "stage_desic2_4110003"
     },
-    "task10003_4": {
-        "key": "task10003_4",
-        "cn": "ACTUALLY,
-I AGREE WITH SPIDER-MAN."
+    "stage_desic2_4110004": {
+        "cn": "第1章普通04",
+        "id": "stage_desic2_4110004"
     },
-    "task10003_5": {
-        "key": "task10003_5",
-        "cn": "I'D LIKE TO MAKE A RECRUITMENT STOP BEFORE FLYING OFF.JUST TO BE SAFE."
+    "stage_desic2_4110005": {
+        "cn": "第1章普通05",
+        "id": "stage_desic2_4110005"
     },
-    "task10003_6": {
-        "key": "task10003_6",
-        "cn": "PLEASE SAY 
-HOWARD THE DUCK, PLEASE SAY HOWARD THE DUCK!"
+    "stage_desic2_4110006": {
+        "id": "stage_desic2_4110006"
     },
-    "task10004_1": {
-        "key": "task10004_1",
-        "cn": "GREETINGS, 
-HEROES. BUT I'M AFRAID YOU NEED TO MAKE AN APPOINTMENT TO SEE THE DOCTOR."
+    "stage_desic2_4110007": {
+        "cn": "第1章普通07",
+        "id": "stage_desic2_4110007"
     },
-    "task10004_2": {
-        "key": "task10004_2",
-        "cn": "……………………………"
+    "stage_desic2_4110008": {
+        "cn": "第1章普通08",
+        "id": "stage_desic2_4110008"
     },
-    "task10004_3": {
-        "key": "task10004_3",
-        "cn": "……………………………"
+    "stage_desic2_4120101": {
+        "cn": "第1章精英01",
+        "id": "stage_desic2_4120101"
     },
-    "task10004_4": {
-        "key": "task10004_4",
-        "cn": "I'M JOKING, 
-I DO HAVE A SENSE OF HUMOR TOO, YOU KNOW."
+    "stage_desic2_4120102": {
+        "cn": "第1章精英02",
+        "id": "stage_desic2_4120102"
     },
-    "task10004_5": {
-        "key": "task10004_5",
-        "cn": "SURE YOU DO. 
-JUST LIKE I'M THE SILENT AND MATURE ONE IN THE GROUP."
+    "stage_desic2_4120103": {
+        "cn": "第1章精英03",
+        "id": "stage_desic2_4120103"
     },
-    "task10004_6": {
-        "key": "task10004_6",
-        "cn": "CAPTAIN. 
-SPIDER-MAN. 
-I'VE BEEN EXPECTING YOU."
+    "stage_sname_10101": {
+        "cn": "起降平台",
+        "id": "stage_sname_10101"
     },
-    "task10004_7": {
-        "key": "task10004_7",
-        "cn": "DOC, WE NEED YOUR HELP…"
+    "stage_sname_10102": {
+        "cn": "前哨站",
+        "id": "stage_sname_10102"
     },
-    "task10006_1": {
-        "key": "task10006_1",
-        "cn": "THE FOLLOWING
-LEVELS ARE A STAND-ALONG VERTICAL-SLICE TAILORED FOR THIS BUILD ONLY, "
+    "stage_sname_10103": {
+        "cn": "基地通道2",
+        "id": "stage_sname_10103"
     },
-    "task10006_2": {
-        "key": "task10006_2",
-        "cn": "IT DOES NOT 
-REFLECT THE ACTUAL STORYLINE. MORE POLISHED PLAYTHROGH WILL BE AVAILABLE IN FUTURE BUILDS :)"
+    "stage_sname_10104": {
+        "cn": "基地平台1",
+        "id": "stage_sname_10104"
+    },
+    "stage_sname_10105": {
+        "cn": "基地平台2",
+        "id": "stage_sname_10105"
+    },
+    "stage_sname_10106": {
+        "cn": "基地内部1",
+        "id": "stage_sname_10106"
+    },
+    "stage_sname_10107": {
+        "cn": "基地指挥通道1",
+        "id": "stage_sname_10107"
+    },
+    "stage_sname_10108": {
+        "cn": "指挥中心",
+        "id": "stage_sname_10108"
+    },
+    "star_1": {
+        "cn": "胜利通关关卡",
+        "id": "star_1"
+    },
+    "star_2": {
+        "cn": "通关限时剩余%s秒",
+        "id": "star_2"
+    },
+    "star_3": {
+        "cn": "英雄通关剩余血量%s%%",
+        "id": "star_3"
+    },
+    "star_4": {
+        "cn": "角色无死亡",
+        "id": "star_4"
+    },
+    "star_5": {
+        "cn": "连击数达到%s",
+        "id": "star_5"
+    },
+    "star_6": {
+        "cn": "受到伤害低于%s",
+        "id": "star_6"
+    },
+    "star_7": {
+        "cn": "守护对象剩余血量%s%%",
+        "id": "star_7"
     },
     "subtitle_1": {
-        "key": "subtitle_1",
-        "cn": "Intels gathered from the Wakanda & Madripoor incidents led the team to a coordinate not far from Manhattan,
-where the Helicarrier was ambushed by Hydra destroyers.
-The commander's Quinjet managed to fight through, the fortress emerged ahead was like nothing they anticipated..."
+        "cn": "Intels gathered from the Wakanda & Madripoor incidents led the team to a coordinate not far from Manhattan,\nwhere the Helicarrier was ambushed by Hydra destroyers.\nThe commander's Quinjet managed to fight through, the fortress emerged ahead was like nothing they anticipated...",
+        "id": "subtitle_1"
+    },
+    "task10001_1": {
+        "cn": "COMMANDER,\nREPORT TO TRISKILION RIGHT THIS MOMENT, ",
+        "id": "task10001_1"
+    },
+    "task10001_2": {
+        "cn": "AND HELP ME UNDERSTAND HOW DID YOU LET MADAME HYDRA GET AWAY A SECOND TIME!",
+        "id": "task10001_2"
+    },
+    "task10001_3": {
+        "cn": "YIKES.\n BUT ON THE BRIGHT SIDE, COMMANDER,",
+        "id": "task10001_3"
+    },
+    "task10001_4": {
+        "cn": "I WAS JUST \nINFORMED BY THE R&D BOYS THAT THE UPGRADE IS READY. ",
+        "id": "task10001_4"
+    },
+    "task10001_5": {
+        "cn": "SWING BY THE AVENGERS TOWER, I'LL SHOW YOU… IF YOU SURIVIVED DIRECTOR FURY ;P",
+        "id": "task10001_5"
+    },
+    "task10002_1": {
+        "cn": "SIR, WHAT \nHAPPENED IN MADRIPOOR WAS MORE COMPLICATED THAN WE WERE LET TO BELIEVE, AND THE HAND…",
+        "id": "task10002_1"
+    },
+    "task10002_2": {
+        "cn": "…WAS NOT THE PRIORITY. AND DID YOU AT LEAST MANAGED A GOOD LOOK ON THE TENTICLES?",
+        "id": "task10002_2"
+    },
+    "task10002_3": {
+        "cn": "YES \nAND I WISHED\nI HAD A SOLID BODY JUST SO I CAN WASH MY EYES",
+        "id": "task10002_3"
+    },
+    "task10002_4": {
+        "cn": " :S \nI'VE BEEN TRACKING BUT THE SIGNAL HAD BEEN FADING IN AND OUT.",
+        "id": "task10002_4"
+    },
+    "task10002_5": {
+        "cn": "THEN LET'S GET MOVING, LADIES.",
+        "id": "task10002_5"
+    },
+    "task10002_6": {
+        "cn": "SMELLS LIKE A TRAP, 'S ALL I'M SAYING.",
+        "id": "task10002_6"
+    },
+    "task10002_7": {
+        "cn": "WHICH IS WHY I'M LENDING THE ARK TO YOU THIS TIME, JUNIOR. TAKE CARE OF HER FOR ME.",
+        "id": "task10002_7"
+    },
+    "task10003_1": {
+        "cn": "OKAY,\nTHE AMPLIFIER IS NOW OPERATIONAL, COMMANDER. ",
+        "id": "task10003_1"
+    },
+    "task10003_2": {
+        "cn": "YOU CAN ACCESS IT ANYTIME VIA YOUR ONBOARD INTERFACE.",
+        "id": "task10003_2"
+    },
+    "task10003_3": {
+        "cn": "THAT SHOULD\nBE ALL FOR NOW, COMMANDER, SHALL WE CATCH UP WITH THE DIRECTOR?",
+        "id": "task10003_3"
+    },
+    "task10003_4": {
+        "cn": "ACTUALLY,\nI AGREE WITH SPIDER-MAN.",
+        "id": "task10003_4"
+    },
+    "task10003_5": {
+        "cn": "I'D LIKE TO MAKE A RECRUITMENT STOP BEFORE FLYING OFF.JUST TO BE SAFE.",
+        "id": "task10003_5"
+    },
+    "task10003_6": {
+        "cn": "PLEASE SAY \nHOWARD THE DUCK, PLEASE SAY HOWARD THE DUCK!",
+        "id": "task10003_6"
+    },
+    "task10004_1": {
+        "cn": "GREETINGS, \nHEROES. BUT I'M AFRAID YOU NEED TO MAKE AN APPOINTMENT TO SEE THE DOCTOR.",
+        "id": "task10004_1"
+    },
+    "task10004_2": {
+        "cn": "……………………………",
+        "id": "task10004_2"
+    },
+    "task10004_3": {
+        "cn": "……………………………",
+        "id": "task10004_3"
+    },
+    "task10004_4": {
+        "cn": "I'M JOKING, \nI DO HAVE A SENSE OF HUMOR TOO, YOU KNOW.",
+        "id": "task10004_4"
+    },
+    "task10004_5": {
+        "cn": "SURE YOU DO. \nJUST LIKE I'M THE SILENT AND MATURE ONE IN THE GROUP.",
+        "id": "task10004_5"
+    },
+    "task10004_6": {
+        "cn": "CAPTAIN. \nSPIDER-MAN. \nI'VE BEEN EXPECTING YOU.",
+        "id": "task10004_6"
+    },
+    "task10004_7": {
+        "cn": "DOC, WE NEED YOUR HELP…",
+        "id": "task10004_7"
+    },
+    "task10006_1": {
+        "cn": "THE FOLLOWING\nLEVELS ARE A STAND-ALONG VERTICAL-SLICE TAILORED FOR THIS BUILD ONLY, ",
+        "id": "task10006_1"
+    },
+    "task10006_2": {
+        "cn": "IT DOES NOT \nREFLECT THE ACTUAL STORYLINE. MORE POLISHED PLAYTHROGH WILL BE AVAILABLE IN FUTURE BUILDS :)",
+        "id": "task10006_2"
+    },
+    "task_des_10001": {
+        "cn": "Return to Manhattan",
+        "id": "task_des_10001"
+    },
+    "task_des_10002": {
+        "cn": "fly to S.H.I.E.L.D",
+        "id": "task_des_10002"
+    },
+    "task_des_10003": {
+        "cn": "Go to the Avengers Tower",
+        "id": "task_des_10003"
+    },
+    "task_des_10004": {
+        "cn": "Go to Sanctum Sanctorum",
+        "id": "task_des_10004"
+    },
+    "task_des_10005": {
+        "cn": "locate Hydra base",
+        "id": "task_des_10005"
+    },
+    "task_des_10006": {
+        "cn": "locate Hydra base",
+        "id": "task_des_10006"
+    },
+    "task_des_10007": {
+        "cn": " attack and occupy it",
+        "id": "task_des_10007"
+    },
+    "task_name_10001": {
+        "cn": "The Madripoor Insident",
+        "id": "task_name_10001"
+    },
+    "task_name_10002": {
+        "cn": "The Madripoor Insident",
+        "id": "task_name_10002"
+    },
+    "task_name_10003": {
+        "cn": "Track Hydra forces",
+        "id": "task_name_10003"
+    },
+    "task_name_10004": {
+        "cn": "Track Hydra forces",
+        "id": "task_name_10004"
+    },
+    "task_name_10005": {
+        "cn": "Track Hydra forces",
+        "id": "task_name_10005"
+    },
+    "task_name_10006": {
+        "cn": "Attack Hydra Base",
+        "id": "task_name_10006"
+    },
+    "task_name_10007": {
+        "cn": "Attack Hydra Base",
+        "id": "task_name_10007"
     }
 }

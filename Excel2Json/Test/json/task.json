@@ -1,77 +1,140 @@
 {
     "10001": {
+        "description": "task_des_10001",
+        "destination": [
+            "1",
+            "442",
+            "-229"
+        ],
+        "event": [
+            "1",
+            "10001"
+        ],
+        "finish_need": [
+            "1",
+            "10001"
+        ],
         "id": 10001,
         "name": "task_name_10001",
-        "description": "task_des_10001",
-        "type": "1",
-        "finish_need": ["1", "10001"],
+        "need_guide": 1,
         "next_task": 10002,
-        "destination": ["1", "442", "-229"],
-        "event": ["1", "10001"],
-        "need_guide": 1
+        "type": "1"
     },
     "10002": {
+        "description": "task_des_10002",
+        "destination": [
+            "1",
+            "291",
+            "-244"
+        ],
+        "event": [
+            "1",
+            "10002"
+        ],
+        "finish_need": [
+            "1",
+            "10002"
+        ],
         "id": 10002,
         "name": "task_name_10002",
-        "description": "task_des_10002",
-        "type": "1",
-        "finish_need": ["1", "10002"],
+        "need_guide": 1,
         "next_task": 10003,
-        "destination": ["1", "291", "-244"],
-        "event": ["1", "10002"],
-        "need_guide": 1
+        "type": "1"
     },
     "10003": {
+        "description": "task_des_10003",
+        "destination": [
+            "1",
+            "280",
+            "-313"
+        ],
+        "event": [
+            "1",
+            "10003"
+        ],
+        "finish_need": [
+            "1",
+            "10003"
+        ],
         "id": 10003,
         "name": "task_name_10003",
-        "description": "task_des_10003",
-        "type": "1",
-        "finish_need": ["1", "10003"],
+        "need_guide": 1,
         "next_task": 10004,
-        "destination": ["1", "280", "-313"],
-        "event": ["1", "10003"],
-        "need_guide": 1
+        "type": "1"
     },
     "10004": {
+        "description": "task_des_10004",
+        "destination": [
+            "1",
+            "353",
+            "-274"
+        ],
+        "event": [
+            "1",
+            "10004"
+        ],
+        "finish_need": [
+            "1",
+            "10004"
+        ],
         "id": 10004,
         "name": "task_name_10004",
-        "description": "task_des_10004",
-        "type": "1",
-        "finish_need": ["1", "10004"],
-        "reward": 110,
+        "need_guide": 1,
         "next_task": 10005,
-        "destination": ["1", "353", "-274"],
-        "event": ["1", "10004"],
-        "need_guide": 1
+        "reward": 110,
+        "type": "1"
     },
     "10005": {
+        "description": "task_des_10005",
+        "destination": [
+            "1",
+            "53",
+            "98"
+        ],
+        "event": [
+            "2",
+            "subtitle_1"
+        ],
+        "finish_need": [
+            "1",
+            "53",
+            "98"
+        ],
         "id": 10005,
         "name": "task_name_10005",
-        "description": "task_des_10005",
-        "type": "1",
-        "finish_need": ["1", "53", "98"],
+        "need_guide": 1,
         "next_task": 10006,
-        "destination": ["1", "53", "98"],
-        "event": ["2", "subtitle_1"],
-        "need_guide": 1
+        "type": "1"
     },
     "10006": {
+        "description": "task_des_10006",
+        "destination": [
+            "2",
+            "island_B1"
+        ],
+        "event": [
+            "1",
+            "10006"
+        ],
+        "finish_need": [
+            "2",
+            "island_B1"
+        ],
         "id": 10006,
         "name": "task_name_10006",
-        "description": "task_des_10006",
-        "type": "1",
-        "finish_need": ["2", "island_B1"],
+        "need_guide": 1,
         "next_task": 10007,
-        "destination": ["2", "island_B1"],
-        "event": ["1", "10006"],
-        "need_guide": 1
+        "type": "1"
     },
     "10007": {
+        "description": "task_des_10007",
+        "destination": [
+            "2",
+            "island_B1"
+        ],
         "id": 10007,
         "name": "task_name_10007",
-        "description": "task_des_10007",
-        "type": "1",
-        "destination": ["2", "island_B1"],
-        "need_guide": 0
+        "need_guide": 0,
+        "type": "1"
     }
 }

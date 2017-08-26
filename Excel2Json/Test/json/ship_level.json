@@ -1,707 +1,713 @@
 {
-    "1": {
-        "level": 1,
-        "exp": 100,
-        "max_energy": 60,
-        "add_energy": 10,
-        "max_hero_level": 10,
-        "unlock_system": [11, 12, 13]
-    },
-    "2": {
-        "level": 2,
-        "exp": 100,
-        "max_energy": 61,
-        "add_energy": 11,
-        "max_hero_level": 10,
-        "unlock_system": [14]
-    },
-    "3": {
-        "level": 3,
-        "exp": 100,
-        "max_energy": 62,
-        "add_energy": 12,
-        "max_hero_level": 11,
-        "unlock_system": [15]
-    },
     "4": {
-        "level": 4,
-        "exp": 100,
-        "max_energy": 63,
         "add_energy": 13,
-        "max_hero_level": 11,
-        "unlock_system": [16]
+        "exp": 100,
+        "id": 4,
+        "max_energy": 63,
+        "max_hero_level": 11
     },
     "5": {
-        "level": 5,
-        "exp": 100,
-        "max_energy": 64,
         "add_energy": 14,
-        "max_hero_level": 12,
-        "unlock_system": [17]
+        "exp": 100,
+        "id": 5,
+        "max_energy": 64,
+        "max_hero_level": 12
     },
     "6": {
-        "level": 6,
-        "exp": 100,
-        "max_energy": 65,
         "add_energy": 15,
+        "exp": 100,
+        "id": 6,
+        "max_energy": 65,
         "max_hero_level": 12
     },
     "7": {
-        "level": 7,
-        "exp": 100,
-        "max_energy": 66,
         "add_energy": 16,
+        "exp": 100,
+        "id": 7,
+        "max_energy": 66,
         "max_hero_level": 13
     },
     "8": {
-        "level": 8,
-        "exp": 100,
-        "max_energy": 67,
         "add_energy": 17,
+        "exp": 100,
+        "id": 8,
+        "max_energy": 67,
         "max_hero_level": 13
     },
     "9": {
-        "level": 9,
-        "exp": 100,
-        "max_energy": 68,
         "add_energy": 18,
+        "exp": 100,
+        "id": 9,
+        "max_energy": 68,
         "max_hero_level": 14
     },
     "10": {
-        "level": 10,
-        "exp": 100,
-        "max_energy": 69,
         "add_energy": 19,
+        "exp": 100,
+        "id": 10,
+        "max_energy": 69,
         "max_hero_level": 14
     },
     "11": {
-        "level": 11,
-        "exp": 100,
-        "max_energy": 70,
         "add_energy": 20,
+        "exp": 100,
+        "id": 11,
+        "max_energy": 70,
         "max_hero_level": 15
     },
     "12": {
-        "level": 12,
-        "exp": 100,
-        "max_energy": 71,
         "add_energy": 21,
+        "exp": 100,
+        "id": 12,
+        "max_energy": 71,
         "max_hero_level": 15
     },
     "13": {
-        "level": 13,
-        "exp": 100,
-        "max_energy": 72,
         "add_energy": 22,
+        "exp": 100,
+        "id": 13,
+        "max_energy": 72,
         "max_hero_level": 16
     },
     "14": {
-        "level": 14,
-        "exp": 100,
-        "max_energy": 73,
         "add_energy": 23,
+        "exp": 100,
+        "id": 14,
+        "max_energy": 73,
         "max_hero_level": 16
     },
     "15": {
-        "level": 15,
-        "exp": 100,
-        "max_energy": 74,
         "add_energy": 24,
+        "exp": 100,
+        "id": 15,
+        "max_energy": 74,
         "max_hero_level": 17
     },
     "16": {
-        "level": 16,
-        "exp": 100,
-        "max_energy": 75,
         "add_energy": 25,
+        "exp": 100,
+        "id": 16,
+        "max_energy": 75,
         "max_hero_level": 17
     },
     "17": {
-        "level": 17,
-        "exp": 100,
-        "max_energy": 76,
         "add_energy": 26,
+        "exp": 100,
+        "id": 17,
+        "max_energy": 76,
         "max_hero_level": 17
     },
     "18": {
-        "level": 18,
-        "exp": 100,
-        "max_energy": 77,
         "add_energy": 27,
+        "exp": 100,
+        "id": 18,
+        "max_energy": 77,
         "max_hero_level": 18
     },
     "19": {
-        "level": 19,
-        "exp": 100,
-        "max_energy": 78,
         "add_energy": 28,
+        "exp": 100,
+        "id": 19,
+        "max_energy": 78,
         "max_hero_level": 19
     },
     "20": {
-        "level": 20,
-        "exp": 100,
-        "max_energy": 79,
         "add_energy": 29,
+        "exp": 100,
+        "id": 20,
+        "max_energy": 79,
         "max_hero_level": 20
     },
     "21": {
-        "level": 21,
-        "exp": 100,
-        "max_energy": 80,
         "add_energy": 30,
+        "exp": 100,
+        "id": 21,
+        "max_energy": 80,
         "max_hero_level": 21
     },
     "22": {
-        "level": 22,
-        "exp": 100,
-        "max_energy": 81,
         "add_energy": 31,
+        "exp": 100,
+        "id": 22,
+        "max_energy": 81,
         "max_hero_level": 22
     },
     "23": {
-        "level": 23,
-        "exp": 100,
-        "max_energy": 82,
         "add_energy": 32,
+        "exp": 100,
+        "id": 23,
+        "max_energy": 82,
         "max_hero_level": 23
     },
     "24": {
-        "level": 24,
-        "exp": 100,
-        "max_energy": 83,
         "add_energy": 33,
+        "exp": 100,
+        "id": 24,
+        "max_energy": 83,
         "max_hero_level": 24
     },
     "25": {
-        "level": 25,
-        "exp": 100,
-        "max_energy": 84,
         "add_energy": 34,
+        "exp": 100,
+        "id": 25,
+        "max_energy": 84,
         "max_hero_level": 25
     },
     "26": {
-        "level": 26,
-        "exp": 100,
-        "max_energy": 85,
         "add_energy": 35,
+        "exp": 100,
+        "id": 26,
+        "max_energy": 85,
         "max_hero_level": 26
     },
     "27": {
-        "level": 27,
-        "exp": 100,
-        "max_energy": 86,
         "add_energy": 36,
+        "exp": 100,
+        "id": 27,
+        "max_energy": 86,
         "max_hero_level": 27
     },
     "28": {
-        "level": 28,
-        "exp": 100,
-        "max_energy": 87,
         "add_energy": 37,
+        "exp": 100,
+        "id": 28,
+        "max_energy": 87,
         "max_hero_level": 28
     },
     "29": {
-        "level": 29,
-        "exp": 100,
-        "max_energy": 88,
         "add_energy": 38,
+        "exp": 100,
+        "id": 29,
+        "max_energy": 88,
         "max_hero_level": 29
     },
     "30": {
-        "level": 30,
-        "exp": 100,
-        "max_energy": 89,
         "add_energy": 39,
+        "exp": 100,
+        "id": 30,
+        "max_energy": 89,
         "max_hero_level": 30
     },
     "31": {
-        "level": 31,
-        "exp": 100,
-        "max_energy": 90,
         "add_energy": 40,
+        "exp": 100,
+        "id": 31,
+        "max_energy": 90,
         "max_hero_level": 31
     },
     "32": {
-        "level": 32,
-        "exp": 100,
-        "max_energy": 91,
         "add_energy": 41,
+        "exp": 100,
+        "id": 32,
+        "max_energy": 91,
         "max_hero_level": 32
     },
     "33": {
-        "level": 33,
-        "exp": 100,
-        "max_energy": 92,
         "add_energy": 42,
+        "exp": 100,
+        "id": 33,
+        "max_energy": 92,
         "max_hero_level": 33
     },
     "34": {
-        "level": 34,
-        "exp": 100,
-        "max_energy": 93,
         "add_energy": 43,
+        "exp": 100,
+        "id": 34,
+        "max_energy": 93,
         "max_hero_level": 34
     },
     "35": {
-        "level": 35,
-        "exp": 100,
-        "max_energy": 94,
         "add_energy": 44,
+        "exp": 100,
+        "id": 35,
+        "max_energy": 94,
         "max_hero_level": 35
     },
     "36": {
-        "level": 36,
-        "exp": 100,
-        "max_energy": 95,
         "add_energy": 45,
+        "exp": 100,
+        "id": 36,
+        "max_energy": 95,
         "max_hero_level": 36
     },
     "37": {
-        "level": 37,
-        "exp": 100,
-        "max_energy": 96,
         "add_energy": 46,
+        "exp": 100,
+        "id": 37,
+        "max_energy": 96,
         "max_hero_level": 37
     },
     "38": {
-        "level": 38,
-        "exp": 100,
-        "max_energy": 97,
         "add_energy": 47,
+        "exp": 100,
+        "id": 38,
+        "max_energy": 97,
         "max_hero_level": 38
     },
     "39": {
-        "level": 39,
-        "exp": 100,
-        "max_energy": 98,
         "add_energy": 48,
+        "exp": 100,
+        "id": 39,
+        "max_energy": 98,
         "max_hero_level": 39
     },
     "40": {
-        "level": 40,
-        "exp": 100,
-        "max_energy": 99,
         "add_energy": 49,
+        "exp": 100,
+        "id": 40,
+        "max_energy": 99,
         "max_hero_level": 40
     },
     "41": {
-        "level": 41,
-        "exp": 100,
-        "max_energy": 100,
         "add_energy": 50,
+        "exp": 100,
+        "id": 41,
+        "max_energy": 100,
         "max_hero_level": 41
     },
     "42": {
-        "level": 42,
-        "exp": 100,
-        "max_energy": 101,
         "add_energy": 51,
+        "exp": 100,
+        "id": 42,
+        "max_energy": 101,
         "max_hero_level": 42
     },
     "43": {
-        "level": 43,
-        "exp": 100,
-        "max_energy": 102,
         "add_energy": 52,
+        "exp": 100,
+        "id": 43,
+        "max_energy": 102,
         "max_hero_level": 43
     },
     "44": {
-        "level": 44,
-        "exp": 100,
-        "max_energy": 103,
         "add_energy": 53,
+        "exp": 100,
+        "id": 44,
+        "max_energy": 103,
         "max_hero_level": 44
     },
     "45": {
-        "level": 45,
-        "exp": 100,
-        "max_energy": 104,
         "add_energy": 54,
+        "exp": 100,
+        "id": 45,
+        "max_energy": 104,
         "max_hero_level": 45
     },
     "46": {
-        "level": 46,
-        "exp": 100,
-        "max_energy": 105,
         "add_energy": 55,
+        "exp": 100,
+        "id": 46,
+        "max_energy": 105,
         "max_hero_level": 46
     },
     "47": {
-        "level": 47,
-        "exp": 100,
-        "max_energy": 106,
         "add_energy": 56,
+        "exp": 100,
+        "id": 47,
+        "max_energy": 106,
         "max_hero_level": 47
     },
     "48": {
-        "level": 48,
-        "exp": 100,
-        "max_energy": 107,
         "add_energy": 57,
+        "exp": 100,
+        "id": 48,
+        "max_energy": 107,
         "max_hero_level": 48
     },
     "49": {
-        "level": 49,
-        "exp": 100,
-        "max_energy": 108,
         "add_energy": 58,
+        "exp": 100,
+        "id": 49,
+        "max_energy": 108,
         "max_hero_level": 49
     },
     "50": {
-        "level": 50,
-        "exp": 100,
-        "max_energy": 109,
         "add_energy": 59,
+        "exp": 100,
+        "id": 50,
+        "max_energy": 109,
         "max_hero_level": 50
     },
     "51": {
-        "level": 51,
-        "exp": 100,
-        "max_energy": 110,
         "add_energy": 60,
+        "exp": 100,
+        "id": 51,
+        "max_energy": 110,
         "max_hero_level": 51
     },
     "52": {
-        "level": 52,
-        "exp": 100,
-        "max_energy": 111,
         "add_energy": 61,
+        "exp": 100,
+        "id": 52,
+        "max_energy": 111,
         "max_hero_level": 52
     },
     "53": {
-        "level": 53,
-        "exp": 100,
-        "max_energy": 112,
         "add_energy": 62,
+        "exp": 100,
+        "id": 53,
+        "max_energy": 112,
         "max_hero_level": 53
     },
     "54": {
-        "level": 54,
-        "exp": 100,
-        "max_energy": 113,
         "add_energy": 63,
+        "exp": 100,
+        "id": 54,
+        "max_energy": 113,
         "max_hero_level": 54
     },
     "55": {
-        "level": 55,
-        "exp": 100,
-        "max_energy": 114,
         "add_energy": 64,
+        "exp": 100,
+        "id": 55,
+        "max_energy": 114,
         "max_hero_level": 55
     },
     "56": {
-        "level": 56,
-        "exp": 100,
-        "max_energy": 115,
         "add_energy": 65,
+        "exp": 100,
+        "id": 56,
+        "max_energy": 115,
         "max_hero_level": 56
     },
     "57": {
-        "level": 57,
-        "exp": 100,
-        "max_energy": 116,
         "add_energy": 66,
+        "exp": 100,
+        "id": 57,
+        "max_energy": 116,
         "max_hero_level": 57
     },
     "58": {
-        "level": 58,
-        "exp": 100,
-        "max_energy": 117,
         "add_energy": 67,
+        "exp": 100,
+        "id": 58,
+        "max_energy": 117,
         "max_hero_level": 58
     },
     "59": {
-        "level": 59,
-        "exp": 100,
-        "max_energy": 118,
         "add_energy": 68,
+        "exp": 100,
+        "id": 59,
+        "max_energy": 118,
         "max_hero_level": 59
     },
     "60": {
-        "level": 60,
-        "exp": 100,
-        "max_energy": 119,
         "add_energy": 69,
+        "exp": 100,
+        "id": 60,
+        "max_energy": 119,
         "max_hero_level": 60
     },
     "61": {
-        "level": 61,
-        "exp": 100,
-        "max_energy": 120,
         "add_energy": 70,
+        "exp": 100,
+        "id": 61,
+        "max_energy": 120,
         "max_hero_level": 61
     },
     "62": {
-        "level": 62,
-        "exp": 100,
-        "max_energy": 121,
         "add_energy": 71,
+        "exp": 100,
+        "id": 62,
+        "max_energy": 121,
         "max_hero_level": 62
     },
     "63": {
-        "level": 63,
-        "exp": 100,
-        "max_energy": 122,
         "add_energy": 72,
+        "exp": 100,
+        "id": 63,
+        "max_energy": 122,
         "max_hero_level": 63
     },
     "64": {
-        "level": 64,
-        "exp": 100,
-        "max_energy": 123,
         "add_energy": 73,
+        "exp": 100,
+        "id": 64,
+        "max_energy": 123,
         "max_hero_level": 64
     },
     "65": {
-        "level": 65,
-        "exp": 100,
-        "max_energy": 124,
         "add_energy": 74,
+        "exp": 100,
+        "id": 65,
+        "max_energy": 124,
         "max_hero_level": 65
     },
     "66": {
-        "level": 66,
-        "exp": 100,
-        "max_energy": 125,
         "add_energy": 75,
+        "exp": 100,
+        "id": 66,
+        "max_energy": 125,
         "max_hero_level": 66
     },
     "67": {
-        "level": 67,
-        "exp": 100,
-        "max_energy": 126,
         "add_energy": 76,
+        "exp": 100,
+        "id": 67,
+        "max_energy": 126,
         "max_hero_level": 67
     },
     "68": {
-        "level": 68,
-        "exp": 100,
-        "max_energy": 127,
         "add_energy": 77,
+        "exp": 100,
+        "id": 68,
+        "max_energy": 127,
         "max_hero_level": 68
     },
     "69": {
-        "level": 69,
-        "exp": 100,
-        "max_energy": 128,
         "add_energy": 78,
+        "exp": 100,
+        "id": 69,
+        "max_energy": 128,
         "max_hero_level": 69
     },
     "70": {
-        "level": 70,
-        "exp": 100,
-        "max_energy": 129,
         "add_energy": 79,
+        "exp": 100,
+        "id": 70,
+        "max_energy": 129,
         "max_hero_level": 70
     },
     "71": {
-        "level": 71,
-        "exp": 100,
-        "max_energy": 130,
         "add_energy": 80,
+        "exp": 100,
+        "id": 71,
+        "max_energy": 130,
         "max_hero_level": 71
     },
     "72": {
-        "level": 72,
-        "exp": 100,
-        "max_energy": 131,
         "add_energy": 81,
+        "exp": 100,
+        "id": 72,
+        "max_energy": 131,
         "max_hero_level": 72
     },
     "73": {
-        "level": 73,
-        "exp": 100,
-        "max_energy": 132,
         "add_energy": 82,
+        "exp": 100,
+        "id": 73,
+        "max_energy": 132,
         "max_hero_level": 73
     },
     "74": {
-        "level": 74,
-        "exp": 100,
-        "max_energy": 133,
         "add_energy": 83,
+        "exp": 100,
+        "id": 74,
+        "max_energy": 133,
         "max_hero_level": 74
     },
     "75": {
-        "level": 75,
-        "exp": 100,
-        "max_energy": 134,
         "add_energy": 84,
+        "exp": 100,
+        "id": 75,
+        "max_energy": 134,
         "max_hero_level": 75
     },
     "76": {
-        "level": 76,
-        "exp": 100,
-        "max_energy": 135,
         "add_energy": 85,
+        "exp": 100,
+        "id": 76,
+        "max_energy": 135,
         "max_hero_level": 76
     },
     "77": {
-        "level": 77,
-        "exp": 100,
-        "max_energy": 136,
         "add_energy": 86,
+        "exp": 100,
+        "id": 77,
+        "max_energy": 136,
         "max_hero_level": 77
     },
     "78": {
-        "level": 78,
-        "exp": 100,
-        "max_energy": 137,
         "add_energy": 87,
+        "exp": 100,
+        "id": 78,
+        "max_energy": 137,
         "max_hero_level": 78
     },
     "79": {
-        "level": 79,
-        "exp": 100,
-        "max_energy": 138,
         "add_energy": 88,
+        "exp": 100,
+        "id": 79,
+        "max_energy": 138,
         "max_hero_level": 79
     },
     "80": {
-        "level": 80,
-        "exp": 100,
-        "max_energy": 139,
         "add_energy": 89,
+        "exp": 100,
+        "id": 80,
+        "max_energy": 139,
         "max_hero_level": 80
     },
     "81": {
-        "level": 81,
-        "exp": 100,
-        "max_energy": 140,
         "add_energy": 90,
+        "exp": 100,
+        "id": 81,
+        "max_energy": 140,
         "max_hero_level": 81
     },
     "82": {
-        "level": 82,
-        "exp": 100,
-        "max_energy": 141,
         "add_energy": 91,
+        "exp": 100,
+        "id": 82,
+        "max_energy": 141,
         "max_hero_level": 82
     },
     "83": {
-        "level": 83,
-        "exp": 100,
-        "max_energy": 142,
         "add_energy": 92,
+        "exp": 100,
+        "id": 83,
+        "max_energy": 142,
         "max_hero_level": 83
     },
     "84": {
-        "level": 84,
-        "exp": 100,
-        "max_energy": 143,
         "add_energy": 93,
+        "exp": 100,
+        "id": 84,
+        "max_energy": 143,
         "max_hero_level": 84
     },
     "85": {
-        "level": 85,
-        "exp": 100,
-        "max_energy": 144,
         "add_energy": 94,
+        "exp": 100,
+        "id": 85,
+        "max_energy": 144,
         "max_hero_level": 85
     },
     "86": {
-        "level": 86,
-        "exp": 100,
-        "max_energy": 145,
         "add_energy": 95,
+        "exp": 100,
+        "id": 86,
+        "max_energy": 145,
         "max_hero_level": 86
     },
     "87": {
-        "level": 87,
-        "exp": 100,
-        "max_energy": 146,
         "add_energy": 96,
+        "exp": 100,
+        "id": 87,
+        "max_energy": 146,
         "max_hero_level": 87
     },
     "88": {
-        "level": 88,
-        "exp": 100,
-        "max_energy": 147,
         "add_energy": 97,
+        "exp": 100,
+        "id": 88,
+        "max_energy": 147,
         "max_hero_level": 88
     },
     "89": {
-        "level": 89,
-        "exp": 100,
-        "max_energy": 148,
         "add_energy": 98,
+        "exp": 100,
+        "id": 89,
+        "max_energy": 148,
         "max_hero_level": 89
     },
     "90": {
-        "level": 90,
-        "exp": 100,
-        "max_energy": 149,
         "add_energy": 99,
+        "exp": 100,
+        "id": 90,
+        "max_energy": 149,
         "max_hero_level": 90
     },
     "91": {
-        "level": 91,
-        "exp": 100,
-        "max_energy": 150,
         "add_energy": 100,
+        "exp": 100,
+        "id": 91,
+        "max_energy": 150,
         "max_hero_level": 91
     },
     "92": {
-        "level": 92,
-        "exp": 100,
-        "max_energy": 151,
         "add_energy": 101,
+        "exp": 100,
+        "id": 92,
+        "max_energy": 151,
         "max_hero_level": 92
     },
     "93": {
-        "level": 93,
-        "exp": 100,
-        "max_energy": 152,
         "add_energy": 102,
+        "exp": 100,
+        "id": 93,
+        "max_energy": 152,
         "max_hero_level": 93
     },
     "94": {
-        "level": 94,
-        "exp": 100,
-        "max_energy": 153,
         "add_energy": 103,
+        "exp": 100,
+        "id": 94,
+        "max_energy": 153,
         "max_hero_level": 94
     },
     "95": {
-        "level": 95,
-        "exp": 100,
-        "max_energy": 154,
         "add_energy": 104,
+        "exp": 100,
+        "id": 95,
+        "max_energy": 154,
         "max_hero_level": 95
     },
     "96": {
-        "level": 96,
-        "exp": 100,
-        "max_energy": 155,
         "add_energy": 105,
+        "exp": 100,
+        "id": 96,
+        "max_energy": 155,
         "max_hero_level": 96
     },
     "97": {
-        "level": 97,
-        "exp": 100,
-        "max_energy": 156,
         "add_energy": 106,
+        "exp": 100,
+        "id": 97,
+        "max_energy": 156,
         "max_hero_level": 97
     },
     "98": {
-        "level": 98,
-        "exp": 100,
-        "max_energy": 157,
         "add_energy": 107,
+        "exp": 100,
+        "id": 98,
+        "max_energy": 157,
         "max_hero_level": 98
     },
     "99": {
-        "level": 99,
-        "exp": 100,
-        "max_energy": 158,
         "add_energy": 108,
+        "exp": 100,
+        "id": 99,
+        "max_energy": 158,
         "max_hero_level": 99
     },
     "100": {
-        "level": 100,
-        "exp": 100,
-        "max_energy": 159,
         "add_energy": 109,
+        "exp": 100,
+        "id": 100,
+        "max_energy": 159,
         "max_hero_level": 100
+    },
+    "1": {
+        "add_energy": 10,
+        "exp": 100,
+        "id": "1",
+        "max_energy": 60,
+        "max_hero_level": 10,
+        "unlock_system": [
+            11,
+            12,
+            13
+        ]
+    },
+    "2": {
+        "add_energy": 11,
+        "exp": 100,
+        "id": "2",
+        "max_energy": 61,
+        "max_hero_level": 10,
+        "unlock_system": [
+            14
+        ]
+    },
+    "3": {
+        "add_energy": 12,
+        "exp": 100,
+        "id": "3",
+        "max_energy": 62,
+        "max_hero_level": 11,
+        "unlock_system": [
+            15
+        ]
     }
 }

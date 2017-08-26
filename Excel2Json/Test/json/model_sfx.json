@@ -1,40 +1,40 @@
 {
+    "FX_Hero103_Skill004_01_Bip001 Neck": {
+        "hero_id": 103,
+        "id": "FX_Hero103_Skill004_01_Bip001 Neck",
+        "position": "Bip001 Neck"
+    },
     "FX_Hero104_Bip001LHand_run": {
-        "sfx_id": "FX_Hero104_Bip001LHand_run",
         "hero_id": 104,
-        "position": "Bip001 L Hand",
-        "open_only": "104_Run"
-    },
-    "FX_Hero104_Bip001RHand_run": {
-        "sfx_id": "FX_Hero104_Bip001RHand_run",
-        "hero_id": 104,
-        "position": "Bip001 R Hand",
-        "open_only": "104_Run"
-    },
-    "FX_Hero104_fireback_run": {
-        "sfx_id": "FX_Hero104_fireback_run",
-        "hero_id": 104,
-        "position": "takeoff_01",
-        "open_only": "104_Run"
+        "id": "FX_Hero104_Bip001LHand_run",
+        "open_only": "104_Run",
+        "position": "Bip001 L Hand"
     },
     "FX_Hero104_Bip001LToe0": {
-        "sfx_id": "FX_Hero104_Bip001LToe0",
         "hero_id": 104,
+        "id": "FX_Hero104_Bip001LToe0",
         "position": "Bip001 L Toe0"
     },
-    "FX_Hero104_Bip001RToe0": {
-        "sfx_id": "FX_Hero104_Bip001RToe0",
+    "FX_Hero104_Bip001RHand_run": {
         "hero_id": 104,
+        "id": "FX_Hero104_Bip001RHand_run",
+        "open_only": "104_Run",
+        "position": "Bip001 R Hand"
+    },
+    "FX_Hero104_Bip001RToe0": {
+        "hero_id": 104,
+        "id": "FX_Hero104_Bip001RToe0",
         "position": "Bip001 R Toe0"
     },
     "FX_Hero104_fireback": {
-        "sfx_id": "FX_Hero104_fireback",
         "hero_id": 104,
+        "id": "FX_Hero104_fireback",
         "position": "takeoff_01"
     },
-    "FX_Hero103_Skill004_01_Bip001 Neck": {
-        "sfx_id": "FX_Hero103_Skill004_01_Bip001 Neck",
-        "hero_id": 103,
-        "position": "Bip001 Neck"
+    "FX_Hero104_fireback_run": {
+        "hero_id": 104,
+        "id": "FX_Hero104_fireback_run",
+        "open_only": "104_Run",
+        "position": "takeoff_01"
     }
 }

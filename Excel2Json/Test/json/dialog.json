@@ -1,112 +1,187 @@
 {
-    "10200": {
-        "id": 10200,
-        "type": 1,
-        "dialog1": ["chapter_0101"],
-        "pram1": "104|1|1",
-        "dialog2": ["chapter_0102"],
-        "pram2": "123|2|2",
-        "dialog3": ["chapter_0103"],
-        "pram3": "104|1",
-        "dialog4": ["chapter_0104"],
-        "pram4": "123|2"
-    },
-    "10100": {
-        "id": 10100,
-        "type": 1,
-        "dialog1": ["stage_010101"],
-        "pram1": "104|1|3",
-        "dialog2": ["stage_010102"],
-        "pram2": "123|2|1",
-        "dialog3": ["stage_010103", "stage_010104"],
-        "pram3": "104|1",
-        "dialog4": ["stage_010105"],
-        "pram4": "123|2|2"
-    },
-    "20101": {
-        "id": 20101,
-        "type": 2,
-        "dialog1": ["Prompt_0001"],
-        "pram1": "2000"
-    },
-    "20102": {
-        "id": 20102,
-        "type": 2,
-        "dialog1": ["Prompt_0002"],
-        "pram1": "2000"
-    },
     "10001": {
+        "dialog1": [
+            "task10001_1"
+        ],
+        "dialog2": [
+            "task10001_2"
+        ],
+        "dialog3": [
+            "task10001_3"
+        ],
+        "dialog4": [
+            "task10001_4"
+        ],
+        "dialog5": [
+            "task10001_5"
+        ],
         "id": 10001,
-        "type": 1,
-        "dialog1": ["task10001_1"],
         "pram1": "999|1",
-        "dialog2": ["task10001_2"],
         "pram2": "999|1",
-        "dialog3": ["task10001_3"],
         "pram3": "998|2",
-        "dialog4": ["task10001_4"],
         "pram4": "998|2",
-        "dialog5": ["task10001_5"],
-        "pram5": "998|2"
+        "pram5": "998|2",
+        "type": 1
     },
     "10002": {
+        "dialog1": [
+            "task10002_1"
+        ],
+        "dialog2": [
+            "task10002_2"
+        ],
+        "dialog3": [
+            "task10002_3"
+        ],
+        "dialog4": [
+            "task10002_4"
+        ],
+        "dialog5": [
+            "task10002_5"
+        ],
+        "dialog6": [
+            "task10002_6"
+        ],
+        "dialog7": [
+            "task10002_7"
+        ],
         "id": 10002,
-        "type": 1,
-        "dialog1": ["task10002_1"],
         "pram1": "109|1",
-        "dialog2": ["task10002_2"],
         "pram2": "999|2",
-        "dialog3": ["task10002_3"],
         "pram3": "998|1",
-        "dialog4": ["task10002_4"],
         "pram4": "998|1",
-        "dialog5": ["task10002_5"],
         "pram5": "999|2",
-        "dialog6": ["task10002_6"],
         "pram6": "105|1",
-        "dialog7": ["task10002_7"],
-        "pram7": "999|2"
+        "pram7": "999|2",
+        "type": 1
     },
     "10003": {
+        "dialog1": [
+            "task10003_1"
+        ],
+        "dialog2": [
+            "task10003_2"
+        ],
+        "dialog3": [
+            "task10003_3"
+        ],
+        "dialog4": [
+            "task10003_4"
+        ],
+        "dialog5": [
+            "task10003_5"
+        ],
+        "dialog6": [
+            "task10003_6"
+        ],
         "id": 10003,
-        "type": 1,
-        "dialog1": ["task10003_1"],
         "pram1": "998|1",
-        "dialog2": ["task10003_2"],
         "pram2": "998|1",
-        "dialog3": ["task10003_3"],
         "pram3": "998|1",
-        "dialog4": ["task10003_4"],
         "pram4": "109|2",
-        "dialog5": ["task10003_5"],
         "pram5": "109|2",
-        "dialog6": ["task10003_6"],
-        "pram6": "105|2"
+        "pram6": "105|2",
+        "type": 1
     },
     "10004": {
+        "dialog1": [
+            "task10004_1"
+        ],
+        "dialog2": [
+            "task10004_2"
+        ],
+        "dialog3": [
+            "task10004_3"
+        ],
+        "dialog4": [
+            "task10004_4"
+        ],
+        "dialog5": [
+            "task10004_5"
+        ],
+        "dialog6": [
+            "task10004_6"
+        ],
+        "dialog7": [
+            "task10004_7"
+        ],
         "id": 10004,
-        "type": 1,
-        "dialog1": ["task10004_1"],
         "pram1": "997|1|1",
-        "dialog2": ["task10004_2"],
         "pram2": "109|2",
-        "dialog3": ["task10004_3"],
         "pram3": "105|2|1",
-        "dialog4": ["task10004_4"],
         "pram4": "997|1",
-        "dialog5": ["task10004_5"],
         "pram5": "105|2",
-        "dialog6": ["task10004_6"],
         "pram6": "110|1",
-        "dialog7": ["task10004_7"],
-        "pram7": "105|2"
+        "pram7": "105|2",
+        "type": 1
     },
     "10006": {
+        "dialog1": [
+            "task10006_1"
+        ],
+        "dialog2": [
+            "task10006_2"
+        ],
         "id": 10006,
-        "type": 1,
-        "dialog1": ["task10006_1"],
         "pram1": "998|1",
-        "dialog2": ["task10006_2"],
-        "pram2": "998|1"
+        "pram2": "998|1",
+        "type": 1
+    },
+    "10100": {
+        "dialog1": [
+            "stage_010101"
+        ],
+        "dialog2": [
+            "stage_010102"
+        ],
+        "dialog3": [
+            "stage_010103",
+            "stage_010104"
+        ],
+        "dialog4": [
+            "stage_010105"
+        ],
+        "id": 10100,
+        "pram1": "104|1|3",
+        "pram2": "123|2|1",
+        "pram3": "104|1",
+        "pram4": "123|2|2",
+        "type": 1
+    },
+    "10200": {
+        "dialog1": [
+            "chapter_0101"
+        ],
+        "dialog2": [
+            "chapter_0102"
+        ],
+        "dialog3": [
+            "chapter_0103"
+        ],
+        "dialog4": [
+            "chapter_0104"
+        ],
+        "id": 10200,
+        "pram1": "104|1|1",
+        "pram2": "123|2|2",
+        "pram3": "104|1",
+        "pram4": "123|2",
+        "type": 1
+    },
+    "20101": {
+        "dialog1": [
+            "Prompt_0001"
+        ],
+        "id": 20101,
+        "pram1": "2000",
+        "type": 2
+    },
+    "20102": {
+        "dialog1": [
+            "Prompt_0002"
+        ],
+        "id": 20102,
+        "pram1": "2000",
+        "type": 2
     }
 }

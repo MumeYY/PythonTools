@@ -1,29 +1,56 @@
 {
     "47101": {
-        "id": 47101,
-        "name": "stage_cname_101",
-        "island_id": "island_B1",
-        "need_level": 1,
         "clearance_need": 4110108,
-        "stage1": 4110101,
-        "stage2": 4110102,
-        "stage3": 4110103,
-        "reward1": {"90001": 1000, "11109": 10},
+        "id": 47101,
+        "island_id": "island_B1",
+        "name": "stage_cname_101",
+        "need_level": 1,
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 3,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 6,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
-        "reward3_star": 9
+        "reward3_star": 9,
+        "stage1": 4110101,
+        "stage2": 4110102,
+        "stage3": 4110103
     },
     "47102": {
-        "id": 47102,
-        "name": "stage_cname_102",
-        "island_id": "island_M1",
-        "need_level": 100,
         "clearance_need": 4110208,
+        "id": 47102,
+        "island_id": "island_M1",
+        "name": "stage_cname_102",
+        "need_level": 100,
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
+        "reward1_icon": 1,
+        "reward1_star": 6,
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
+        "reward2_icon": 2,
+        "reward2_star": 12,
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
+        "reward3_icon": 3,
+        "reward3_star": 18,
         "stage1": 4110201,
         "stage2": 4110202,
         "stage3": 4110203,
@@ -31,28 +58,28 @@
         "stage5": 4110205,
         "stage6": 4110206,
         "stage7": 4110207,
-        "stage8": 4110208,
-        "reward1": {"90001": 1000, "11109": 10},
-        "reward1_icon": 1,
-        "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
-        "reward2_icon": 2,
-        "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
-        "reward3_icon": 3,
-        "reward3_star": 18
+        "stage8": 4110208
     },
     "47103": {
         "id": 47103,
         "name": "stage_cname_103",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     },
@@ -60,13 +87,22 @@
         "id": 47104,
         "name": "stage_cname_104",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     },
@@ -74,13 +110,22 @@
         "id": 47105,
         "name": "stage_cname_105",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     },
@@ -88,13 +133,22 @@
         "id": 47106,
         "name": "stage_cname_106",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     },
@@ -102,13 +156,22 @@
         "id": 47107,
         "name": "stage_cname_107",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     },
@@ -116,13 +179,22 @@
         "id": 47108,
         "name": "stage_cname_108",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     },
@@ -130,13 +202,22 @@
         "id": 47109,
         "name": "stage_cname_109",
         "need_level": 100,
-        "reward1": {"90001": 1000, "11109": 10},
+        "reward1": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward1_icon": 1,
         "reward1_star": 6,
-        "reward2": {"90001": 1000, "11109": 10},
+        "reward2": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward2_icon": 2,
         "reward2_star": 12,
-        "reward3": {"90001": 1000, "11109": 10},
+        "reward3": {
+            "11109": 10,
+            "90001": 1000
+        },
         "reward3_icon": 3,
         "reward3_star": 18
     }

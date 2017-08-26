@@ -1,232 +1,278 @@
 {
     "1": {
-        "sfx_id": "FX_Hero109_Attack_001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Attack_001.prefab",
-        "is_bullet": 0
+        "id": 1,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Attack_001"
     },
     "2": {
-        "sfx_id": "FX_Hero109_Attack_002",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Attack_002.prefab",
-        "is_bullet": 0
+        "id": 2,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Attack_002"
     },
     "3": {
-        "sfx_id": "FX_Hero109_Attack_003",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Attack_003.prefab",
-        "is_bullet": 0
+        "id": 3,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Attack_003"
     },
     "4": {
-        "sfx_id": "FX_Hero109_Attack_004",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Attack_004.prefab",
-        "is_bullet": 0
+        "id": 4,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Attack_004"
     },
     "5": {
-        "sfx_id": "FX_Hero109_Attack_005",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Attack_005.prefab",
-        "is_bullet": 0
+        "id": 5,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Attack_005"
     },
     "6": {
-        "sfx_id": "FX_Hero109_Hit_001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Hit_001.prefab",
-        "is_bullet": 0
+        "id": 6,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Hit_001"
     },
     "7": {
-        "sfx_id": "FX_Hero109_Skill_001_hit",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_001_hit.prefab",
-        "is_bullet": 0
+        "id": 7,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_001_hit"
     },
     "8": {
-        "sfx_id": "FX_Hero109_Skill_001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_001.prefab",
-        "is_bullet": 0
+        "id": 8,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_001"
     },
     "9": {
-        "sfx_id": "FX_Hero109_Skill_001_end",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_001_end.prefab",
-        "is_bullet": 0
+        "id": 9,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_001_end"
     },
     "10": {
-        "sfx_id": "FX_Hero109_Skill_002",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_002.prefab",
-        "is_bullet": 0
+        "id": 10,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_002"
     },
     "11": {
-        "sfx_id": "FX_Hero109_Skill_002_PT",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_002_PT.prefab",
-        "is_bullet": 1
+        "id": 11,
+        "is_bullet": 1,
+        "sfx_id": "FX_Hero109_Skill_002_PT"
     },
     "12": {
-        "sfx_id": "FX_Hero109_Skill_003",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_003.prefab",
-        "is_bullet": 0
+        "id": 12,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_003"
     },
     "13": {
-        "sfx_id": "FX_Hero109_Skill_003_Begin",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_003_Begin.prefab",
-        "is_bullet": 0
+        "id": 13,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_003_Begin"
     },
     "14": {
-        "sfx_id": "FX_Hero109_Skill_003_End",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Skill_003_End.prefab",
-        "is_bullet": 0
+        "id": 14,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Skill_003_End"
     },
     "15": {
-        "sfx_id": "FX_Hero109_Hit_skill2.3",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero109_Hit_skill2.3.prefab",
-        "is_bullet": 0
+        "id": 15,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero109_Hit_skill2.3"
     },
     "16": {
-        "sfx_id": "FX_Hero104_hit",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_hit.prefab",
-        "is_bullet": 0
+        "id": 16,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_hit"
     },
     "17": {
-        "sfx_id": "FX_Hero104_Skill003hit",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill003hit.prefab",
-        "is_bullet": 0
+        "id": 17,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill003hit"
     },
     "18": {
-        "sfx_id": "FX_Hero104_Attack001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Attack001.prefab",
-        "is_bullet": 0
+        "id": 18,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Attack001"
     },
     "19": {
-        "sfx_id": "FX_Hero104_Attack002",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Attack002.prefab",
-        "is_bullet": 0
+        "id": 19,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Attack002"
     },
     "20": {
-        "sfx_id": "FX_Hero104_Attack003",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Attack003.prefab",
-        "is_bullet": 0
+        "id": 20,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Attack003"
     },
     "21": {
-        "sfx_id": "FX_Hero104_Attack004",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Attack004.prefab",
-        "is_bullet": 0
+        "id": 21,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Attack004"
     },
     "22": {
-        "sfx_id": "FX_Hero104_Skill001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill001.prefab",
-        "is_bullet": 0
+        "id": 22,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill001"
     },
     "23": {
-        "sfx_id": "FX_Hero104_Skill001_Begin",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill001_Begin.prefab",
-        "is_bullet": 0
+        "id": 23,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill001_Begin"
     },
     "24": {
-        "sfx_id": "FX_Hero104_Skill001_boom",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill001_boom.prefab",
-        "is_bullet": 0
+        "id": 24,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill001_boom"
     },
     "25": {
-        "sfx_id": "FX_Hero104_Skill002",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill002.prefab",
-        "is_bullet": 0
+        "id": 25,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill002"
     },
     "26": {
-        "sfx_id": "FX_Hero104_Skill002_Bip001 L Hand",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill002_Bip001 L Hand.prefab",
-        "is_bullet": 0
+        "id": 26,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill002_Bip001 L Hand"
     },
     "27": {
-        "sfx_id": "FX_Hero104_Skill002_Bip001 R Hand",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill002_Bip001 R Hand.prefab",
-        "is_bullet": 0
+        "id": 27,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill002_Bip001 R Hand"
     },
     "28": {
-        "sfx_id": "FX_Hero104_Skill003_Begin",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill003_Begin.prefab",
-        "is_bullet": 0
+        "id": 28,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill003_Begin"
     },
     "29": {
-        "sfx_id": "FX_Hero104_Skill003",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill003.prefab",
-        "is_bullet": 0
+        "id": 29,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill003"
     },
     "30": {
-        "sfx_id": "FX_Hero104_Skill003 end",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Skill003 end.prefab",
-        "is_bullet": 0
+        "id": 30,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Skill003 end"
     },
     "31": {
-        "sfx_id": "FX_Hero104_PT",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_PT.prefab",
-        "is_bullet": 1
+        "id": 31,
+        "is_bullet": 1,
+        "sfx_id": "FX_Hero104_PT"
     },
     "32": {
-        "sfx_id": "FX_Hero104_PT_2",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_PT_2.prefab",
-        "is_bullet": 1
+        "id": 32,
+        "is_bullet": 1,
+        "sfx_id": "FX_Hero104_PT_2"
     },
     "33": {
-        "sfx_id": "FX_Hero104_Bip001LHand_run",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Bip001LHand_run.prefab",
-        "is_bullet": 0
+        "id": 33,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Bip001LHand_run"
     },
     "34": {
-        "sfx_id": "FX_Hero104_Bip001RHand_run",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Bip001RHand_run.prefab",
-        "is_bullet": 0
+        "id": 34,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Bip001RHand_run"
     },
     "35": {
-        "sfx_id": "FX_Hero104_fireback_run",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_fireback_run.prefab",
-        "is_bullet": 0
+        "id": 35,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_fireback_run"
     },
     "36": {
-        "sfx_id": "FX_Hero104_Bip001LToe0",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Bip001LToe0.prefab",
-        "is_bullet": 0
+        "id": 36,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Bip001LToe0"
     },
     "37": {
-        "sfx_id": "FX_Hero104_Bip001RToe0",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_Bip001RToe0.prefab",
-        "is_bullet": 0
+        "id": 37,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_Bip001RToe0"
     },
     "38": {
-        "sfx_id": "FX_Hero104_fireback",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_104\\FX_Hero104_fireback.prefab",
-        "is_bullet": 0
+        "id": 38,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero104_fireback"
     },
     "39": {
-        "sfx_id": "FX_Hero112_Attack_001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_112\\FX_Hero112_Attack_001.prefab",
-        "is_bullet": 0
+        "id": 39,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero112_Attack_001"
     },
     "40": {
-        "sfx_id": "FX_Hero123_PT",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_123\\FX_Hero123_PT.prefab",
-        "is_bullet": 1
+        "id": 40,
+        "is_bullet": 1,
+        "sfx_id": "FX_Hero123_PT"
     },
     "41": {
-        "sfx_id": "FX_Hero105_Attack_001",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero105_Attack_001.prefab",
-        "is_bullet": 0
+        "id": 41,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero105_Attack_001"
     },
     "42": {
-        "sfx_id": "FX_Hero105_Attack_002",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero105_Attack_002.prefab",
-        "is_bullet": 0
+        "id": 42,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero105_Attack_002"
     },
     "43": {
-        "sfx_id": "FX_Hero105_Attack_003",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero105_Attack_003.prefab",
-        "is_bullet": 0
+        "id": 43,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero105_Attack_003"
     },
     "44": {
-        "sfx_id": "FX_Hero105_Attack_004",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero105_Attack_004.prefab",
-        "is_bullet": 0
+        "id": 44,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero105_Attack_004"
     },
     "45": {
-        "sfx_id": "FX_Hero105_Attack_005",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero105_Attack_005.prefab",
-        "is_bullet": 0
+        "id": 45,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero105_Attack_005"
     },
     "46": {
-        "sfx_id": "FX_Hero105_Attack_006C_Spine",
         "effect_path": "Assets\\Content\\ArtPrefeb\\SFX\\Hero\\Hero_109\\FX_Hero105_Attack_006C_Spine.prefab",
-        "is_bullet": 0
+        "id": 46,
+        "is_bullet": 0,
+        "sfx_id": "FX_Hero105_Attack_006C_Spine"
     }
 }

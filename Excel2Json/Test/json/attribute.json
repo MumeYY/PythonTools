@@ -1,26 +1,26 @@
 {
-    "hp": {
-        "type": "hp",
-        "name": "hp"
-    },
-    "attack_value": {
-        "type": "attack_value",
-        "name": "phyatk"
-    },
     "ability_power": {
-        "type": "ability_power",
+        "id": "ability_power",
         "name": "eneatk"
     },
     "armor": {
-        "type": "armor",
+        "id": "armor",
         "name": "phydef"
     },
-    "magic_resist": {
-        "type": "magic_resist",
-        "name": "enedef"
+    "attack_value": {
+        "id": "attack_value",
+        "name": "phyatk"
     },
     "crit_chance": {
-        "type": "crit_chance",
+        "id": "crit_chance",
         "name": "crit"
+    },
+    "hp": {
+        "id": "hp",
+        "name": "hp"
+    },
+    "magic_resist": {
+        "id": "magic_resist",
+        "name": "enedef"
     }
 }
