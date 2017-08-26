@@ -3,7 +3,7 @@
         "buffer_type": 2,
         "id": 100000,
         "interval": 0,
-        "name": "\u5947\u5f02\u535a\u58eb\u7729\u6655",
+        "name": "奇异博士眩晕",
         "overlay_type": 1,
         "play_animation": "Stun",
         "state_buff_type": 4,
@@ -16,7 +16,7 @@
         "id": 100001,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u7729\u6655",
+        "name": "眩晕",
         "overlay_number": 1,
         "overlay_range": 1,
         "overlay_type": 1,
@@ -36,7 +36,7 @@
         "id": 100002,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u51cf\u901f",
+        "name": "减速",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -48,9 +48,10 @@
     "100003": {
         "buffer_type": 3,
         "id": 100003,
-        "name": "\u8718\u86db\u666e\u653b\u51fb\u9000",
+        "name": "蜘蛛普攻击退",
         "repel_buff_param": [
-            null
+            1500,
+            1000
         ]
     },
     "200001": {
@@ -58,11 +59,13 @@
         "buffer_type": 5,
         "effect_type": 2,
         "hitfly_buff_param": [
-            null
+            600,
+            12,
+            0
         ],
         "id": 200001,
         "is_event_drive": 2,
-        "name": "\u51fb\u98de\u3010\u5c0f\u3011",
+        "name": "击飞【小】",
         "neg_effect_type": 1
     },
     "200002": {
@@ -70,11 +73,13 @@
         "buffer_type": 5,
         "effect_type": 2,
         "hitfly_buff_param": [
-            null
+            1200,
+            24,
+            0
         ],
         "id": 200002,
         "is_event_drive": 2,
-        "name": "\u51fb\u98de\u3010\u4e2d\u3011",
+        "name": "击飞【中】",
         "neg_effect_type": 1
     },
     "200003": {
@@ -82,11 +87,13 @@
         "buffer_type": 5,
         "effect_type": 2,
         "hitfly_buff_param": [
-            null
+            2400,
+            38,
+            2
         ],
         "id": 200003,
         "is_event_drive": 2,
-        "name": "\u51fb\u98de\u3010\u5927\u3011",
+        "name": "击飞【大】",
         "neg_effect_type": 1
     },
     "900001": {
@@ -100,7 +107,7 @@
         "interval": 1000,
         "is_clear_when_max_overlay": 0,
         "is_event_drive": 2,
-        "name": "\u56de\u8840\uff08\u8131\u6218\uff09",
+        "name": "回血（脱战）",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -120,7 +127,7 @@
         "interval": 0,
         "is_clear_when_max_overlay": 0,
         "is_event_drive": 2,
-        "name": "\u5927Buff\uff08\u961f\u4f0d\u56de\u8840\uff09",
+        "name": "大Buff（队伍回血）",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -140,7 +147,7 @@
         "interval": 0,
         "is_clear_when_max_overlay": 0,
         "is_event_drive": 2,
-        "name": "\u5c0fBuff\uff08\u5355\u4f53\u56de\u8840\uff09",
+        "name": "小Buff（单体回血）",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -157,7 +164,7 @@
         "interval": 0,
         "is_clear_when_max_overlay": 0,
         "is_event_drive": 2,
-        "name": "\u590d\u6d3b\u65e0\u654c",
+        "name": "复活无敌",
         "overlay_number": 1,
         "overlay_range": 1,
         "overlay_type": 1,
@@ -167,7 +174,6 @@
         "time": 4000
     },
     "102010101": {
-        "": null,
         "anti_buff_type": 0,
         "attr_buff_param_map": {
             "72": -7000
@@ -177,19 +183,18 @@
         "float_ui": "Buff_js",
         "id": 102010101,
         "interval": 0,
-        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd1\u51cf\u901f",
+        "name": "黑寡妇，技能1减速",
         "neg_effect_type": 1,
         "overlay_type": 1,
         "target_sfx_position": "Hit3",
         "time": 10000
     },
     "102010102": {
-        "": null,
         "buffer_type": 2,
         "float_ui": "Buff_cm",
         "id": 102010102,
         "interval": 0,
-        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd1\u6c89\u9ed8",
+        "name": "黑寡妇，技能1沉默",
         "overlay_type": 1,
         "state_buff_type": 5,
         "target_sfx_position": "Hit1",
@@ -197,7 +202,6 @@
         "time": 10000
     },
     "102010103": {
-        "": null,
         "attr_buff_param_map": {
             "412": -8000
         },
@@ -205,12 +209,11 @@
         "float_ui": "Buff_zm",
         "id": 102010103,
         "interval": 0,
-        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd1\u81f4\u76f2",
+        "name": "黑寡妇，技能1致盲",
         "overlay_type": 1,
         "time": 10000
     },
     "102020101": {
-        "": null,
         "attr_buff_param_map": {
             "72": 3500
         },
@@ -218,12 +221,11 @@
         "effect_type": 1,
         "id": 102020101,
         "interval": 0,
-        "name": "\u9ed1\u5be1\u5987\uff0c\u6280\u80fd2\u52a0\u901f",
+        "name": "黑寡妇，技能2加速",
         "overlay_type": 1,
         "time": 8000
     },
     "102100101": {
-        "": null,
         "anti_buff_type": 0,
         "attr_buff_param_map": {
             "72": -4000
@@ -233,7 +235,7 @@
         "float_ui": "Buff_js",
         "id": 102100101,
         "interval": 0,
-        "name": "\u9ed1\u5be1\u5987\uff0c\u5927\u62db\u51cf\u901f",
+        "name": "黑寡妇，大招减速",
         "neg_effect_type": 1,
         "overlay_type": 1,
         "target_sfx_position": "Hit3",
@@ -248,7 +250,7 @@
         "effect_type": 1,
         "id": 104000000,
         "interval": 0,
-        "name": "\u94a2\u94c1\u4fa0\u88ab\u52a8\u62a4\u76fe",
+        "name": "钢铁侠被动护盾",
         "neg_effect_type": 0,
         "overlay_type": 1,
         "target_sfx": "FX_Hero104_Skill_000_C_Spine",
@@ -266,7 +268,7 @@
         "interval": 800,
         "is_clear_when_max_overlay": 0,
         "is_event_drive": 2,
-        "name": "\u94a2\u94c1\u4fa0Dot\u71c3\u70e7",
+        "name": "钢铁侠Dot燃烧",
         "neg_effect_type": 1,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -283,7 +285,7 @@
         "id": 104000002,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u94a2\u94c1\u4fa0Dot\u51cf\u901f",
+        "name": "钢铁侠Dot减速",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -293,21 +295,21 @@
     "105010401": {
         "buffer_type": 2,
         "id": 105010401,
-        "name": "\u8718\u86db\u4fa0\u6280\u80fd1\u4e0d\u88ab\u9009",
+        "name": "蜘蛛侠技能1不被选",
         "state_buff_type": 1,
         "time": 1000
     },
     "105020103": {
         "buffer_type": 2,
         "id": 105020103,
-        "name": "\u8718\u86db\u4fa0\u6280\u80fd2\u4e0d\u88ab\u9009",
+        "name": "蜘蛛侠技能2不被选",
         "state_buff_type": 1,
         "time": 2000
     },
     "105040102": {
         "buffer_type": 2,
         "id": 105040102,
-        "name": "\u8718\u86db\u4fa0\u5927\u62db\u4e0d\u88ab\u9009",
+        "name": "蜘蛛侠大招不被选",
         "state_buff_type": 1,
         "time": 3000
     },
@@ -321,7 +323,7 @@
         "id": 105060101,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u8718\u86db\u5634\u70ae\u51cf\u901f",
+        "name": "蜘蛛嘴炮减速",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -340,7 +342,7 @@
         "is_event_drive": 2,
         "max_overlay_effect": 105060101,
         "max_overlay_effect_delay": 1000,
-        "name": "\u8718\u86db\u5634\u70ae",
+        "name": "蜘蛛嘴炮",
         "neg_effect_type": 0,
         "overlay_number": 4,
         "overlay_range": 2,
@@ -355,7 +357,7 @@
         "id": 105200102,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u8718\u86db\u4fa0\u95ea\u907f",
+        "name": "蜘蛛侠闪避",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -373,7 +375,7 @@
         "is_clear_when_max_overlay": 1,
         "is_event_drive": 2,
         "max_overlay_effect": 109000001,
-        "name": "\u7f8e\u961f\u88ab\u52a8\u5012\u8ba1\u65f6",
+        "name": "美队被动倒计时",
         "neg_effect_type": 0,
         "overlay_number": 4,
         "overlay_range": 2,
@@ -392,7 +394,7 @@
         "id": 109000001,
         "interval": 0,
         "is_event_drive": 2,
-        "name": "\u7f8e\u961f\u88ab\u52a8\u6548\u679c",
+        "name": "美队被动效果",
         "neg_effect_type": 0,
         "overlay_type": 1,
         "target_audio": "SE_Hit109_shield_01",
@@ -403,33 +405,37 @@
     "109000101": {
         "buffer_type": 3,
         "id": 109000101,
-        "name": "\u7f8e\u961f\u666e\u653b1\u6bb5\u51fb\u9000",
+        "name": "美队普攻1段击退",
         "repel_buff_param": [
-            null
+            1200,
+            1000
         ]
     },
     "109000102": {
         "buffer_type": 3,
         "id": 109000102,
-        "name": "\u7f8e\u961f\u666e\u653b2\u6bb5\u51fb\u9000",
+        "name": "美队普攻2段击退",
         "repel_buff_param": [
-            null
+            1200,
+            1000
         ]
     },
     "109000104": {
         "buffer_type": 3,
         "id": 109000104,
-        "name": "\u7f8e\u961f\u666e\u653b4\u6bb5\u51fb\u9000",
+        "name": "美队普攻4段击退",
         "repel_buff_param": [
-            null
+            1200,
+            1000
         ]
     },
     "109010101": {
         "buffer_type": 3,
         "id": 109010101,
-        "name": "\u7f8e\u961f\u98de\u76fe\u51fb\u9000",
+        "name": "美队飞盾击退",
         "repel_buff_param": [
-            null
+            1000,
+            1000
         ]
     },
     "109010102": {
@@ -442,7 +448,7 @@
         "id": 109010102,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u7f8e\u961f\u98de\u76fe\u51cf\u901f",
+        "name": "美队飞盾减速",
         "neg_effect_type": 0,
         "overlay_number": 1,
         "overlay_range": 1,
@@ -453,16 +459,17 @@
     "109010301": {
         "buffer_type": 3,
         "id": 109010301,
-        "name": "\u4e5d\u8fde\u51fb\u540e\u7a81\u51fb",
+        "name": "九连击后突击",
         "repel_buff_param": [
-            null
+            4500,
+            1000
         ]
     },
     "109020101": {
         "buffer_type": 2,
         "id": 109020101,
         "interval": 0,
-        "name": "\u7f8e\u961f\u51b2\u950b\u7729\u6655",
+        "name": "美队冲锋眩晕",
         "overlay_type": 1,
         "play_animation": "Stun",
         "state_buff_type": 4,
@@ -473,23 +480,25 @@
     "109020201": {
         "buffer_type": 3,
         "id": 109020201,
-        "name": "\u7529\u76fe\u540e\u98de\u8e22",
+        "name": "甩盾后飞踢",
         "repel_buff_param": [
-            null
+            1000,
+            1000
         ]
     },
     "109040101": {
         "buffer_type": 3,
         "id": 109040101,
-        "name": "\u7f8e\u961f\u5927\u62db\u51fb\u9000",
+        "name": "美队大招击退",
         "repel_buff_param": [
-            null
+            6000,
+            500
         ]
     },
     "109040102": {
         "buffer_type": 2,
         "id": 109040102,
-        "name": "\u7f8e\u961f\u5927\u62db\u4e0d\u88ab\u9009",
+        "name": "美队大招不被选",
         "state_buff_type": 1,
         "time": 3000
     },
@@ -500,7 +509,7 @@
         "buffer_type": 1,
         "id": 109040103,
         "interval": 0,
-        "name": "\u7f8e\u961f\u5927\u62dbbuff",
+        "name": "美队大招buff",
         "overlay_type": 1,
         "target_sfx": "FX_Hero109_Skill_004_buff",
         "target_sfx_position": "Hit3",
@@ -509,9 +518,10 @@
     "110000104": {
         "buffer_type": 3,
         "id": 110000104,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u666e\u653b4\u51fb\u9000",
+        "name": "奇异博士，普攻4击退",
         "repel_buff_param": [
-            null
+            2500,
+            500
         ]
     },
     "110020101": {
@@ -523,7 +533,7 @@
         "is_clear_when_max_overlay": 1,
         "is_event_drive": 2,
         "max_overlay_effect": 110020102,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u6280\u80fd2\u53e0\u5c42",
+        "name": "奇异博士，技能2叠层",
         "neg_effect_type": 0,
         "overlay_number": 2,
         "overlay_range": 2,
@@ -531,7 +541,6 @@
         "time": 5000
     },
     "110020102": {
-        "": null,
         "anti_buff_type": 0,
         "attr_buff_param_map": {
             "72": -9000
@@ -541,7 +550,7 @@
         "id": 110020102,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u6280\u80fd2\u51cf\u901f",
+        "name": "奇异博士，技能2减速",
         "neg_effect_type": 0,
         "overlay_type": 1,
         "time": 3000
@@ -551,7 +560,7 @@
         "id": 110100101,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u5927\u62db\u7729\u6655",
+        "name": "奇异博士，大招眩晕",
         "overlay_number": 1,
         "overlay_range": 1,
         "overlay_type": 1,
@@ -562,7 +571,6 @@
         "time": 2000
     },
     "110100102": {
-        "": null,
         "anti_buff_type": 0,
         "attr_buff_param_map": {
             "72": -5000
@@ -572,13 +580,12 @@
         "id": 110100102,
         "interval": 0,
         "is_clear_when_max_overlay": 0,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u5927\u62db\u51cf\u901f",
+        "name": "奇异博士，大招减速",
         "neg_effect_type": 0,
         "overlay_type": 1,
         "time": 4000
     },
     "110900101": {
-        "": null,
         "anti_buff_type": 0,
         "buffer_type": 0,
         "effect_type": 1,
@@ -586,7 +593,7 @@
         "interval": 0,
         "is_clear_when_max_overlay": 1,
         "is_event_drive": 2,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u88ab\u52a8\u53e0\u5c42",
+        "name": "奇异博士，被动叠层",
         "neg_effect_type": 0,
         "overlay_number": 3,
         "overlay_range": 2,
@@ -602,7 +609,7 @@
         "id": 110900102,
         "interval": 0,
         "is_event_drive": 2,
-        "name": "\u5947\u5f02\u535a\u58eb\uff0c\u88ab\u52a8\u5b50\u5f39",
+        "name": "奇异博士，被动子弹",
         "neg_effect_type": 0,
         "overlay_type": 1,
         "target_sfx": "FX_Hero110_passive02",
@@ -613,7 +620,7 @@
         "buffer_type": 2,
         "id": 127010101,
         "interval": 0,
-        "name": "\u706d\u9738\u6280\u80fd1\u7729\u66551",
+        "name": "灭霸技能1眩晕1",
         "overlay_type": 1,
         "play_animation": "Stun",
         "state_buff_type": 4,
@@ -625,7 +632,7 @@
         "buffer_type": 2,
         "id": 127010102,
         "interval": 0,
-        "name": "\u706d\u9738\u6280\u80fd1\u7729\u66552",
+        "name": "灭霸技能1眩晕2",
         "overlay_type": 1,
         "play_animation": "Stun",
         "state_buff_type": 4,
@@ -636,16 +643,17 @@
     "127020101": {
         "buffer_type": 3,
         "id": 127020101,
-        "name": "\u706d\u97382\u6280\u80fd-\u51fb\u98de",
+        "name": "灭霸2技能-击飞",
         "repel_buff_param": [
-            null
+            3000,
+            120
         ]
     },
     "127040101": {
         "buffer_type": 2,
         "id": 127040101,
         "interval": 0,
-        "name": "\u706d\u9738\u5927\u62db\u7729\u6655",
+        "name": "灭霸大招眩晕",
         "overlay_type": 1,
         "play_animation": "Stun",
         "state_buff_type": 4,
@@ -657,7 +665,7 @@
         "buffer_type": 2,
         "id": 127900101,
         "interval": 0,
-        "name": "\u706d\u9738\u88ab\u52a8\uff0c\u771f\u5b9e\u4f24\u5bb3",
+        "name": "灭霸被动，真实伤害",
         "overlay_type": 1,
         "state_buff_type": 14,
         "time": 5000
@@ -669,30 +677,32 @@
         "buffer_type": 1,
         "id": 127900102,
         "interval": 0,
-        "name": "\u706d\u9738\u88ab\u52a8\uff0c\u5438\u8840\u6548\u679c",
+        "name": "灭霸被动，吸血效果",
         "overlay_type": 1,
         "time": 5000
     },
     "301000101": {
         "buffer_type": 3,
         "id": 301000101,
-        "name": "Hydra\u72d9\u51fb\u5175\u666e\u653b\u4f24\u5bb3",
+        "name": "Hydra狙击兵普攻伤害",
         "repel_buff_param": [
-            null
+            1000,
+            6000
         ]
     },
     "303010101": {
         "buffer_type": 3,
         "id": 303010101,
-        "name": "\u76fe\u724c\u51b2\u950b\u4f24\u5bb3",
+        "name": "盾牌冲锋伤害",
         "repel_buff_param": [
-            null
+            8000,
+            1000
         ]
     },
     "321020101": {
         "buffer_type": 3,
         "id": 321020101,
-        "name": "\u957f\u67aa\u5175\u7a81\u523a\u4f24\u5bb3"
+        "name": "长枪兵突刺伤害"
     },
     "322000101": {
         "buffer_type": 1,
@@ -701,7 +711,7 @@
         "id": 322000101,
         "interval": 4000,
         "max_overlay_effect_delay": 0,
-        "name": "\u7075\u9b42\u9501\u94fe",
+        "name": "灵魂锁链",
         "neg_effect_type": 0,
         "target_sfx": "FX_Npc322_skill_002_01",
         "target_sfx_position": "Hit2",
@@ -714,7 +724,7 @@
         "id": 322010101,
         "interval": 4000,
         "max_overlay_effect_delay": 0,
-        "name": "\u9b54\u6cd5\u7403\u4f24\u5bb3\u964d\u4f4e",
+        "name": "魔法球伤害降低",
         "neg_effect_type": 0,
         "target_sfx": "FX_Hero110_Skill003_debuff01",
         "target_sfx_position": "Hit3",
