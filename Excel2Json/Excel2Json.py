@@ -49,7 +49,7 @@ def _Excel2Json(filePath):
             return num
     # 针对读出来的是102010101.0
     def myint(num):
-        return int(myStr(float(num)))
+        return int(myStr(float(str(num))))
 
     def mySplite(value, seperate):
         value = str(value).replace(' ', '')
@@ -57,12 +57,13 @@ def _Excel2Json(filePath):
             return [value]
         else:
             return value.split(seperate)
-        
 
     VectorPatten = re.compile('vector<(.*?)>', re.DOTALL | re.IGNORECASE)
     MapPatten = re.compile('map<(.*?),(.*?)>', re.DOTALL | re.IGNORECASE)
 
     def parseCell(fieldItem, cell):
+        if cell.value == None or str(cell.value).replace(' ','') == '':
+            return None
         def _innerParse(subType, value):
             try:
                 if subType == 'string':
@@ -72,7 +73,13 @@ def _Excel2Json(filePath):
                 elif subType == 'float':
                     return float(value)
             except:
-                print(fieldItem.name + '_innerParse ' + str(value))   
+                print(fieldItem.name + ' ' +  subType + ' _innerParse ' + str(value) + ' #')   
+                if subType == 'string':
+                    return ''
+                elif subType == 'int':
+                    return 0
+                elif subType == 'float':
+                    return 0.0
 
         fieldType = fieldItem.type
         
@@ -120,14 +127,17 @@ def _Excel2Json(filePath):
                         continue
                     # 这里由于可能存在' a'以及' c'所以改成了find
                     if fieldItem.targets == None or fieldItem.targets == '' or (fieldItem.targets.lower().find('a') == -1 and fieldItem.targets.lower().find('c') == -1):
-                        print(fieldItem.name + ' ' + fieldItem.targets.lower())
+                        # print(fieldItem.name + ' ' + fieldItem.targets.lower())
                         continue
                     # try:
                         # parseCell(fieldItem, cell)
                     # except:
                         # continue
                     # else:
-                    OutData[id][fieldItem.name] = parseCell(fieldItem, cell)
+                    result = parseCell(fieldItem, cell)
+                    if result != None:
+                        OutData[id][fieldItem.name] = result
+                        
                 
 
     jsonOut = json.dumps(OutData,sort_keys=True, indent=4, ensure_ascii=False, separators=(',', ': '))

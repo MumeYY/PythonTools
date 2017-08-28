@@ -27,7 +27,7 @@
         ],
         "star3_need": [
             3,
-            null
+            0
         ],
         "sweep": 1,
         "terrain": "Pve_map_0101_A",
@@ -96,7 +96,7 @@
         ],
         "star3_need": [
             7,
-            null
+            0
         ],
         "sweep": 1,
         "terrain": "Pve_map_0105_LD",

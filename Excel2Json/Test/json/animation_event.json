@@ -3,9 +3,6 @@
         "anim_name": "102_Attack_01",
         "func_name": "DoPlayEffectOnce",
         "id": 1,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Attack_001",
         "time": 0
     },
@@ -13,9 +10,6 @@
         "anim_name": "102_Attack_02",
         "func_name": "DoPlayEffectOnce",
         "id": 2,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Attack_002",
         "time": 0
     },
@@ -23,9 +17,6 @@
         "anim_name": "102_Attack_03",
         "func_name": "DoPlayEffectOnce",
         "id": 3,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Attack_003",
         "time": 0
     },
@@ -33,9 +24,6 @@
         "anim_name": "102_Attack_04",
         "func_name": "DoPlayEffectOnce",
         "id": 4,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Attack_004",
         "time": 0
     },
@@ -43,9 +31,6 @@
         "anim_name": "102_Attack_01",
         "func_name": "skill",
         "id": 5,
-        "offset": [
-            null
-        ],
         "str_param": "102000101",
         "time": 5
     },
@@ -53,9 +38,6 @@
         "anim_name": "102_Attack_02",
         "func_name": "skill",
         "id": 6,
-        "offset": [
-            null
-        ],
         "str_param": "102000201",
         "time": 6
     },
@@ -63,9 +45,6 @@
         "anim_name": "102_Attack_03",
         "func_name": "skill",
         "id": 7,
-        "offset": [
-            null
-        ],
         "str_param": "102000301",
         "time": 5
     },
@@ -73,9 +52,6 @@
         "anim_name": "102_Attack_04",
         "func_name": "skill",
         "id": 8,
-        "offset": [
-            null
-        ],
         "str_param": "102000401",
         "time": 5
     },
@@ -83,9 +59,6 @@
         "anim_name": "102_Attack",
         "func_name": "DoMove",
         "id": 9,
-        "offset": [
-            null
-        ],
         "str_param": "10000",
         "time": 32
     },
@@ -93,9 +66,6 @@
         "anim_name": "102_Attack",
         "func_name": "DoMove",
         "id": 10,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 35
     },
@@ -103,9 +73,6 @@
         "anim_name": "102_Attack",
         "func_name": "DoMove",
         "id": 11,
-        "offset": [
-            null
-        ],
         "str_param": "10000",
         "time": 58
     },
@@ -113,9 +80,6 @@
         "anim_name": "102_Attack",
         "func_name": "DoMove",
         "id": 12,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 61
     },
@@ -123,9 +87,6 @@
         "anim_name": "102_Attack",
         "func_name": "DoMove",
         "id": 13,
-        "offset": [
-            null
-        ],
         "str_param": "15000",
         "time": 72
     },
@@ -133,9 +94,6 @@
         "anim_name": "102_Attack",
         "func_name": "DoMove",
         "id": 14,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 75
     },
@@ -156,9 +114,6 @@
         "anim_name": "102_Skill_02_begin",
         "func_name": "skill",
         "id": 16,
-        "offset": [
-            null
-        ],
         "str_param": "102100101",
         "time": 0
     },
@@ -166,9 +121,6 @@
         "anim_name": "102_Skill_02_Move",
         "func_name": "DoPlayEffectOnce",
         "id": 17,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Skill002_begin",
         "str_param2": "root",
         "time": 0
@@ -177,9 +129,6 @@
         "anim_name": "102_Skill_02_Move",
         "func_name": "DoMove",
         "id": 18,
-        "offset": [
-            null
-        ],
         "str_param": "40000",
         "time": 0
     },
@@ -187,9 +136,6 @@
         "anim_name": "102_Skill_02_Move",
         "func_name": "DoMove",
         "id": 19,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 6
     },
@@ -226,9 +172,6 @@
         "anim_name": "102_Idle2",
         "func_name": "DoPlayEffectOnce",
         "id": 24,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Skill003_begin",
         "str_param2": "root",
         "time": 0
@@ -237,9 +180,6 @@
         "anim_name": "102_Idle2",
         "func_name": "DoPlayEffectOnce",
         "id": 25,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero102_Skill003_end",
         "str_param2": "root",
         "time": 34
@@ -274,9 +214,6 @@
         "anim_name": "104_Attack_001",
         "func_name": "skill",
         "id": 28,
-        "offset": [
-            null
-        ],
         "str_param": "104000101",
         "time": 1
     },
@@ -284,9 +221,6 @@
         "anim_name": "104_Attack_002",
         "func_name": "skill",
         "id": 29,
-        "offset": [
-            null
-        ],
         "str_param": "104000102",
         "time": 1
     },
@@ -294,9 +228,6 @@
         "anim_name": "104_Attack_003",
         "func_name": "skill",
         "id": 30,
-        "offset": [
-            null
-        ],
         "str_param": "104000103",
         "time": 1
     },
@@ -304,9 +235,6 @@
         "anim_name": "104_Attack_001",
         "func_name": "DoPlayEffectOnce",
         "id": 31,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero104_Attack001",
         "str_param2": "root",
         "time": 1
@@ -315,9 +243,6 @@
         "anim_name": "104_Attack_002",
         "func_name": "DoPlayEffectOnce",
         "id": 32,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero104_Attack002",
         "str_param2": "root",
         "time": 1
@@ -326,9 +251,6 @@
         "anim_name": "104_Attack_003",
         "func_name": "DoPlayEffectOnce",
         "id": 33,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero104_Attack003",
         "str_param2": "root",
         "time": 1
@@ -337,9 +259,6 @@
         "anim_name": "104_Attack_001",
         "func_name": "DoPlaySoundOnce",
         "id": 34,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero104_Iron_ATK1_P1_1",
         "time": 1
     },
@@ -347,9 +266,6 @@
         "anim_name": "104_Attack_002",
         "func_name": "DoPlaySoundOnce",
         "id": 35,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero104_Iron_ATK1_P1_2",
         "time": 2
     },
@@ -357,9 +273,6 @@
         "anim_name": "104_Attack_003",
         "func_name": "DoPlaySoundOnce",
         "id": 36,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero104_Iron_ATK1_P1_3",
         "time": 2
     },
@@ -367,9 +280,6 @@
         "anim_name": "104_Skill_01",
         "func_name": "skill",
         "id": 37,
-        "offset": [
-            null
-        ],
         "str_param": "104010101",
         "time": 1
     },
@@ -377,9 +287,6 @@
         "anim_name": "104_Skill_01",
         "func_name": "DoPlayEffectOnce",
         "id": 38,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero104_Skill_001",
         "str_param2": "root",
         "time": 1
@@ -388,9 +295,6 @@
         "anim_name": "104_Skill_01",
         "func_name": "skill",
         "id": 39,
-        "offset": [
-            null
-        ],
         "str_param": "104900101",
         "time": 5
     },
@@ -398,9 +302,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 40,
-        "offset": [
-            null
-        ],
         "str_param": "104020101",
         "time": 1
     },
@@ -408,9 +309,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 41,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 2
     },
@@ -418,9 +316,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 42,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 4
     },
@@ -428,9 +323,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 43,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 6
     },
@@ -438,9 +330,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 44,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 8
     },
@@ -448,9 +337,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 45,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 10
     },
@@ -458,9 +344,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 46,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 12
     },
@@ -468,9 +351,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 47,
-        "offset": [
-            null
-        ],
         "str_param": "104020102",
         "time": 14
     },
@@ -478,9 +358,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "skill",
         "id": 48,
-        "offset": [
-            null
-        ],
         "str_param": "104900101",
         "time": 15
     },
@@ -488,9 +365,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "DoMove",
         "id": 49,
-        "offset": [
-            null
-        ],
         "str_param": "15000",
         "time": 1
     },
@@ -498,9 +372,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "DoMove",
         "id": 50,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 10
     },
@@ -508,9 +379,6 @@
         "anim_name": "104_Skill_02",
         "func_name": "DoPlayEffectOnce",
         "id": 51,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero104_Skill_002",
         "str_param2": "root",
         "time": 1
@@ -545,9 +413,6 @@
         "anim_name": "104_Skill_UltraCombo",
         "func_name": "skill",
         "id": 54,
-        "offset": [
-            null
-        ],
         "str_param": "104100101",
         "time": 6
     },
@@ -555,9 +420,6 @@
         "anim_name": "104_Skill_UltraCombo",
         "func_name": "skill",
         "id": 55,
-        "offset": [
-            null
-        ],
         "str_param": "104100101",
         "time": 10
     },
@@ -565,9 +427,6 @@
         "anim_name": "104_Skill_UltraCombo",
         "func_name": "skill",
         "id": 56,
-        "offset": [
-            null
-        ],
         "str_param": "104100101",
         "time": 20
     },
@@ -575,9 +434,6 @@
         "anim_name": "104_Skill_UltraCombo",
         "func_name": "skill",
         "id": 57,
-        "offset": [
-            null
-        ],
         "str_param": "104100101",
         "time": 24
     },
@@ -585,9 +441,6 @@
         "anim_name": "104_Skill_UltraCombo",
         "func_name": "skill",
         "id": 58,
-        "offset": [
-            null
-        ],
         "str_param": "104900101",
         "time": 25
     },
@@ -595,9 +448,6 @@
         "anim_name": "104_Skill_UltraCombo",
         "func_name": "DoPlayEffectOnce",
         "id": 59,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero104_Skill003",
         "time": 1
     },
@@ -657,9 +507,6 @@
         "anim_name": "104_Hit",
         "func_name": "DoPlaySoundOnce",
         "id": 64,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hit104_General_1",
         "time": 2
     },
@@ -667,9 +514,6 @@
         "anim_name": "105_Attack_001",
         "func_name": "skill",
         "id": 65,
-        "offset": [
-            null
-        ],
         "str_param": "105000101",
         "time": 5
     },
@@ -677,9 +521,6 @@
         "anim_name": "105_Attack_002",
         "func_name": "skill",
         "id": 66,
-        "offset": [
-            null
-        ],
         "str_param": "105000301",
         "time": 7
     },
@@ -687,9 +528,6 @@
         "anim_name": "105_Attack_003",
         "func_name": "skill",
         "id": 67,
-        "offset": [
-            null
-        ],
         "str_param": "105000201",
         "time": 3
     },
@@ -697,9 +535,6 @@
         "anim_name": "105_Attack_004",
         "func_name": "skill",
         "id": 68,
-        "offset": [
-            null
-        ],
         "str_param": "105000401",
         "time": 7
     },
@@ -707,9 +542,6 @@
         "anim_name": "105_Attack_001",
         "func_name": "DoPlayEffectOnce",
         "id": 69,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Attack_001",
         "time": 1
     },
@@ -717,9 +549,6 @@
         "anim_name": "105_Attack_002",
         "func_name": "DoPlayEffectOnce",
         "id": 70,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Attack_002",
         "time": 1
     },
@@ -727,9 +556,6 @@
         "anim_name": "105_Attack_003",
         "func_name": "DoPlayEffectOnce",
         "id": 71,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Attack_003",
         "time": 1
     },
@@ -737,9 +563,6 @@
         "anim_name": "105_Attack_004",
         "func_name": "DoPlayEffectOnce",
         "id": 72,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Attack_004",
         "time": 1
     },
@@ -747,9 +570,6 @@
         "anim_name": "105_Attack_001",
         "func_name": "DoPlaySoundOnce",
         "id": 73,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_CA_ATK1_P1_1",
         "time": 1
     },
@@ -757,9 +577,6 @@
         "anim_name": "105_Attack_002",
         "func_name": "DoPlaySoundOnce",
         "id": 74,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_CA_ATK1_P3_1",
         "time": 1
     },
@@ -767,9 +584,6 @@
         "anim_name": "105_Attack_003",
         "func_name": "DoPlaySoundOnce",
         "id": 75,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_CA_ATK1_P2_1",
         "time": 1
     },
@@ -777,9 +591,6 @@
         "anim_name": "105_Attack_004",
         "func_name": "DoPlaySoundOnce",
         "id": 76,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_CA_ATK1_P4_1",
         "time": 2
     },
@@ -787,9 +598,6 @@
         "anim_name": "105_Skill_01_SprintLoop",
         "func_name": "DoPlaySoundOnce",
         "id": 77,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill01_01",
         "time": 1
     },
@@ -797,9 +605,6 @@
         "anim_name": "105_Skill_01_Hit",
         "func_name": "skill",
         "id": 78,
-        "offset": [
-            null
-        ],
         "str_param": "105010201",
         "time": 1
     },
@@ -807,9 +612,6 @@
         "anim_name": "105_Skill_01_Hit",
         "func_name": "DoPlayEffectOnce",
         "id": 79,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Skill_001_attack",
         "time": 6
     },
@@ -817,9 +619,6 @@
         "anim_name": "105_Skill_01_Hit",
         "func_name": "skill",
         "id": 80,
-        "offset": [
-            null
-        ],
         "str_param": "105010301",
         "time": 1
     },
@@ -827,9 +626,6 @@
         "anim_name": "105_Skill_01_Hit",
         "func_name": "DoPlaySoundOnce",
         "id": 81,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill01_02",
         "time": 1
     },
@@ -850,9 +646,6 @@
         "anim_name": "105_Skill_02",
         "func_name": "skill",
         "id": 83,
-        "offset": [
-            null
-        ],
         "str_param": "105020102",
         "time": 5
     },
@@ -860,9 +653,6 @@
         "anim_name": "105_Skill_02",
         "func_name": "DoPlaySoundOnce",
         "id": 84,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill02_01",
         "time": 2
     },
@@ -870,9 +660,6 @@
         "anim_name": "105_Skill_02",
         "func_name": "DoPlaySoundOnce",
         "id": 85,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill02_02",
         "time": 8
     },
@@ -880,9 +667,6 @@
         "anim_name": "105_Skill_02",
         "func_name": "DoPlayEffectOnce",
         "id": 86,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Skill_002_02",
         "str_param2": "root",
         "time": 1
@@ -891,9 +675,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlayEffectOnce",
         "id": 87,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero105_Skill_003",
         "time": 25
     },
@@ -901,9 +682,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "skill",
         "id": 88,
-        "offset": [
-            null
-        ],
         "str_param": "105040101",
         "time": 27
     },
@@ -911,9 +689,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "skill",
         "id": 89,
-        "offset": [
-            null
-        ],
         "str_param": "105040101",
         "time": 32
     },
@@ -921,9 +696,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "skill",
         "id": 90,
-        "offset": [
-            null
-        ],
         "str_param": "105040101",
         "time": 37
     },
@@ -931,9 +703,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "skill",
         "id": 91,
-        "offset": [
-            null
-        ],
         "str_param": "105040101",
         "time": 46
     },
@@ -941,9 +710,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "skill",
         "id": 92,
-        "offset": [
-            null
-        ],
         "str_param": "105040101",
         "time": 60
     },
@@ -951,9 +717,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlaySoundOnce",
         "id": 93,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill03_01",
         "time": 1
     },
@@ -961,9 +724,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlaySoundOnce",
         "id": 94,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill03_02",
         "time": 27
     },
@@ -971,9 +731,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlaySoundOnce",
         "id": 95,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill03_02",
         "time": 32
     },
@@ -981,9 +738,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlaySoundOnce",
         "id": 96,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill03_02",
         "time": 37
     },
@@ -991,9 +745,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlaySoundOnce",
         "id": 97,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill03_02",
         "time": 46
     },
@@ -1001,9 +752,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "DoPlaySoundOnce",
         "id": 98,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero105_Skill03_02",
         "time": 60
     },
@@ -1011,9 +759,6 @@
         "anim_name": "105_Skill_UltraCombo",
         "func_name": "skill",
         "id": 99,
-        "offset": [
-            null
-        ],
         "str_param": "105040102",
         "time": 1
     },
@@ -1021,9 +766,6 @@
         "anim_name": "105_Combat_Victory",
         "func_name": "DoPlayCameraMovie",
         "id": 100,
-        "offset": [
-            null
-        ],
         "str_param": "Hero105CombatVictory|CombatVictoryCamera|0",
         "time": 0
     },
@@ -1031,18 +773,12 @@
         "anim_name": "105_In",
         "func_name": "DoPlayEffectOnce",
         "id": 101,
-        "offset": [
-            null
-        ],
         "time": 10
     },
     "102": {
         "anim_name": "105_In",
         "func_name": "skill",
         "id": 102,
-        "offset": [
-            null
-        ],
         "str_param": "105050101",
         "time": 15
     },
@@ -1050,9 +786,6 @@
         "anim_name": "109_Attack_001",
         "func_name": "DoPlaySoundOnce",
         "id": 103,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_ATK1_P1_1",
         "time": 6
     },
@@ -1060,9 +793,6 @@
         "anim_name": "109_Attack_002",
         "func_name": "DoPlaySoundOnce",
         "id": 104,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_ATK1_P2_1",
         "time": 5
     },
@@ -1070,9 +800,6 @@
         "anim_name": "109_Attack_003",
         "func_name": "DoPlaySoundOnce",
         "id": 105,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_ATK1_P3_1",
         "time": 2
     },
@@ -1080,9 +807,6 @@
         "anim_name": "109_Attack_004",
         "func_name": "DoPlaySoundOnce",
         "id": 106,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_ATK1_P4_1",
         "time": 5
     },
@@ -1090,9 +814,6 @@
         "anim_name": "109_Attack_001",
         "func_name": "DoPlayEffectOnce",
         "id": 107,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Attack_001",
         "str_param2": "root",
         "time": 6
@@ -1101,9 +822,6 @@
         "anim_name": "109_Attack_002",
         "func_name": "DoPlayEffectOnce",
         "id": 108,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Attack_002",
         "str_param2": "root",
         "time": 5
@@ -1112,9 +830,6 @@
         "anim_name": "109_Attack_003",
         "func_name": "DoPlayEffectOnce",
         "id": 109,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Attack_003",
         "str_param2": "root",
         "time": 2
@@ -1123,9 +838,6 @@
         "anim_name": "109_Attack_004",
         "func_name": "DoPlayEffectOnce1",
         "id": 110,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Attack_004",
         "str_param2": "root",
         "time": 5
@@ -1134,9 +846,6 @@
         "anim_name": "109_Attack_001",
         "func_name": "skill",
         "id": 111,
-        "offset": [
-            null
-        ],
         "str_param": "109000101",
         "time": 6
     },
@@ -1144,9 +853,6 @@
         "anim_name": "109_Attack_002",
         "func_name": "skill",
         "id": 112,
-        "offset": [
-            null
-        ],
         "str_param": "109000102",
         "time": 5
     },
@@ -1154,9 +860,6 @@
         "anim_name": "109_Attack_003",
         "func_name": "skill",
         "id": 113,
-        "offset": [
-            null
-        ],
         "str_param": "109000103",
         "time": 3
     },
@@ -1164,9 +867,6 @@
         "anim_name": "109_Attack_004",
         "func_name": "skill",
         "id": 114,
-        "offset": [
-            null
-        ],
         "str_param": "109000104",
         "time": 5
     },
@@ -1174,9 +874,6 @@
         "anim_name": "109_Attack_001",
         "func_name": "DoCameraShake",
         "id": 115,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|33",
         "time": 6
     },
@@ -1184,9 +881,6 @@
         "anim_name": "109_Attack_002",
         "func_name": "DoCameraShake",
         "id": 116,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|33",
         "time": 5
     },
@@ -1194,9 +888,6 @@
         "anim_name": "109_Attack_003",
         "func_name": "DoCameraShake",
         "id": 117,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|33",
         "time": 3
     },
@@ -1204,9 +895,6 @@
         "anim_name": "109_Attack_004",
         "func_name": "DoCameraShake",
         "id": 118,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|33",
         "time": 5
     },
@@ -1214,9 +902,6 @@
         "anim_name": "109_Skill_01_Begin",
         "func_name": "DoCameraShake",
         "id": 119,
-        "offset": [
-            null
-        ],
         "str_param": "100|100|33",
         "time": 3
     },
@@ -1224,9 +909,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "DoCameraShake",
         "id": 120,
-        "offset": [
-            null
-        ],
         "str_param": "100|100|33",
         "time": 3
     },
@@ -1234,9 +916,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "DoCameraShake",
         "id": 121,
-        "offset": [
-            null
-        ],
         "str_param": "300|300|200",
         "time": 21
     },
@@ -1244,9 +923,6 @@
         "anim_name": "109_Skill_01_Begin",
         "func_name": "DoPlaySoundOnce",
         "id": 122,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_Skill1_P1_1",
         "time": 2
     },
@@ -1267,9 +943,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "DoPlaySoundOnce",
         "id": 124,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_Skill2_P1_1",
         "time": 1
     },
@@ -1277,9 +950,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "skill",
         "id": 125,
-        "offset": [
-            null
-        ],
         "str_param": "109020101",
         "time": 0
     },
@@ -1287,9 +957,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "DoPlayEffectOnce1",
         "id": 126,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Skill_001",
         "str_param2": "root",
         "time": 1
@@ -1298,9 +965,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "DoMove",
         "id": 127,
-        "offset": [
-            null
-        ],
         "str_param": "14000",
         "time": 0
     },
@@ -1308,9 +972,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "DoMove",
         "id": 128,
-        "offset": [
-            null
-        ],
         "str_param": "14000",
         "time": 11
     },
@@ -1318,9 +979,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "DoMove",
         "id": 129,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 12
     },
@@ -1328,9 +986,6 @@
         "anim_name": "109_Skill_02",
         "func_name": "DoMove",
         "id": 130,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 13
     },
@@ -1338,9 +993,6 @@
         "anim_name": "109_Skill_02_End",
         "func_name": "DoPlayEffectOnce",
         "id": 131,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Skill_001_end",
         "time": 0
     },
@@ -1348,9 +1000,6 @@
         "anim_name": "109_Skill_03",
         "func_name": "skill",
         "id": 132,
-        "offset": [
-            null
-        ],
         "str_param": "109030101",
         "time": 13
     },
@@ -1358,9 +1007,6 @@
         "anim_name": "109_Skill_03",
         "func_name": "skill",
         "id": 133,
-        "offset": [
-            null
-        ],
         "str_param": "109030101",
         "time": 19
     },
@@ -1368,9 +1014,6 @@
         "anim_name": "109_Skill_03",
         "func_name": "skill",
         "id": 134,
-        "offset": [
-            null
-        ],
         "str_param": "109030102",
         "time": 36
     },
@@ -1378,9 +1021,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "DoPlaySoundOnce",
         "id": 135,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero109_CA_Skill3_P2_1",
         "time": 21
     },
@@ -1388,9 +1028,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "skill",
         "id": 136,
-        "offset": [
-            null
-        ],
         "str_param": "109040102",
         "time": 1
     },
@@ -1398,9 +1035,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "skill",
         "id": 137,
-        "offset": [
-            null
-        ],
         "str_param": "109040101",
         "time": 21
     },
@@ -1408,9 +1042,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "skill",
         "id": 138,
-        "offset": [
-            null
-        ],
         "str_param": "109040103",
         "time": 21
     },
@@ -1418,9 +1049,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 139,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Skill_004_Begin",
         "time": 1
     },
@@ -1428,9 +1056,6 @@
         "anim_name": "109_Skill_UltraCombo_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 140,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero109_Skill_004_bash",
         "time": 23
     },
@@ -1438,9 +1063,6 @@
         "anim_name": "109_Combat_Victory",
         "func_name": "DoPlayCameraMovie",
         "id": 141,
-        "offset": [
-            null
-        ],
         "str_param": "Hero109CombatVictory|CombatVictoryCamera|0",
         "time": 0
     },
@@ -1448,9 +1070,6 @@
         "anim_name": "109_Hit",
         "func_name": "DoPlaySoundOnce",
         "id": 142,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hit109_General_1.wav",
         "time": 2
     },
@@ -1458,18 +1077,12 @@
         "anim_name": "109_In",
         "func_name": "DoPlayEffectOnce",
         "id": 143,
-        "offset": [
-            null
-        ],
         "time": 10
     },
     "144": {
         "anim_name": "109_In",
         "func_name": "skill",
         "id": 144,
-        "offset": [
-            null
-        ],
         "str_param": "109070101",
         "time": 15
     },
@@ -1477,9 +1090,6 @@
         "anim_name": "103_Shot_Up",
         "func_name": "skill",
         "id": 145,
-        "offset": [
-            null
-        ],
         "str_param": "103000101",
         "time": 3
     },
@@ -1487,9 +1097,6 @@
         "anim_name": "103_Shot_Up",
         "func_name": "DoPlayEffectOnce",
         "id": 146,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero103_01_MF",
         "time": 1
     },
@@ -1510,9 +1117,6 @@
         "anim_name": "112_Attack_001",
         "func_name": "DoPlayEffectOnce",
         "id": 148,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero112_Attack_001",
         "str_param2": "root",
         "time": 2
@@ -1521,9 +1125,6 @@
         "anim_name": "112_Attack_002",
         "func_name": "skill",
         "id": 149,
-        "offset": [
-            null
-        ],
         "str_param": "112000102",
         "time": 10
     },
@@ -1531,9 +1132,6 @@
         "anim_name": "112_Attack_002",
         "func_name": "DoPlayEffectOnce",
         "id": 150,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero112_Attack_002",
         "str_param2": "root",
         "time": 5
@@ -1542,9 +1140,6 @@
         "anim_name": "112_Attack_003",
         "func_name": "skill",
         "id": 151,
-        "offset": [
-            null
-        ],
         "str_param": "112000103",
         "time": 8
     },
@@ -1552,9 +1147,6 @@
         "anim_name": "112_Attack_003",
         "func_name": "DoPlayEffectOnce",
         "id": 152,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero112_Attack_003",
         "str_param2": "root",
         "time": 3
@@ -1563,9 +1155,6 @@
         "anim_name": "112_Attack_004",
         "func_name": "skill",
         "id": 153,
-        "offset": [
-            null
-        ],
         "str_param": "112000104",
         "time": 30
     },
@@ -1573,9 +1162,6 @@
         "anim_name": "112_Attack_004",
         "func_name": "DoPlayEffectOnce",
         "id": 154,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero112_Attack_004",
         "str_param2": "root",
         "time": 4
@@ -1584,9 +1170,6 @@
         "anim_name": "68_Skill_01",
         "func_name": "skill",
         "id": 155,
-        "offset": [
-            null
-        ],
         "str_param": "68000101",
         "time": 17
     },
@@ -1594,9 +1177,6 @@
         "anim_name": "68_Skill_02",
         "func_name": "skill",
         "id": 156,
-        "offset": [
-            null
-        ],
         "str_param": "68000102",
         "time": 19
     },
@@ -1604,9 +1184,6 @@
         "anim_name": "68_Skill_03",
         "func_name": "skill",
         "id": 157,
-        "offset": [
-            null
-        ],
         "str_param": "68000103",
         "time": 13
     },
@@ -1614,9 +1191,6 @@
         "anim_name": "123_Death",
         "func_name": "PlayDOFBlur",
         "id": 158,
-        "offset": [
-            null
-        ],
         "str_param": "750",
         "time": 6
     },
@@ -1624,9 +1198,6 @@
         "anim_name": "123_Death",
         "func_name": "DoEaseToFieldOfView",
         "id": 159,
-        "offset": [
-            null
-        ],
         "str_param": "20",
         "time": 4
     },
@@ -1634,9 +1205,6 @@
         "anim_name": "123_Death",
         "func_name": "DoEaseToFieldOfView",
         "id": 160,
-        "offset": [
-            null
-        ],
         "str_param": "20",
         "time": 10
     },
@@ -1644,9 +1212,6 @@
         "anim_name": "123_Death",
         "func_name": "DoEaseToFieldOfView",
         "id": 161,
-        "offset": [
-            null
-        ],
         "str_param": "20",
         "time": 11
     },
@@ -1654,9 +1219,6 @@
         "anim_name": "123_Death",
         "func_name": "DoEaseToFieldOfView",
         "id": 162,
-        "offset": [
-            null
-        ],
         "str_param": "45",
         "time": 15
     },
@@ -1664,18 +1226,12 @@
         "anim_name": "123_Death",
         "func_name": "DoTimeScale",
         "id": 163,
-        "offset": [
-            null
-        ],
         "time": 6
     },
     "164": {
         "anim_name": "123_Death",
         "func_name": "DoTimeScale",
         "id": 164,
-        "offset": [
-            null
-        ],
         "time": 37
     },
     "165": {
@@ -1994,9 +1550,6 @@
         "anim_name": "123_Skill_02",
         "func_name": "skill",
         "id": 189,
-        "offset": [
-            null
-        ],
         "str_param": "123102101",
         "time": 53
     },
@@ -2004,9 +1557,6 @@
         "anim_name": "123_Combat_Show",
         "func_name": "DoPlayCameraMovie",
         "id": 190,
-        "offset": [
-            null
-        ],
         "str_param": "Hero123CombatShow|CombatShowCamera",
         "time": 1
     },
@@ -2014,27 +1564,18 @@
         "anim_name": "123_Combat_Show",
         "func_name": "DoTimeScale",
         "id": 191,
-        "offset": [
-            null
-        ],
         "time": 59
     },
     "192": {
         "anim_name": "123_Combat_Show",
         "func_name": "DoTimeScale",
         "id": 192,
-        "offset": [
-            null
-        ],
         "time": 79
     },
     "193": {
         "anim_name": "123_Combat_Show",
         "func_name": "flyIcon",
         "id": 193,
-        "offset": [
-            null
-        ],
         "str_param": "Zd_cc|0|-200|400|-50|300",
         "time": 55
     },
@@ -2042,9 +1583,6 @@
         "anim_name": "123_Combat_Show",
         "func_name": "flyIcon",
         "id": 194,
-        "offset": [
-            null
-        ],
         "str_param": "Zd_cc|0|-200|400|-999|300",
         "time": 79
     },
@@ -2052,9 +1590,6 @@
         "anim_name": "110_Attack_001",
         "func_name": "DoPlayEffectOnce",
         "id": 195,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_attack_001",
         "time": 0
     },
@@ -2062,9 +1597,6 @@
         "anim_name": "110_Attack_002",
         "func_name": "DoPlayEffectOnce",
         "id": 196,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_attack_002",
         "time": 0
     },
@@ -2072,9 +1604,6 @@
         "anim_name": "110_Attack_003",
         "func_name": "DoPlayEffectOnce",
         "id": 197,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_attack_003",
         "time": 0
     },
@@ -2095,9 +1624,6 @@
         "anim_name": "110_Attack_002",
         "func_name": "skill",
         "id": 199,
-        "offset": [
-            null
-        ],
         "str_param": "110000102",
         "time": 6
     },
@@ -2105,9 +1631,6 @@
         "anim_name": "110_Attack_003",
         "func_name": "skill",
         "id": 200,
-        "offset": [
-            null
-        ],
         "str_param": "110000103",
         "time": 6
     },
@@ -2128,9 +1651,6 @@
         "anim_name": "110_Skill_UltraCombo_begin",
         "func_name": "DoPlayEffectOnce",
         "id": 202,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill003_001_new",
         "time": 2
     },
@@ -2138,9 +1658,6 @@
         "anim_name": "110_Skill_UltraCombo_begin",
         "func_name": "skill",
         "id": 203,
-        "offset": [
-            null
-        ],
         "str_param": "110100101",
         "time": 2
     },
@@ -2148,9 +1665,6 @@
         "anim_name": "110_Skill_02_begin",
         "func_name": "DoPlayEffectOnce",
         "id": 204,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill002_02",
         "time": 1
     },
@@ -2158,9 +1672,6 @@
         "anim_name": "110_Skill_02_begin",
         "func_name": "DoPlayEffectOnce",
         "id": 205,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill002_03",
         "time": 5
     },
@@ -2168,9 +1679,6 @@
         "anim_name": "110_Skill_02_begin",
         "func_name": "SwitchSkill",
         "id": 206,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 1
     },
@@ -2178,9 +1686,6 @@
         "anim_name": "110_Skill_02_begin",
         "func_name": "skill",
         "id": 207,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 1
     },
@@ -2188,9 +1693,6 @@
         "anim_name": "110_Skill_02_begin",
         "func_name": "skill",
         "id": 208,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 5
     },
@@ -2198,9 +1700,6 @@
         "anim_name": "110_Skill_02_begin_2",
         "func_name": "DoPlayEffectOnce",
         "id": 209,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill002_02",
         "time": 1
     },
@@ -2208,9 +1707,6 @@
         "anim_name": "110_Skill_02_begin_2",
         "func_name": "DoPlayEffectOnce",
         "id": 210,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill002_03",
         "time": 5
     },
@@ -2218,9 +1714,6 @@
         "anim_name": "110_Skill_02_begin_2",
         "func_name": "SwitchSkill",
         "id": 211,
-        "offset": [
-            null
-        ],
         "str_param": "110020102",
         "time": 1
     },
@@ -2228,9 +1721,6 @@
         "anim_name": "110_Skill_02_begin_2",
         "func_name": "skill",
         "id": 212,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 1
     },
@@ -2238,9 +1728,6 @@
         "anim_name": "110_Skill_02_begin_2",
         "func_name": "skill",
         "id": 213,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 5
     },
@@ -2248,9 +1735,6 @@
         "anim_name": "110_Skill_02_begin_3",
         "func_name": "DoPlayEffectOnce",
         "id": 214,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill002_02",
         "time": 1
     },
@@ -2258,9 +1742,6 @@
         "anim_name": "110_Skill_02_begin_3",
         "func_name": "DoPlayEffectOnce",
         "id": 215,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_Skill002_03",
         "time": 5
     },
@@ -2268,9 +1749,6 @@
         "anim_name": "110_Skill_02_begin_3",
         "func_name": "SwitchSkill",
         "id": 216,
-        "offset": [
-            null
-        ],
         "str_param": "110020103",
         "time": 1
     },
@@ -2278,9 +1756,6 @@
         "anim_name": "110_Skill_02_begin_3",
         "func_name": "skill",
         "id": 217,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 1
     },
@@ -2288,9 +1763,6 @@
         "anim_name": "110_Skill_02_begin_3",
         "func_name": "skill",
         "id": 218,
-        "offset": [
-            null
-        ],
         "str_param": "110020101",
         "time": 5
     },
@@ -2298,9 +1770,6 @@
         "anim_name": "110_Dodge",
         "func_name": "DoMove",
         "id": 219,
-        "offset": [
-            null
-        ],
         "str_param": "-30000",
         "time": 2
     },
@@ -2308,9 +1777,6 @@
         "anim_name": "110_Dodge",
         "func_name": "DoMove",
         "id": 220,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 10
     },
@@ -2318,9 +1784,6 @@
         "anim_name": "110_Dodge",
         "func_name": "DoPlayEffectOnce1",
         "id": 221,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_dodge",
         "str_param2": "root",
         "time": 2
@@ -2329,9 +1792,6 @@
         "anim_name": "110_Combat_Victory",
         "func_name": "DoPlayCameraMovie",
         "id": 222,
-        "offset": [
-            null
-        ],
         "str_param": "Hero110CombatVictory|CombatVictoryCamera|0",
         "time": 0
     },
@@ -2339,9 +1799,6 @@
         "anim_name": "110_In",
         "func_name": "DoPlayEffectOnce",
         "id": 223,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero110_in",
         "time": 10
     },
@@ -2349,9 +1806,6 @@
         "anim_name": "110_In",
         "func_name": "skill",
         "id": 224,
-        "offset": [
-            null
-        ],
         "str_param": "110050101",
         "time": 15
     },
@@ -2359,9 +1813,6 @@
         "anim_name": "110_Attack_001",
         "func_name": "DoPlaySoundOnce",
         "id": 225,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_CA_ATK1_P1_1",
         "time": 1
     },
@@ -2369,9 +1820,6 @@
         "anim_name": "110_Attack_002",
         "func_name": "DoPlaySoundOnce",
         "id": 226,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_CA_ATK1_P2_1",
         "time": 1
     },
@@ -2379,9 +1827,6 @@
         "anim_name": "110_Attack_003",
         "func_name": "DoPlaySoundOnce",
         "id": 227,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_CA_ATK1_P3_1",
         "time": 4
     },
@@ -2389,9 +1834,6 @@
         "anim_name": "110_Attack_004",
         "func_name": "DoPlaySoundOnce",
         "id": 228,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_CA_ATK1_P4_1",
         "time": 4
     },
@@ -2399,9 +1841,6 @@
         "anim_name": "110_Skill_01_begin",
         "func_name": "DoPlaySoundOnce",
         "id": 229,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_Skill01_01",
         "time": 1
     },
@@ -2409,9 +1848,6 @@
         "anim_name": "110_Skill_02_begin",
         "func_name": "DoPlaySoundOnce",
         "id": 230,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_Skill02_01",
         "time": 1
     },
@@ -2419,9 +1855,6 @@
         "anim_name": "110_Skill_02_begin_2",
         "func_name": "DoPlaySoundOnce",
         "id": 231,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_Skill02_01",
         "time": 1
     },
@@ -2429,9 +1862,6 @@
         "anim_name": "110_Skill_02_begin_3",
         "func_name": "DoPlaySoundOnce",
         "id": 232,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_Skill02_01",
         "time": 1
     },
@@ -2439,9 +1869,6 @@
         "anim_name": "110_Skill_UltraCombo_begin",
         "func_name": "DoPlaySoundOnce",
         "id": 233,
-        "offset": [
-            null
-        ],
         "str_param": "SE_Hero110_UltraCombo_01",
         "time": 1
     },
@@ -2471,9 +1898,6 @@
         "anim_name": "301_Attack_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 236,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc301_skillbegin",
         "str_param2": "Effect_1",
         "time": 12
@@ -2495,9 +1919,6 @@
         "anim_name": "301_Skill_Loop",
         "func_name": "skill",
         "id": 238,
-        "offset": [
-            null
-        ],
         "str_param": "301010101",
         "str_param2": "Effect_1",
         "time": 2
@@ -2506,9 +1927,6 @@
         "anim_name": "301_Dodge",
         "func_name": "DoMove",
         "id": 239,
-        "offset": [
-            null
-        ],
         "str_param": "-9000",
         "time": 1
     },
@@ -2516,9 +1934,6 @@
         "anim_name": "301_Dodge",
         "func_name": "DoMove",
         "id": 240,
-        "offset": [
-            null
-        ],
         "str_param": "-1000",
         "time": 15
     },
@@ -2526,9 +1941,6 @@
         "anim_name": "301_Born",
         "func_name": "DoPlayEffectOnce",
         "id": 241,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Summon_npc01",
         "str_param2": "root",
         "time": 1
@@ -2537,9 +1949,6 @@
         "anim_name": "302_Attack",
         "func_name": "skill",
         "id": 242,
-        "offset": [
-            null
-        ],
         "str_param": "302000101",
         "time": 17
     },
@@ -2547,9 +1956,6 @@
         "anim_name": "302_Attack",
         "func_name": "skill",
         "id": 243,
-        "offset": [
-            null
-        ],
         "str_param": "302000101",
         "time": 24
     },
@@ -2557,9 +1963,6 @@
         "anim_name": "302_Skill1_Begin01",
         "func_name": "DoPlayEffectOnce",
         "id": 244,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc302_attack_begin",
         "str_param2": "Muzzle_L",
         "time": 1
@@ -2568,9 +1971,6 @@
         "anim_name": "302_Skill1_Begin01",
         "func_name": "DoPlayEffectOnce",
         "id": 245,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc302_attack_begin",
         "str_param2": "Muzzle_R",
         "time": 1
@@ -2579,9 +1979,6 @@
         "anim_name": "302_Skill1_Jump",
         "func_name": "DoMove",
         "id": 246,
-        "offset": [
-            null
-        ],
         "str_param": "12000",
         "time": 1
     },
@@ -2589,9 +1986,6 @@
         "anim_name": "302_Skill1_Jump",
         "func_name": "DoMove",
         "id": 247,
-        "offset": [
-            null
-        ],
         "str_param": "3000",
         "time": 15
     },
@@ -2599,9 +1993,6 @@
         "anim_name": "302_Skill1_Hit",
         "func_name": "skill",
         "id": 248,
-        "offset": [
-            null
-        ],
         "str_param": "302010101",
         "time": 1
     },
@@ -2609,9 +2000,6 @@
         "anim_name": "302_Skill1_Hit",
         "func_name": "DoPlayEffectOnce",
         "id": 249,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc302_skill1",
         "str_param2": "root",
         "time": 3
@@ -2620,9 +2008,6 @@
         "anim_name": "302_Born",
         "func_name": "DoPlayEffectOnce",
         "id": 250,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Summon_npc01",
         "str_param2": "root",
         "time": 1
@@ -2631,9 +2016,6 @@
         "anim_name": "303_Attack_End",
         "func_name": "skill",
         "id": 251,
-        "offset": [
-            null
-        ],
         "str_param": "303000101",
         "time": 2
     },
@@ -2641,9 +2023,6 @@
         "anim_name": "303_Skill_Loop",
         "func_name": "skill",
         "id": 252,
-        "offset": [
-            null
-        ],
         "str_param": "303010101",
         "time": 1
     },
@@ -2651,9 +2030,6 @@
         "anim_name": "303_Skill_Loop",
         "func_name": "DoMove",
         "id": 253,
-        "offset": [
-            null
-        ],
         "str_param": "28000",
         "time": 1
     },
@@ -2673,9 +2049,6 @@
         "anim_name": "303_Born",
         "func_name": "DoPlayEffectOnce",
         "id": 255,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Summon_npc02",
         "str_param2": "Effect_1",
         "time": 7
@@ -2866,9 +2239,6 @@
         "anim_name": "605_Born",
         "func_name": "DoPlayEffectOnce",
         "id": 270,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc_505_spawn",
         "str_param2": "Hit3",
         "time": 1
@@ -2877,9 +2247,6 @@
         "anim_name": "127_Attack_01",
         "func_name": "skill",
         "id": 271,
-        "offset": [
-            null
-        ],
         "str_param": "127000101",
         "time": 8
     },
@@ -2887,9 +2254,6 @@
         "anim_name": "127_Attack_02",
         "func_name": "skill",
         "id": 272,
-        "offset": [
-            null
-        ],
         "str_param": "127000102",
         "time": 9
     },
@@ -2897,9 +2261,6 @@
         "anim_name": "127_Attack_03",
         "func_name": "skill",
         "id": 273,
-        "offset": [
-            null
-        ],
         "str_param": "127000103",
         "time": 8
     },
@@ -2907,9 +2268,6 @@
         "anim_name": "127_Attack_01",
         "func_name": "DoCameraShake",
         "id": 274,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|33",
         "time": 8
     },
@@ -2917,9 +2275,6 @@
         "anim_name": "127_Attack_02",
         "func_name": "DoCameraShake",
         "id": 275,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|33",
         "time": 9
     },
@@ -2927,9 +2282,6 @@
         "anim_name": "127_Attack_03",
         "func_name": "DoCameraShake",
         "id": 276,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|66",
         "time": 8
     },
@@ -2949,9 +2301,6 @@
         "anim_name": "127_Skill_01_Loop",
         "func_name": "DoEaseToFieldOfView",
         "id": 278,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 0
     },
@@ -2959,9 +2308,6 @@
         "anim_name": "127_Skill_01_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 279,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero127_Skill_001_Hand",
         "str_param2": "Bip001 R Hand",
         "time": 9
@@ -2970,9 +2316,6 @@
         "anim_name": "127_Skill_01_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 280,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero127_Skill_001_04",
         "time": 10
     },
@@ -2980,9 +2323,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "skill",
         "id": 281,
-        "offset": [
-            null
-        ],
         "str_param": "127010101",
         "time": 2
     },
@@ -2990,9 +2330,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "skill",
         "id": 282,
-        "offset": [
-            null
-        ],
         "str_param": "127010102",
         "time": 10
     },
@@ -3000,9 +2337,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "skill",
         "id": 283,
-        "offset": [
-            null
-        ],
         "str_param": "127010103",
         "time": 2
     },
@@ -3010,9 +2344,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "DoCameraShake",
         "id": 284,
-        "offset": [
-            null
-        ],
         "str_param": "50|50|66",
         "time": 9
     },
@@ -3020,9 +2351,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "DoEaseToFieldOfView",
         "id": 285,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 0
     },
@@ -3030,9 +2358,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "DoEaseToFieldOfView",
         "id": 286,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 6
     },
@@ -3040,9 +2365,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "DoEaseToFieldOfView",
         "id": 287,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 7
     },
@@ -3050,9 +2372,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "DoEaseToFieldOfView",
         "id": 288,
-        "offset": [
-            null
-        ],
         "str_param": "30",
         "time": 8
     },
@@ -3060,9 +2379,6 @@
         "anim_name": "127_Skill_01_End",
         "func_name": "DoEaseToFieldOfView",
         "id": 289,
-        "offset": [
-            null
-        ],
         "str_param": "30",
         "time": 12
     },
@@ -3070,9 +2386,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "skill",
         "id": 290,
-        "offset": [
-            null
-        ],
         "str_param": "127020101",
         "time": 24
     },
@@ -3080,9 +2393,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoPlayEffectOnce",
         "id": 291,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero127_Skill_002_new",
         "str_param2": "root",
         "time": 0
@@ -3091,9 +2401,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoCameraShake",
         "id": 292,
-        "offset": [
-            null
-        ],
         "str_param": "100|100|100",
         "time": 23
     },
@@ -3101,9 +2408,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoEaseToFieldOfView",
         "id": 293,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 0
     },
@@ -3111,9 +2415,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoEaseToFieldOfView",
         "id": 294,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 12
     },
@@ -3121,9 +2422,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoEaseToFieldOfView",
         "id": 295,
-        "offset": [
-            null
-        ],
         "str_param": "25",
         "time": 22
     },
@@ -3131,9 +2429,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoEaseToFieldOfView",
         "id": 296,
-        "offset": [
-            null
-        ],
         "str_param": "30",
         "time": 23
     },
@@ -3141,9 +2436,6 @@
         "anim_name": "127_Skill_02",
         "func_name": "DoEaseToFieldOfView",
         "id": 297,
-        "offset": [
-            null
-        ],
         "str_param": "30",
         "time": 25
     },
@@ -3151,9 +2443,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "skill",
         "id": 298,
-        "offset": [
-            null
-        ],
         "str_param": "127040101",
         "time": 42
     },
@@ -3161,9 +2450,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoPlayEffectOnce",
         "id": 299,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Hero127_Skill_002",
         "time": 42
     },
@@ -3171,9 +2457,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoEaseToFieldOfView",
         "id": 300,
-        "offset": [
-            null
-        ],
         "str_param": "45",
         "time": 0
     },
@@ -3181,9 +2464,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoEaseToFieldOfView",
         "id": 301,
-        "offset": [
-            null
-        ],
         "str_param": "45",
         "time": 10
     },
@@ -3191,9 +2471,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoEaseToFieldOfView",
         "id": 302,
-        "offset": [
-            null
-        ],
         "str_param": "45",
         "time": 29
     },
@@ -3201,9 +2478,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoEaseToFieldOfView",
         "id": 303,
-        "offset": [
-            null
-        ],
         "str_param": "30",
         "time": 30
     },
@@ -3211,9 +2485,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoEaseToFieldOfView",
         "id": 304,
-        "offset": [
-            null
-        ],
         "str_param": "30",
         "time": 40
     },
@@ -3221,9 +2492,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoCameraShake",
         "id": 305,
-        "offset": [
-            null
-        ],
         "str_param": "100|100|33",
         "time": 12
     },
@@ -3231,9 +2499,6 @@
         "anim_name": "127_Skill_UltraCombo",
         "func_name": "DoCameraShake",
         "id": 306,
-        "offset": [
-            null
-        ],
         "str_param": "300|300|330",
         "time": 42
     },
@@ -3241,9 +2506,6 @@
         "anim_name": "321_Attack_02",
         "func_name": "skill",
         "id": 307,
-        "offset": [
-            null
-        ],
         "str_param": "321000101",
         "str_param2": "root",
         "time": 10
@@ -3252,9 +2514,6 @@
         "anim_name": "321_Attack_02",
         "func_name": "skill",
         "id": 308,
-        "offset": [
-            null
-        ],
         "str_param": "321000101",
         "str_param2": "root",
         "time": 30
@@ -3263,9 +2522,6 @@
         "anim_name": "321_Attack_02",
         "func_name": "skill",
         "id": 309,
-        "offset": [
-            null
-        ],
         "str_param": "321000101",
         "str_param2": "root",
         "time": 53
@@ -3274,9 +2530,6 @@
         "anim_name": "321_Attack_02",
         "func_name": "DoPlayEffectOnce",
         "id": 310,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc321_Attack_002",
         "str_param2": "root",
         "time": 1
@@ -3285,9 +2538,6 @@
         "anim_name": "321_Skill_01",
         "func_name": "skill",
         "id": 311,
-        "offset": [
-            null
-        ],
         "str_param": "321010101",
         "str_param2": "root",
         "time": 10
@@ -3296,9 +2546,6 @@
         "anim_name": "321_Skill_01",
         "func_name": "skill",
         "id": 312,
-        "offset": [
-            null
-        ],
         "str_param": "321010101",
         "str_param2": "root",
         "time": 13
@@ -3307,9 +2554,6 @@
         "anim_name": "321_Skill_01",
         "func_name": "skill",
         "id": 313,
-        "offset": [
-            null
-        ],
         "str_param": "321010101",
         "str_param2": "root",
         "time": 16
@@ -3318,9 +2562,6 @@
         "anim_name": "321_Skill_01",
         "func_name": "skill",
         "id": 314,
-        "offset": [
-            null
-        ],
         "str_param": "321010101",
         "str_param2": "root",
         "time": 19
@@ -3329,9 +2570,6 @@
         "anim_name": "321_Skill_01",
         "func_name": "skill",
         "id": 315,
-        "offset": [
-            null
-        ],
         "str_param": "321010101",
         "str_param2": "root",
         "time": 22
@@ -3340,9 +2578,6 @@
         "anim_name": "321_Skill_01",
         "func_name": "DoPlayEffectOnce",
         "id": 316,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc321_skill_001",
         "str_param2": "root",
         "time": 1
@@ -3351,9 +2586,6 @@
         "anim_name": "321_Skill_02_Begin",
         "func_name": "DoMove",
         "id": 317,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 1
     },
@@ -3361,9 +2593,6 @@
         "anim_name": "321_Skill_02_Loop",
         "func_name": "skill",
         "id": 318,
-        "offset": [
-            null
-        ],
         "str_param": "321020101",
         "str_param2": "root",
         "time": 1
@@ -3372,9 +2601,6 @@
         "anim_name": "321_Skill_02_Loop",
         "func_name": "DoMove",
         "id": 319,
-        "offset": [
-            null
-        ],
         "str_param": "70000",
         "time": 1
     },
@@ -3382,9 +2608,6 @@
         "anim_name": "321_Skill_02_Loop",
         "func_name": "DoMove",
         "id": 320,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 40
     },
@@ -3392,9 +2615,6 @@
         "anim_name": "321_Skill_02_Loop",
         "func_name": "DoPlayEffectOnce",
         "id": 321,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc321_skill_002",
         "str_param2": "root",
         "time": 1
@@ -3403,9 +2623,6 @@
         "anim_name": "321_Skill_02_End",
         "func_name": "DoMove",
         "id": 322,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 1
     },
@@ -3413,9 +2630,6 @@
         "anim_name": "322_Skill_01_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 323,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc322_skill_001_Bip001 R Hand",
         "str_param2": "Weapon_R",
         "time": 1
@@ -3437,9 +2651,6 @@
         "anim_name": "322_Skill_02_Begin",
         "func_name": "DoPlayEffectOnce",
         "id": 325,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc322_skill_002",
         "str_param2": "root",
         "time": 15
@@ -3456,9 +2667,6 @@
         "anim_name": "322_Skill_02_Loop",
         "func_name": "DoPlayEffectOnce",
         "id": 327,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc322_skill_002_02",
         "str_param2": "root",
         "time": 30
@@ -3467,9 +2675,6 @@
         "anim_name": "322_Skill_02_End",
         "func_name": "skill",
         "id": 328,
-        "offset": [
-            null
-        ],
         "str_param": "322000101",
         "time": 1
     },
@@ -3489,9 +2694,6 @@
         "anim_name": "323_Attack",
         "func_name": "DoPlayEffectOnce",
         "id": 330,
-        "offset": [
-            null
-        ],
         "str_param": "jian",
         "str_param2": "S_Npc323_WeaponA",
         "time": 30
@@ -3513,9 +2715,6 @@
         "anim_name": "323_Skill_01",
         "func_name": "DoPlayEffectOnce",
         "id": 332,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc323_skill_001_01",
         "str_param2": "Weapon_R",
         "time": 1
@@ -3524,9 +2723,6 @@
         "anim_name": "323_Skill_02",
         "func_name": "DoPlayEffectOnce",
         "id": 333,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc323_skill_002",
         "str_param2": "root",
         "time": 1
@@ -3548,9 +2744,6 @@
         "anim_name": "323_Skill_03",
         "func_name": "skill",
         "id": 335,
-        "offset": [
-            null
-        ],
         "str_param": "323030101",
         "time": 9
     },
@@ -3558,9 +2751,6 @@
         "anim_name": "323_Skill_03",
         "func_name": "DoPlayEffectOnce",
         "id": 336,
-        "offset": [
-            null
-        ],
         "str_param": "FX_Npc323_skill_003",
         "str_param2": "root",
         "time": 1
@@ -3569,9 +2759,6 @@
         "anim_name": "323_Dodge",
         "func_name": "DoMove",
         "id": 337,
-        "offset": [
-            null
-        ],
         "str_param": "-8000",
         "time": 1
     },
@@ -3579,9 +2766,6 @@
         "anim_name": "323_Dodge",
         "func_name": "DoMove",
         "id": 338,
-        "offset": [
-            null
-        ],
         "str_param": "0",
         "time": 11
     }

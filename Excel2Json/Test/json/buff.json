@@ -694,10 +694,10 @@
         "buffer_type": 3,
         "id": 321020101,
         "name": "长枪兵突刺伤害",
-        "state_buff_type": null
+        "state_buff_type": 0
     },
     "322000101": {
-        "avoid_damage_skill_type": null,
+        "avoid_damage_skill_type": 0,
         "buffer_type": 1,
         "effect_count": 0,
         "effect_type": 3,
@@ -714,7 +714,7 @@
         "time": 1
     },
     "322010101": {
-        "avoid_damage_skill_type": null,
+        "avoid_damage_skill_type": 0,
         "buffer_type": 1,
         "effect_count": 0,
         "effect_type": 3,
