@@ -5,6 +5,12 @@
         "birth_position_offset_y": 0,
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            1
+        ],
+        "effect_vec": [
+            123102101
+        ],
         "id": 1230202,
         "indicator_sfx": "FX_Hero123_Skill_002_begin",
         "interval": 0,
@@ -30,6 +36,9 @@
         "birth_sfx": "FX_Hero102_Skill001_PT",
         "can_go_back": 0,
         "can_go_through": 1,
+        "effect_vec": [
+            102010101
+        ],
         "id": 102010101,
         "interval": 0,
         "is_rebound": 0,
@@ -64,6 +73,12 @@
         "birth_sfx": "FX_Hero102_Skill001_PT 1",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            1200
+        ],
+        "effect_vec": [
+            102100101
+        ],
         "id": 102100101,
         "interval": 0,
         "is_rebound": 0,
@@ -87,6 +102,12 @@
         "birth_sfx": "FX_Hero104_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104000101
+        ],
         "id": 104000101,
         "interval": 0,
         "is_rebound": 0,
@@ -110,6 +131,12 @@
         "birth_sfx": "FX_Hero104_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104000102
+        ],
         "id": 104000102,
         "interval": 0,
         "is_rebound": 0,
@@ -133,6 +160,12 @@
         "birth_sfx": "FX_Hero104_2_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104000103
+        ],
         "id": 104000103,
         "interval": 0,
         "is_rebound": 0,
@@ -156,6 +189,12 @@
         "birth_position_offset_y": 0,
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104010101
+        ],
         "id": 104010101,
         "interval": 0,
         "is_rebound": 0,
@@ -179,6 +218,12 @@
         "birth_position_offset_y": 0,
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104020101
+        ],
         "id": 104020101,
         "interval": 70,
         "is_rebound": 0,
@@ -203,6 +248,12 @@
         "birth_sfx": "Fx_Hero104_Firing_C_Spine",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104020102
+        ],
         "id": 104020102,
         "interval": 1000,
         "is_rebound": 0,
@@ -226,6 +277,12 @@
         "birth_position_offset_y": 0,
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104030101
+        ],
         "id": 104030101,
         "interval": 0,
         "is_rebound": 0,
@@ -248,6 +305,12 @@
         "birth_position_offset_y": 0,
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            104030102
+        ],
         "id": 104030102,
         "interval": 0,
         "is_rebound": 0,
@@ -271,6 +334,12 @@
         "birth_sfx": "FX_Hero105_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            105010101
+        ],
         "id": 105010101,
         "interval": 0,
         "is_rebound": 0,
@@ -294,6 +363,12 @@
         "birth_sfx": "FX_Hero105_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            105010201
+        ],
         "id": 105010201,
         "interval": 0,
         "is_rebound": 0,
@@ -317,6 +392,9 @@
         "birth_sfx": "FX_Hero105_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
         "id": 105020101,
         "interval": 0,
         "is_rebound": 0,
@@ -341,6 +419,12 @@
         "birth_sfx": "FX_Hero105_EMPTY",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            105020102
+        ],
         "id": 105020102,
         "interval": 100,
         "is_rebound": 0,
@@ -365,6 +449,12 @@
         "birth_sfx": "FX_Hero109_Skill_002_PT",
         "can_go_back": 1,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            109010101
+        ],
         "id": 109010101,
         "interval": 0,
         "is_rebound": 1,
@@ -389,6 +479,12 @@
         "birth_sfx": "FX_Hero109_Skill_001",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            109020101
+        ],
         "id": 109020101,
         "interval": 70,
         "is_rebound": 0,
@@ -414,6 +510,12 @@
         "birth_sfx": "FX_Hero110_1_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            110010101
+        ],
         "id": 110000101,
         "interval": 0,
         "is_rebound": 0,
@@ -438,6 +540,12 @@
         "birth_sfx": "FX_Hero110_Skill001_new_PT",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            110010101
+        ],
         "id": 110010101,
         "interval": 0,
         "is_rebound": 0,
@@ -461,6 +569,12 @@
         "birth_sfx": "FX_Hero110_teleport_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            110020101
+        ],
         "id": 110020101,
         "interval": 0,
         "is_rebound": 0,
@@ -484,6 +598,12 @@
         "birth_sfx": "FX_Hero110_teleport_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            110020101
+        ],
         "id": 110100101,
         "interval": 0,
         "is_rebound": 0,
@@ -516,6 +636,12 @@
         "birth_sfx": "FX_Hero110_passive01_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            110900102
+        ],
         "id": 110900102,
         "interval": 0,
         "is_rebound": 0,
@@ -539,6 +665,9 @@
         "birth_sfx": "FX_Hero105_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
         "id": 127010101,
         "interval": 0,
         "is_rebound": 0,
@@ -562,6 +691,12 @@
         "birth_sfx": "FX_Npc301_PT2",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            301000101
+        ],
         "id": 301000101,
         "interval": 0,
         "is_rebound": 0,
@@ -585,6 +720,12 @@
         "birth_sfx": "FX_Npc301_skillbegin",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            301000201
+        ],
         "id": 301000201,
         "interval": 0,
         "is_rebound": 0,
@@ -609,6 +750,12 @@
         "birth_sfx": "FX_Npc301_PT2",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            301010101
+        ],
         "id": 301010101,
         "interval": 0,
         "is_rebound": 0,
@@ -632,6 +779,12 @@
         "birth_sfx": "FX_Npc301_skillbegin",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            302000201
+        ],
         "id": 302000201,
         "interval": 0,
         "is_rebound": 0,
@@ -656,6 +809,12 @@
         "birth_sfx": "FX_Npc_999",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            303010101
+        ],
         "id": 303010101,
         "interval": 100,
         "is_rebound": 0,
@@ -681,6 +840,12 @@
         "birth_sfx": "FX_Npc_999",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            321020101
+        ],
         "id": 321020101,
         "interval": 100,
         "is_rebound": 0,
@@ -705,6 +870,12 @@
         "birth_sfx": "FX_Npc322_skill_001_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            2500
+        ],
+        "effect_vec": [
+            322010101
+        ],
         "id": 322010101,
         "interval": 0,
         "is_rebound": 0,
@@ -729,6 +900,12 @@
         "birth_sfx": "jian",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            323000101
+        ],
         "id": 323000101,
         "interval": 0,
         "is_rebound": 0,
@@ -752,6 +929,12 @@
         "birth_sfx": "FX_Npc323_skill_001",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            1000
+        ],
+        "effect_vec": [
+            323010101
+        ],
         "id": 323010101,
         "indicator_sfx": "FX_Npc323_skill_001_warning",
         "interval": 300,
@@ -776,6 +959,12 @@
         "birth_position_offset_y": 0,
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            1
+        ],
+        "effect_vec": [
+            323010101
+        ],
         "id": 323010102,
         "indicator_sfx": "FX_Npc323_skill_001_warning",
         "interval": 0,
@@ -801,6 +990,12 @@
         "birth_sfx": "FX_Npc323_skill_002_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            323020101
+        ],
         "id": 323020101,
         "interval": 0,
         "is_rebound": 0,
@@ -825,6 +1020,12 @@
         "birth_sfx": "FX_Npc_505_boom",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            505000103
+        ],
         "id": 505000103,
         "interval": 1500,
         "is_rebound": 0,
@@ -849,6 +1050,12 @@
         "birth_sfx": "FX_Hero123_Skill_001PT",
         "can_go_back": 0,
         "can_go_through": 1,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            123101101
+        ],
         "id": "1230101",
         "interval": 0,
         "is_rebound": 0,
@@ -872,6 +1079,12 @@
         "birth_sfx": "FX_Hero123_Skill_002_boom",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            1000
+        ],
+        "effect_vec": [
+            123102101
+        ],
         "id": "1230201",
         "indicator_sfx": "FX_Hero123_Skill_002_begin",
         "interval": 300,
@@ -897,6 +1110,12 @@
         "birth_sfx": "FX_Hero123_PT",
         "can_go_back": 0,
         "can_go_through": 0,
+        "delay": [
+            0
+        ],
+        "effect_vec": [
+            123000101
+        ],
         "id": "1231101",
         "interval": 0,
         "is_rebound": 0,

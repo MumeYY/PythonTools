@@ -47,24 +47,39 @@ def _Excel2Json(filePath):
             return str(num)
         else:
             return num
+    # 针对读出来的是102010101.0
+    def myint(num):
+        return int(myStr(float(num)))
+
+    def mySplite(value, seperate):
+        value = str(value).replace(' ', '')
+        if value.find(seperate) == -1:
+            return [value]
+        else:
+            return value.split(seperate)
+        
 
     VectorPatten = re.compile('vector<(.*?)>', re.DOTALL | re.IGNORECASE)
     MapPatten = re.compile('map<(.*?),(.*?)>', re.DOTALL | re.IGNORECASE)
 
     def parseCell(fieldItem, cell):
         def _innerParse(subType, value):
-            if subType == 'string':
-                return myStr(value)
-            elif subType == 'int':
-                return int(value)
-            elif subType == 'float':
-                return float(value)
+            try:
+                if subType == 'string':
+                    return myStr(value)
+                elif subType == 'int':
+                    return myint(value)
+                elif subType == 'float':
+                    return float(value)
+            except:
+                print(fieldItem.name + '_innerParse ' + str(value))   
 
         fieldType = fieldItem.type
+        
         m = VectorPatten.search(fieldType)
         if m != None:
             subType = m.group(1)
-            split = cell.value.split('|')
+            split = mySplite(cell.value, '|')
             result = []
             for i in split:
                 result.append(_innerParse(subType, i))
@@ -75,9 +90,9 @@ def _Excel2Json(filePath):
             subType1 = m.group(1)
             subType2 = m.group(2)
             result = {}
-            split = cell.value.split('|')
+            split = mySplite(cell.value, '|')
             for i in split:
-                tmpsplit = i.split(':')
+                tmpsplit = mySplite(i, ':')
                 result[_innerParse(subType1, tmpsplit[0])] = _innerParse(subType2, tmpsplit[1])
             return result
         else:
@@ -103,14 +118,16 @@ def _Excel2Json(filePath):
                 else: 
                     if fieldItem.name == None or fieldItem.name == '':
                         continue
-                    if fieldItem.targets == None or fieldItem.targets == '' or (fieldItem.targets.lower() != "a" and fieldItem.targets.lower() != "c"):
+                    # 这里由于可能存在' a'以及' c'所以改成了find
+                    if fieldItem.targets == None or fieldItem.targets == '' or (fieldItem.targets.lower().find('a') == -1 and fieldItem.targets.lower().find('c') == -1):
+                        print(fieldItem.name + ' ' + fieldItem.targets.lower())
                         continue
-                    try:
-                        parseCell(fieldItem, cell)
-                    except:
-                        continue
-                    else:
-                        OutData[id][fieldItem.name] = parseCell(fieldItem, cell)
+                    # try:
+                        # parseCell(fieldItem, cell)
+                    # except:
+                        # continue
+                    # else:
+                    OutData[id][fieldItem.name] = parseCell(fieldItem, cell)
                 
 
     jsonOut = json.dumps(OutData,sort_keys=True, indent=4, ensure_ascii=False, separators=(',', ': '))
@@ -119,7 +136,7 @@ def _Excel2Json(filePath):
 
 rootdir = sys.path[0] + '/Test'
 for filePath in os.listdir(rootdir):
-    if filePath.endswith('.xlsx'):
+    if filePath.endswith('.xlsx') and filePath.find('~$') == -1:
         print(os.path.join(rootdir, filePath))
         _Excel2Json(os.path.join(rootdir, filePath))
 

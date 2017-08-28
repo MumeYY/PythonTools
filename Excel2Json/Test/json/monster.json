@@ -1,6 +1,9 @@
 {
     "301": {
         "ai": "Monster301",
+        "all_skill": [
+            301000101
+        ],
         "attack_speed": 1000,
         "attack_value": 6,
         "can_be_attacked": 1,
@@ -259,6 +262,9 @@
         "type": 1
     },
     "1001": {
+        "all_skill": [
+            103000101
+        ],
         "attack_speed": 1000,
         "attack_value": 6,
         "can_be_attacked": 1,
@@ -354,7 +360,13 @@
         "type": 1
     },
     "1301": {
+        "affix": [
+            1
+        ],
         "ai": "Monster301",
+        "all_skill": [
+            301000101
+        ],
         "attack_speed": 1000,
         "attack_value": 6,
         "can_be_attacked": 1,
@@ -391,6 +403,9 @@
         "type": 3
     },
     "1302": {
+        "affix": [
+            2
+        ],
         "ai": "Monster302",
         "attack_speed": 1000,
         "attack_value": 6,
@@ -424,6 +439,9 @@
         "type": 3
     },
     "1303": {
+        "affix": [
+            2
+        ],
         "ai": "Monster303",
         "attack_speed": 1000,
         "attack_value": 6,
@@ -469,7 +487,13 @@
         "type": 3
     },
     "1304": {
+        "affix": [
+            1
+        ],
         "ai": "Monster301",
+        "all_skill": [
+            301000101
+        ],
         "attack_speed": 1000,
         "attack_value": 6,
         "can_be_attacked": 1,
@@ -502,6 +526,9 @@
         "type": 1
     },
     "1305": {
+        "affix": [
+            1
+        ],
         "ai": "Monster302",
         "attack_speed": 1000,
         "attack_value": 6,
@@ -535,6 +562,9 @@
         "type": 3
     },
     "1306": {
+        "affix": [
+            1
+        ],
         "ai": "Monster303",
         "attack_speed": 1000,
         "attack_value": 6,

@@ -1209,7 +1209,7 @@
         "tenacity": 0
     },
     "303001": {
-        "ability_power": 0,
+        "ability_power": null,
         "ad_dec_per": 0,
         "ad_inc_per": 0,
         "ad_pen": 0,

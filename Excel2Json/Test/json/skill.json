@@ -1,9 +1,28 @@
 {
     "102000001": {
+        "atk_random": [
+            102000001,
+            102000101,
+            102000201,
+            102000301,
+            102000401
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 2000,
+        "effect_vec": [
+            102000101
+        ],
         "hero_id": 102,
         "id": 102000001,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "黑寡妇普攻",
         "range_param1": 2500,
@@ -16,10 +35,27 @@
         "target_filter": 2
     },
     "102000101": {
+        "atk_random": [
+            102000101,
+            102000201,
+            102000301,
+            102000401
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 2500,
+        "effect_vec": [
+            102000101
+        ],
         "hero_id": 102,
         "id": 102000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "黑寡妇普攻1",
         "range_param1": 2500,
@@ -32,10 +68,27 @@
         "target_filter": 2
     },
     "102000201": {
+        "atk_random": [
+            102000101,
+            102000201,
+            102000301,
+            102000401
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 2500,
+        "effect_vec": [
+            102000201
+        ],
         "hero_id": 102,
         "id": 102000201,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "黑寡妇普攻2",
         "range_param1": 2500,
@@ -48,10 +101,27 @@
         "target_filter": 2
     },
     "102000301": {
+        "atk_random": [
+            102000101,
+            102000201,
+            102000301,
+            102000401
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            0,
+            1
+        ],
         "center_type": 1,
         "distance": 2500,
+        "effect_vec": [
+            102000301
+        ],
         "hero_id": 102,
         "id": 102000301,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "黑寡妇普攻3",
         "range_param1": 2500,
@@ -64,10 +134,27 @@
         "target_filter": 2
     },
     "102000401": {
+        "atk_random": [
+            102000101,
+            102000201,
+            102000301,
+            102000401
+        ],
+        "atk_random_odds": [
+            1,
+            0,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 2500,
+        "effect_vec": [
+            102000401
+        ],
         "hero_id": 102,
         "id": 102000401,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "黑寡妇普攻4",
         "range_param1": 2500,
@@ -80,10 +167,16 @@
         "target_filter": 2
     },
     "102010101": {
+        "aiobject_vec": [
+            102010101
+        ],
         "center_type": 1,
         "distance": 8000,
         "hero_id": 102,
         "id": 102010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "黑寡妇--技能1",
         "range_param1": 4000,
@@ -97,8 +190,14 @@
     "102020101": {
         "center_type": 1,
         "distance": 4000,
+        "effect_vec": [
+            102020101
+        ],
         "hero_id": 102,
         "id": 102020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "黑寡妇--技能2",
         "range_param1": 4000,
@@ -111,10 +210,16 @@
         "target_filter": 1
     },
     "102100101": {
+        "aiobject_vec": [
+            102100101
+        ],
         "center_type": 1,
         "distance": 8000,
         "hero_id": 102,
         "id": 102100101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "黑寡妇--大招",
         "range_param1": 8000,
@@ -130,8 +235,14 @@
     "102200101": {
         "center_type": 1,
         "distance": 8000,
+        "effect_vec": [
+            102200101
+        ],
         "hero_id": 102,
         "id": 102200101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "黑寡妇--入场",
         "range_param1": 4000,
@@ -147,8 +258,16 @@
     "102900101": {
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            102900101
+        ],
+        "event_id_vec": [
+            102900101
+        ],
         "hero_id": 102,
         "id": 102900101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "黑寡妇--被动",
         "range_param1": 3000,
@@ -166,6 +285,8 @@
         "distance": 0,
         "hero_id": 103,
         "id": 103000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "浣熊普攻",
         "range_param1": 8000,
@@ -177,10 +298,25 @@
         "target_filter": 2
     },
     "104000101": {
+        "aiobject_vec": [
+            104000101
+        ],
+        "atk_random": [
+            104000101,
+            104000102,
+            104000103
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 6000,
         "hero_id": 104,
         "id": 104000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "钢铁侠普攻",
         "range_param1": 4000,
@@ -193,10 +329,25 @@
         "target_filter": 2
     },
     "104000102": {
+        "aiobject_vec": [
+            104000102
+        ],
+        "atk_random": [
+            104000101,
+            104000102,
+            104000103
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            1
+        ],
         "center_type": 1,
         "distance": 6000,
         "hero_id": 104,
         "id": 104000102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "钢铁侠普攻",
         "range_param1": 4000,
@@ -209,10 +360,25 @@
         "target_filter": 2
     },
     "104000103": {
+        "aiobject_vec": [
+            104000103
+        ],
+        "atk_random": [
+            104000101,
+            104000102,
+            104000103
+        ],
+        "atk_random_odds": [
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 6000,
         "hero_id": 104,
         "id": 104000103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "钢铁侠普攻",
         "range_param1": 4000,
@@ -225,10 +391,19 @@
         "target_filter": 2
     },
     "104010101": {
+        "aiobject_vec": [
+            104010101
+        ],
         "center_type": 1,
         "distance": 9000,
+        "effect_vec": [
+            104010101
+        ],
         "hero_id": 104,
         "id": 104010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "钢铁侠射线--技能1",
         "range_param1": 9000,
@@ -241,10 +416,16 @@
         "target_filter": 2
     },
     "104020101": {
+        "aiobject_vec": [
+            104020101
+        ],
         "center_type": 1,
         "distance": 6500,
         "hero_id": 104,
         "id": 104020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "钢铁侠冲刺-技能2",
         "range_param1": 6500,
@@ -257,6 +438,9 @@
         "target_filter": 2
     },
     "104020102": {
+        "aiobject_vec": [
+            104020102
+        ],
         "hero_id": 104,
         "id": 104020102,
         "level_limit": 1,
@@ -268,8 +452,14 @@
     "104100101": {
         "center_type": 1,
         "distance": 25000,
+        "effect_vec": [
+            104100101
+        ],
         "hero_id": 104,
         "id": 104100101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "钢铁侠大招",
         "range_param1": 25000,
@@ -283,8 +473,14 @@
     "104200101": {
         "center_type": 1,
         "distance": 25000,
+        "effect_vec": [
+            104200101
+        ],
         "hero_id": 104,
         "id": 104200101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "钢铁侠入场",
         "range_param1": 25000,
@@ -296,6 +492,9 @@
         "target_filter": 2
     },
     "104900101": {
+        "effect_vec": [
+            104900101
+        ],
         "hero_id": 104,
         "id": 104900101,
         "level_limit": 1,
@@ -306,10 +505,24 @@
         "target_filter": 1
     },
     "105000001": {
+        "atk_random": [
+            105000101,
+            105000201,
+            105000301,
+            105000401
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 105,
         "id": 105000001,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "蜘蛛普攻随机",
         "range_param1": 3000,
@@ -322,10 +535,27 @@
         "target_filter": 2
     },
     "105000101": {
+        "atk_random": [
+            105000101,
+            105000201,
+            105000301,
+            105000401
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            105000101
+        ],
         "hero_id": 105,
         "id": 105000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "蜘蛛侠普攻1",
         "range_param1": 3000,
@@ -338,10 +568,27 @@
         "target_filter": 2
     },
     "105000201": {
+        "atk_random": [
+            105000101,
+            105000201,
+            105000301,
+            105000401
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            0,
+            1
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            105000201
+        ],
         "hero_id": 105,
         "id": 105000201,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "蜘蛛侠普攻2",
         "range_param1": 3000,
@@ -354,10 +601,27 @@
         "target_filter": 2
     },
     "105000301": {
+        "atk_random": [
+            105000101,
+            105000201,
+            105000301,
+            105000401
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            105000301
+        ],
         "hero_id": 105,
         "id": 105000301,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "蜘蛛侠普攻3",
         "range_param1": 3000,
@@ -370,10 +634,27 @@
         "target_filter": 2
     },
     "105000401": {
+        "atk_random": [
+            105000101,
+            105000201,
+            105000301,
+            105000401
+        ],
+        "atk_random_odds": [
+            2,
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            105000401
+        ],
         "hero_id": 105,
         "id": 105000401,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "蜘蛛侠普攻4",
         "range_param1": 3000,
@@ -388,8 +669,14 @@
     "105010101": {
         "center_type": 1,
         "distance": 6000,
+        "effect_vec": [
+            105010101
+        ],
         "hero_id": 105,
         "id": 105010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "is_autoplay_next_skill": 1,
         "level_limit": 1,
         "name": "蜘蛛侠技能1近身",
@@ -408,8 +695,14 @@
     "105010201": {
         "center_type": 1,
         "distance": 9000,
+        "effect_vec": [
+            105010201
+        ],
         "hero_id": 105,
         "id": 105010201,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "蜘蛛侠技能1跳跃",
         "range_param1": 6000,
@@ -424,8 +717,14 @@
     "105010301": {
         "center_type": 1,
         "distance": 9000,
+        "effect_vec": [
+            105010301
+        ],
         "hero_id": 105,
         "id": 105010301,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "蜘蛛侠技能1闪避",
         "range_param1": 6000,
@@ -438,10 +737,16 @@
         "target_filter": 1
     },
     "105020101": {
+        "aiobject_vec": [
+            105020101
+        ],
         "center_type": 1,
         "distance": 8000,
         "hero_id": 105,
         "id": 105020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "蜘蛛侠技能2",
         "range_param1": 8000,
@@ -454,10 +759,16 @@
         "target_filter": 2
     },
     "105020102": {
+        "aiobject_vec": [
+            105020102
+        ],
         "center_type": 1,
         "distance": 8000,
         "hero_id": 105,
         "id": 105020102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "蜘蛛侠技能2飞踢",
         "range_param1": 8000,
@@ -472,8 +783,14 @@
     "105040101": {
         "center_type": 1,
         "distance": 8000,
+        "effect_vec": [
+            105040101
+        ],
         "hero_id": 105,
         "id": 105040101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "蜘蛛侠大招",
         "range_param1": 4000,
@@ -493,8 +810,12 @@
     },
     "105040102": {
         "distance": 0,
+        "effect_vec": [
+            105040102
+        ],
         "hero_id": 105,
         "id": 105040102,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "蜘蛛侠大招不被选",
         "range_param1": 0,
@@ -506,8 +827,13 @@
     "105050101": {
         "center_type": 1,
         "distance": 6000,
+        "effect_vec": [
+            105050101
+        ],
         "hero_id": 105,
         "id": 105050101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "蜘蛛侠入场技",
         "range_param1": 3000,
@@ -528,6 +854,9 @@
     "109000000": {
         "description": "hero_109_passive_des",
         "distance": 0,
+        "effect_vec": [
+            109000000
+        ],
         "event_id_vec": [
             109000001,
             109000002
@@ -547,10 +876,24 @@
         "target_filter": 1
     },
     "109000001": {
+        "atk_random": [
+            109000101,
+            109000102,
+            109000103,
+            109000104
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 109,
         "id": 109000001,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "美队普攻随机",
         "range_param1": 2500,
@@ -563,10 +906,27 @@
         "target_filter": 2
     },
     "109000101": {
+        "atk_random": [
+            109000101,
+            109000102,
+            109000103,
+            109000104
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            109000101
+        ],
         "hero_id": 109,
         "id": 109000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "美队普攻1段",
         "range_param1": 2500,
@@ -579,10 +939,27 @@
         "target_filter": 2
     },
     "109000102": {
+        "atk_random": [
+            109000101,
+            109000102,
+            109000103,
+            109000104
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            0,
+            1
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            109000102
+        ],
         "hero_id": 109,
         "id": 109000102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "美队普攻2段",
         "range_param1": 2500,
@@ -595,10 +972,27 @@
         "target_filter": 2
     },
     "109000103": {
+        "atk_random": [
+            109000101,
+            109000102,
+            109000103,
+            109000104
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            109000103
+        ],
         "hero_id": 109,
         "id": 109000103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "美队普攻3段",
         "range_param1": 2500,
@@ -611,10 +1005,27 @@
         "target_filter": 2
     },
     "109000104": {
+        "atk_random": [
+            109000101,
+            109000102,
+            109000103,
+            109000104
+        ],
+        "atk_random_odds": [
+            2,
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            109000104
+        ],
         "hero_id": 109,
         "id": 109000104,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "美队普攻4段",
         "range_param1": 2500,
@@ -627,11 +1038,17 @@
         "target_filter": 2
     },
     "109010101": {
+        "aiobject_vec": [
+            109010101
+        ],
         "center_type": 1,
         "description": "hero_109_skill1_des",
         "distance": 6000,
         "hero_id": 109,
         "id": 109010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "美队飞盾--技能1",
         "range_param1": 6000,
@@ -645,11 +1062,17 @@
         "target_filter": 2
     },
     "109020101": {
+        "aiobject_vec": [
+            109020101
+        ],
         "center_type": 1,
         "description": "hero_109_skill2_des",
         "distance": 6000,
         "hero_id": 109,
         "id": 109020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "美队冲锋--技能2",
         "range_param1": 6000,
@@ -671,8 +1094,14 @@
     "109020102": {
         "center_type": 1,
         "distance": 15000,
+        "effect_vec": [
+            109020102
+        ],
         "hero_id": 109,
         "id": 109020102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "美队甩盾旋转",
         "range_param1": 4000,
@@ -686,8 +1115,14 @@
     "109020103": {
         "center_type": 1,
         "distance": 15000,
+        "effect_vec": [
+            109020201
+        ],
         "hero_id": 109,
         "id": 109020103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "美队飞踢",
         "range_param1": 3750,
@@ -702,8 +1137,14 @@
     "109030101": {
         "center_type": 1,
         "distance": 10000,
+        "effect_vec": [
+            109030101
+        ],
         "hero_id": 109,
         "id": 109030101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "美队旋转--技能3",
         "range_param1": 6000,
@@ -719,8 +1160,14 @@
         "center_type": 1,
         "description": "hero_109_ultraCombo_des",
         "distance": 5000,
+        "effect_vec": [
+            109040101
+        ],
         "hero_id": 109,
         "id": 109040101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
         "level_limit": 1,
         "name": "美队大招--伤害",
         "range_param1": 5000,
@@ -740,8 +1187,12 @@
     },
     "109040102": {
         "distance": 0,
+        "effect_vec": [
+            109040102
+        ],
         "hero_id": 109,
         "id": 109040102,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "美队大招--不选",
         "range_param1": 0,
@@ -753,8 +1204,13 @@
     "109040103": {
         "center_type": 1,
         "distance": 5000,
+        "effect_vec": [
+            109040103
+        ],
         "hero_id": 109,
         "id": 109040103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "美队大招--buff",
         "range_param1": 5000,
@@ -768,8 +1224,13 @@
     "109070101": {
         "center_type": 1,
         "distance": 5000,
+        "effect_vec": [
+            109070101
+        ],
         "hero_id": 109,
         "id": 109070101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "美队入场技",
         "range_param1": 3000,
@@ -782,10 +1243,24 @@
         "target_filter": 2
     },
     "110000001": {
+        "atk_random": [
+            110000001,
+            110000101,
+            110000102,
+            110000103
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 110,
         "id": 110000001,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "奇异博士普攻随机",
         "range_param1": 3500,
@@ -798,10 +1273,25 @@
         "target_filter": 2
     },
     "110000101": {
+        "aiobject_vec": [
+            110000101
+        ],
+        "atk_random": [
+            110000101,
+            110000102,
+            110000103
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            1
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 110,
         "id": 110000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "奇异博士普攻1",
         "range_param1": 3500,
@@ -814,10 +1304,25 @@
         "target_filter": 2
     },
     "110000102": {
+        "aiobject_vec": [
+            110000101
+        ],
+        "atk_random": [
+            110000101,
+            110000102,
+            110000103
+        ],
+        "atk_random_odds": [
+            1,
+            0,
+            1
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 110,
         "id": 110000102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "奇异博士普攻2",
         "range_param1": 3500,
@@ -830,10 +1335,25 @@
         "target_filter": 2
     },
     "110000103": {
+        "aiobject_vec": [
+            110000101
+        ],
+        "atk_random": [
+            110000101,
+            110000102,
+            110000103
+        ],
+        "atk_random_odds": [
+            1,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 110,
         "id": 110000103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "奇异博士普攻3",
         "range_param1": 3500,
@@ -856,6 +1376,9 @@
         "distance": 10500,
         "hero_id": 110,
         "id": 110010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "奇异博士技能1扔飞剑",
         "range_param1": 10500,
@@ -868,10 +1391,16 @@
         "target_filter": 2
     },
     "110020101": {
+        "aiobject_vec": [
+            110020101
+        ],
         "center_type": 1,
         "distance": 4000,
         "hero_id": 110,
         "id": 110020101,
+        "indicator_aim_switch": 0,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "奇异博士技能2-1段",
         "next_skill": 110020102,
@@ -888,10 +1417,16 @@
         "target_filter": 2
     },
     "110020102": {
+        "aiobject_vec": [
+            110020101
+        ],
         "center_type": 1,
         "distance": 4000,
         "hero_id": 110,
         "id": 110020102,
+        "indicator_aim_switch": 0,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "奇异博士技能2-2段",
         "next_skill": 110020103,
@@ -908,10 +1443,14 @@
         "target_filter": 2
     },
     "110020103": {
+        "aiobject_vec": [
+            110020101
+        ],
         "center_type": 1,
         "distance": 4000,
         "hero_id": 110,
         "id": 110020103,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "奇异博士技能2-3段",
         "range_param1": 4000,
@@ -928,8 +1467,13 @@
     "110050101": {
         "center_type": 1,
         "distance": 6000,
+        "effect_vec": [
+            110050101
+        ],
         "hero_id": 110,
         "id": 110050101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "奇异博士入场技",
         "range_param1": 3000,
@@ -942,11 +1486,20 @@
         "target_filter": 2
     },
     "110100101": {
+        "aiobject_vec": [
+            110100101
+        ],
         "center_type": 1,
         "description": "hero_110_skill3_txt",
         "distance": 6000,
+        "effect_vec": [
+            110100101
+        ],
         "hero_id": 110,
         "id": 110100101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "奇异博士大招眩晕",
         "range_param1": 5000,
@@ -970,8 +1523,14 @@
     "110100102": {
         "center_type": 1,
         "distance": 15000,
+        "effect_vec": [
+            110100102
+        ],
         "hero_id": 110,
         "id": 110100102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "奇异博士大招减速",
         "range_param1": 5000,
@@ -987,6 +1546,8 @@
         "distance": 0,
         "hero_id": 110,
         "id": 110900101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "奇异博士被动",
         "range_param1": 500,
@@ -1009,8 +1570,13 @@
     "110900102": {
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            110900102
+        ],
         "hero_id": 110,
         "id": 110900102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "奇异博士被动火球",
         "range_param1": 500,
@@ -1024,8 +1590,13 @@
         "center_type": 1,
         "description": "松鼠女普攻1段",
         "distance": 0,
+        "effect_vec": [
+            112000101
+        ],
         "hero_id": 112,
         "id": 112000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "松鼠女普攻1段",
         "range_param1": 3000,
@@ -1040,8 +1611,13 @@
         "center_type": 1,
         "description": "松鼠女普攻2段",
         "distance": 0,
+        "effect_vec": [
+            112000102
+        ],
         "hero_id": 112,
         "id": 112000102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "松鼠女普攻2段",
         "range_param1": 3000,
@@ -1055,8 +1631,13 @@
         "center_type": 1,
         "description": "松鼠女普攻3段",
         "distance": 0,
+        "effect_vec": [
+            112000103
+        ],
         "hero_id": 112,
         "id": 112000103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "松鼠女普攻3段",
         "range_param1": 3000,
@@ -1070,8 +1651,13 @@
         "center_type": 1,
         "description": "松鼠女普攻4段",
         "distance": 0,
+        "effect_vec": [
+            112000104
+        ],
         "hero_id": 112,
         "id": 112000104,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "松鼠女普攻4段",
         "range_param1": 3000,
@@ -1089,6 +1675,8 @@
         "distance": 10000,
         "hero_id": 123,
         "id": 123000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "红骷髅普攻",
         "range_param1": 30000,
@@ -1108,6 +1696,8 @@
         "distance": 14000,
         "hero_id": 123,
         "id": 123101101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "红骷髅技能1",
         "range_param1": 30000,
@@ -1126,6 +1716,8 @@
         "distance": 16000,
         "hero_id": 123,
         "id": 123102101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "红骷髅技能2",
         "range_param1": 16000,
@@ -1137,10 +1729,22 @@
         "target_filter": 2
     },
     "127000001": {
+        "atk_random": [
+            127000101,
+            127000102,
+            127000103
+        ],
+        "atk_random_odds": [
+            1,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
         "hero_id": 127,
         "id": 127000001,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "灭霸普攻随机",
         "range_param1": 3000,
@@ -1153,10 +1757,25 @@
         "target_filter": 2
     },
     "127000101": {
+        "atk_random": [
+            127000101,
+            127000102,
+            127000103
+        ],
+        "atk_random_odds": [
+            0,
+            1,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            127000101
+        ],
         "hero_id": 127,
         "id": 127000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸普攻1段",
         "range_param1": 3000,
@@ -1169,10 +1788,25 @@
         "target_filter": 2
     },
     "127000102": {
+        "atk_random": [
+            127000101,
+            127000102,
+            127000103
+        ],
+        "atk_random_odds": [
+            0,
+            0,
+            1
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            127000102
+        ],
         "hero_id": 127,
         "id": 127000102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸普攻2段",
         "range_param1": 3000,
@@ -1185,10 +1819,25 @@
         "target_filter": 2
     },
     "127000103": {
+        "atk_random": [
+            127000101,
+            127000102,
+            127000103
+        ],
+        "atk_random_odds": [
+            1,
+            0,
+            0
+        ],
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            127000103
+        ],
         "hero_id": 127,
         "id": 127000103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸普攻3段",
         "range_param1": 3000,
@@ -1204,8 +1853,14 @@
         "center_type": 1,
         "description": "hero_127_skill1_des",
         "distance": 6000,
+        "effect_vec": [
+            127010101
+        ],
         "hero_id": 127,
         "id": 127010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
         "level_limit": 1,
         "name": "灭霸--技能1抓取(判定)",
         "range_param1": 6000,
@@ -1228,8 +1883,13 @@
     "127010102": {
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            127010102
+        ],
         "hero_id": 127,
         "id": 127010102,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸--技能1伤害",
         "range_param1": 3000,
@@ -1242,8 +1902,13 @@
     "127010103": {
         "center_type": 1,
         "distance": 6000,
+        "effect_vec": [
+            127010103
+        ],
         "hero_id": 127,
         "id": 127010103,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸--技能1抓取(特效)",
         "range_param1": 6000,
@@ -1258,8 +1923,14 @@
         "center_type": 1,
         "description": "hero_127_skill2_des",
         "distance": 5000,
+        "effect_vec": [
+            127020101
+        ],
         "hero_id": 127,
         "id": 127020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
         "level_limit": 1,
         "name": "灭霸--技能2AOE",
         "range_param1": 5000,
@@ -1275,8 +1946,14 @@
     "127030101": {
         "center_type": 1,
         "distance": 5000,
+        "effect_vec": [
+            127030101
+        ],
         "hero_id": 127,
         "id": 127030101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
+        "indicator_show_shut": 3,
         "level_limit": 1,
         "name": "灭霸--技能3",
         "range_param1": 5000,
@@ -1292,8 +1969,14 @@
         "center_type": 1,
         "description": "hero_127_ultraCombo_des",
         "distance": 6000,
+        "effect_vec": [
+            127040101
+        ],
         "hero_id": 127,
         "id": 127040101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
         "level_limit": 1,
         "name": "灭霸大招伤害--大招",
         "range_param1": 3000,
@@ -1314,8 +1997,13 @@
     "127070101": {
         "center_type": 1,
         "distance": 6000,
+        "effect_vec": [
+            127070101
+        ],
         "hero_id": 127,
         "id": 127070101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸入场技",
         "range_param1": 3000,
@@ -1330,8 +2018,16 @@
     "127900101": {
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            127900101
+        ],
+        "event_id_vec": [
+            127900101
+        ],
         "hero_id": 127,
         "id": 127900101,
+        "indicator_aim_switch": 0,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸被动，真实伤害",
         "range_param1": 0,
@@ -1345,8 +2041,13 @@
     "127900102": {
         "center_type": 1,
         "distance": 0,
+        "effect_vec": [
+            127900102
+        ],
         "hero_id": 127,
         "id": 127900102,
+        "indicator_aim_switch": 0,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "灭霸被动，吸血效果",
         "range_param1": 0,
@@ -1358,10 +2059,15 @@
         "target_filter": 1
     },
     "301000101": {
+        "aiobject_vec": [
+            301000101
+        ],
         "center_type": 1,
         "distance": 10000,
         "hero_id": 301,
         "id": 301000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "远程兵普攻",
         "range_param1": 30000,
@@ -1374,10 +2080,15 @@
         "target_filter": 2
     },
     "301010101": {
+        "aiobject_vec": [
+            301010101
+        ],
         "center_type": 1,
         "distance": 10000,
         "hero_id": 301,
         "id": 301010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "远程兵3连射",
         "range_param1": 30000,
@@ -1394,6 +2105,8 @@
         "distance": 10000,
         "hero_id": 301,
         "id": 301020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "远程兵3闪躲",
         "range_param1": 0,
@@ -1408,8 +2121,13 @@
     "302000101": {
         "center_type": 1,
         "distance": 3000,
+        "effect_vec": [
+            302000101
+        ],
         "hero_id": 302,
         "id": 302000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "双棍普攻",
         "range_param1": 3000,
@@ -1424,8 +2142,13 @@
     "302010101": {
         "center_type": 1,
         "distance": 5000,
+        "effect_vec": [
+            302010101
+        ],
         "hero_id": 302,
         "id": 302010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "双棍技能1",
         "range_param1": 2000,
@@ -1440,8 +2163,13 @@
     "303000101": {
         "center_type": 1,
         "distance": 5000,
+        "effect_vec": [
+            303000101
+        ],
         "hero_id": 303,
         "id": 303000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "盾牌普攻开始",
         "range_param1": 2000,
@@ -1454,10 +2182,17 @@
         "target_filter": 2
     },
     "303010101": {
+        "aiobject_vec": [
+            303010101
+        ],
         "center_type": 1,
         "distance": 15000,
         "hero_id": 303,
         "id": 303010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 20,
         "level_limit": 1,
         "name": "盾牌冲击",
         "range_param1": 15000,
@@ -1472,8 +2207,15 @@
     "321000101": {
         "center_type": 1,
         "distance": 4500,
+        "effect_vec": [
+            321000101
+        ],
         "hero_id": 321,
         "id": 321000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "长枪普攻——三连击",
         "range_param1": 4500,
@@ -1488,8 +2230,15 @@
     "321010101": {
         "center_type": 1,
         "distance": 4500,
+        "effect_vec": [
+            321010101
+        ],
         "hero_id": 321,
         "id": 321010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "快速连击",
         "range_param1": 4500,
@@ -1502,10 +2251,17 @@
         "target_filter": 2
     },
     "321020101": {
+        "aiobject_vec": [
+            321020101
+        ],
         "center_type": 1,
         "distance": 7000,
         "hero_id": 321,
         "id": 321020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "突刺",
         "range_param1": 7000,
@@ -1520,8 +2276,15 @@
     "322000101": {
         "center_type": 1,
         "distance": 3000,
+        "effect_vec": [
+            322000101
+        ],
         "hero_id": 322,
         "id": 322000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "灵魂锁链",
         "range_param1": 3000,
@@ -1534,10 +2297,17 @@
         "target_filter": 3
     },
     "322010101": {
+        "aiobject_vec": [
+            322010101
+        ],
         "center_type": 1,
         "distance": 5000,
         "hero_id": 322,
         "id": 322010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "魔法球",
         "range_param1": 5000,
@@ -1550,10 +2320,15 @@
         "target_filter": 2
     },
     "323000101": {
+        "aiobject_vec": [
+            323000101
+        ],
         "center_type": 1,
         "distance": 7000,
         "hero_id": 323,
         "id": 323000101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "普攻",
         "range_param1": 3000,
@@ -1566,10 +2341,17 @@
         "target_filter": 2
     },
     "323010101": {
+        "aiobject_vec": [
+            323010101
+        ],
         "center_type": 1,
         "distance": 10000,
         "hero_id": 323,
         "id": 323010101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "箭雨",
         "range_param1": 3000,
@@ -1582,10 +2364,17 @@
         "target_filter": 2
     },
     "323020101": {
+        "aiobject_vec": [
+            323020101
+        ],
         "center_type": 1,
         "distance": 10000,
         "hero_id": 323,
         "id": 323020101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "蓄力直射",
         "range_param1": 10000,
@@ -1600,8 +2389,15 @@
     "323030101": {
         "center_type": 1,
         "distance": 2000,
+        "effect_vec": [
+            323030101
+        ],
         "hero_id": 323,
         "id": 323030101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
+        "indicator_show_shut": 1,
+        "indicator_show_time": 30,
         "level_limit": 1,
         "name": "击退",
         "range_param1": 2000,
@@ -1618,6 +2414,8 @@
         "distance": 10000,
         "hero_id": 323,
         "id": 323040101,
+        "indicator_aim_switch": 1,
+        "indicator_show": 0,
         "level_limit": 1,
         "name": "弓箭手闪避",
         "range_param1": 0,
@@ -1632,8 +2430,12 @@
     "505000101": {
         "center_type": 1,
         "distance": 3000,
+        "effect_vec": [
+            505000101
+        ],
         "hero_id": 505,
         "id": 505000101,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "地雷炸死自己",
         "range_param1": 3000,
@@ -1648,8 +2450,12 @@
     "505000102": {
         "center_type": 1,
         "distance": 3000,
+        "effect_vec": [
+            505000102
+        ],
         "hero_id": 505,
         "id": 505000102,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "地雷爆炸",
         "range_param1": 3000,
@@ -1662,10 +2468,14 @@
         "target_filter": 2
     },
     "505000103": {
+        "aiobject_vec": [
+            505000103
+        ],
         "center_type": 1,
         "distance": 3000,
         "hero_id": 505,
         "id": 505000103,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "地雷残火",
         "range_param1": 3000,
@@ -1680,7 +2490,11 @@
     "506000101": {
         "center_type": 1,
         "distance": 30000,
+        "effect_vec": [
+            506000101
+        ],
         "id": 506000101,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "群体治疗",
         "range_param1": 30000,
@@ -1693,8 +2507,12 @@
     "605000101": {
         "center_type": 1,
         "distance": 3000,
+        "effect_vec": [
+            505000101
+        ],
         "hero_id": 605,
         "id": 605000101,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "地雷炸死自己",
         "range_param1": 3000,
@@ -1709,8 +2527,12 @@
     "605000102": {
         "center_type": 1,
         "distance": 3000,
+        "effect_vec": [
+            505000102
+        ],
         "hero_id": 605,
         "id": 605000102,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "地雷爆炸",
         "range_param1": 3000,
@@ -1723,10 +2545,14 @@
         "target_filter": 2
     },
     "605000103": {
+        "aiobject_vec": [
+            505000103
+        ],
         "center_type": 1,
         "distance": 3000,
         "hero_id": 605,
         "id": 605000103,
+        "indicator_aim_switch": 1,
         "level_limit": 1,
         "name": "地雷残火",
         "range_param1": 3000,
@@ -1746,6 +2572,8 @@
         ],
         "hero_id": 68,
         "id": "68000101",
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "测试棒子兵技能1",
         "range_param1": 2000,
@@ -1765,6 +2593,8 @@
         ],
         "hero_id": 68,
         "id": "68000102",
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "测试棒子兵技能2",
         "range_param1": 2000,
@@ -1784,6 +2614,8 @@
         ],
         "hero_id": 68,
         "id": "68000103",
+        "indicator_aim_switch": 1,
+        "indicator_show": 1,
         "level_limit": 1,
         "name": "测试棒子兵技能3",
         "range_param1": 2000,

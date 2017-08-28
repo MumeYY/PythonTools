@@ -18,9 +18,16 @@
             "44109": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            1
+        ],
         "star2_need": [
             2,
             100
+        ],
+        "star3_need": [
+            3,
+            null
         ],
         "sweep": 1,
         "terrain": "Pve_map_0101_A",
@@ -46,6 +53,12 @@
             "44104": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            1
+        ],
+        "star2_need": [
+            4
+        ],
         "star3_need": [
             5,
             10
@@ -74,9 +87,16 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            1
+        ],
         "star2_need": [
             6,
             100
+        ],
+        "star3_need": [
+            7,
+            null
         ],
         "sweep": 1,
         "terrain": "Pve_map_0105_LD",
@@ -107,6 +127,9 @@
             "44110": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "Pve_map_0101_A",
         "time_limit": 300,
@@ -136,6 +159,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10002",
         "time_limit": 300,
@@ -164,6 +190,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10001",
         "time_limit": 300,
@@ -193,6 +222,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10002",
         "time_limit": 300,
@@ -222,6 +254,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10001",
         "time_limit": 300,
@@ -251,6 +286,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10002",
         "time_limit": 300,
@@ -280,6 +318,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10001",
         "time_limit": 300,
@@ -309,6 +350,9 @@
             "11114": 1
         },
         "scale_type": 0,
+        "star1_need": [
+            0
+        ],
         "start_dialog": 10100,
         "terrain": "10002",
         "time_limit": 300,

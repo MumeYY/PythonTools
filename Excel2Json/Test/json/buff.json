@@ -693,9 +693,11 @@
     "321020101": {
         "buffer_type": 3,
         "id": 321020101,
-        "name": "长枪兵突刺伤害"
+        "name": "长枪兵突刺伤害",
+        "state_buff_type": null
     },
     "322000101": {
+        "avoid_damage_skill_type": null,
         "buffer_type": 1,
         "effect_count": 0,
         "effect_type": 3,
@@ -704,11 +706,15 @@
         "max_overlay_effect_delay": 0,
         "name": "灵魂锁链",
         "neg_effect_type": 0,
+        "repel_buff_param": [
+            2
+        ],
         "target_sfx": "FX_Npc322_skill_002_01",
         "target_sfx_position": "Hit2",
         "time": 1
     },
     "322010101": {
+        "avoid_damage_skill_type": null,
         "buffer_type": 1,
         "effect_count": 0,
         "effect_type": 3,
@@ -717,6 +723,9 @@
         "max_overlay_effect_delay": 0,
         "name": "魔法球伤害降低",
         "neg_effect_type": 0,
+        "repel_buff_param": [
+            2
+        ],
         "target_sfx": "FX_Hero110_Skill003_debuff01",
         "target_sfx_position": "Hit3",
         "time": 1

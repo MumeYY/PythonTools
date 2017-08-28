@@ -19,6 +19,9 @@
         "des2": "des1_102",
         "description": "hero_des102",
         "enter_skill": 102200101,
+        "event_id_vec": [
+            102900101
+        ],
         "fragment_id": 11102,
         "head_icon": "head_102",
         "id": 102,
@@ -37,6 +40,9 @@
         "sub_type": 2,
         "talk_icon": "Jq_sp",
         "type": 2,
+        "unactive_skill": [
+            102900101
+        ],
         "unlock_material_count": 20
     },
     "103": {
@@ -97,6 +103,7 @@
         "id": 104,
         "initial_rare": 100,
         "initial_star": 1,
+        "is_atk1_random": 1,
         "model": "hero_104",
         "model_scale": 1200,
         "name": "hero_name104",
@@ -109,6 +116,9 @@
         "sub_type": 2,
         "talk_icon": "Jq_gtx",
         "type": 3,
+        "unactive_skill": [
+            104900101
+        ],
         "unlock_material_count": 10
     },
     "105": {
@@ -136,6 +146,7 @@
         "id": 105,
         "initial_rare": 100,
         "initial_star": 2,
+        "is_atk1_random": 1,
         "model": "hero_105",
         "model_scale": 1200,
         "name": "hero_name105",
@@ -149,6 +160,9 @@
         "sub_type": 2,
         "talk_icon": "Jq_sp",
         "type": 2,
+        "unactive_skill": [
+            105900101
+        ],
         "unlock_material_count": 20
     },
     "109": {
@@ -180,6 +194,7 @@
         "id": 109,
         "initial_rare": 100,
         "initial_star": 1,
+        "is_atk1_random": 1,
         "model": "hero_109",
         "model_scale": 1200,
         "name": "hero_name109",
@@ -193,6 +208,9 @@
         "sub_type": 2,
         "talk_icon": "Jq_cap",
         "type": 1,
+        "unactive_skill": [
+            109000000
+        ],
         "unlock_material_count": 10
     },
     "110": {
@@ -220,6 +238,7 @@
         "id": 110,
         "initial_rare": 100,
         "initial_star": 1,
+        "is_atk1_random": 1,
         "model": "hero_110",
         "model_scale": 1200,
         "name": "hero_name110",
@@ -232,6 +251,9 @@
         "sub_type": 2,
         "talk_icon": "Jq_doc",
         "type": 3,
+        "unactive_skill": [
+            110900101
+        ],
         "unlock_material_count": 10
     },
     "112": {
@@ -310,11 +332,15 @@
         "des2": "des1_127",
         "description": "hero_des127",
         "enter_skill": 127070101,
+        "event_id_vec": [
+            127900101
+        ],
         "fragment_id": 11127,
         "head_icon": "head_127",
         "id": 127,
         "initial_rare": 100,
         "initial_star": 1,
+        "is_atk1_random": 1,
         "model": "hero_127",
         "model_scale": 1200,
         "name": "hero_name127",
@@ -327,9 +353,15 @@
         "sub_type": 3,
         "talk_icon": "Jq_cap",
         "type": 1,
+        "unactive_skill": [
+            127900101
+        ],
         "unlock_material_count": 10
     },
     "301": {
+        "active_skill": [
+            301010101
+        ],
         "attributel4": [
             4,
             2,
@@ -356,6 +388,9 @@
         "type": 3
     },
     "302": {
+        "active_skill": [
+            302010101
+        ],
         "attributel4": [
             4,
             2,
@@ -382,6 +417,9 @@
         "type": 3
     },
     "303": {
+        "active_skill": [
+            303010101
+        ],
         "attributel4": [
             4,
             2,
@@ -519,6 +557,9 @@
         "talk_icon": "Jq_hkl"
     },
     "997": {
+        "active_skill": [
+            302010101
+        ],
         "attributel4": [
             4,
             2,
@@ -545,6 +586,9 @@
         "type": 3
     },
     "998": {
+        "active_skill": [
+            302010101
+        ],
         "attributel4": [
             4,
             2,
@@ -571,6 +615,9 @@
         "type": 3
     },
     "999": {
+        "active_skill": [
+            303010101
+        ],
         "attributel4": [
             4,
             2,

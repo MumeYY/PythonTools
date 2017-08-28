@@ -4,14 +4,20 @@
         "exp": 100,
         "id": 4,
         "max_energy": 63,
-        "max_hero_level": 11
+        "max_hero_level": 11,
+        "unlock_system": [
+            16
+        ]
     },
     "5": {
         "add_energy": 14,
         "exp": 100,
         "id": 5,
         "max_energy": 64,
-        "max_hero_level": 12
+        "max_hero_level": 12,
+        "unlock_system": [
+            17
+        ]
     },
     "6": {
         "add_energy": 15,

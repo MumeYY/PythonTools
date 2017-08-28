@@ -3,7 +3,7 @@
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 8,
@@ -13,28 +13,31 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Attack_01_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_01.anim",
         "priority": 60
     },
     "102_Attack_01_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 18,
         "id": "102_Attack_01_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_01_to_idle.anim",
         "priority": 25
     },
     "102_Attack_02": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 9,
@@ -44,28 +47,31 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Attack_02_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_02.anim",
         "priority": 60
     },
     "102_Attack_02_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 17,
         "id": "102_Attack_02_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_02_to_idle.anim",
         "priority": 25
     },
     "102_Attack_03": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 15,
@@ -75,28 +81,31 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Attack_03_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_03.anim",
         "priority": 60
     },
     "102_Attack_03_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 11,
         "id": "102_Attack_03_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_03_to_idle.anim",
         "priority": 25
     },
     "102_Attack_04": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 14,
@@ -106,21 +115,24 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Attack_04_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_04.anim",
         "priority": 60
     },
     "102_Attack_04_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 12,
         "id": "102_Attack_04_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Attack_04_to_idle.anim",
         "priority": 25
     },
     "102_Combat_Victory": {
@@ -137,6 +149,7 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Combat_Victory_Idle",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Combat_Victory.anim",
         "priority": 100,
         "root_name": "102_Combat_Victory"
     },
@@ -153,6 +166,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Combat_Victory_Idle.anim",
         "priority": 100,
         "root_name": "102_Combat_Victory"
     },
@@ -169,6 +183,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Death.anim",
         "priority": 100
     },
     "102_Down_Safety": {
@@ -184,6 +199,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Down_Safety.anim",
         "priority": 40
     },
     "102_GetUp": {
@@ -199,6 +215,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_GetUp.anim",
         "priority": 40,
         "root_name": "102_KnockOut_H"
     },
@@ -215,6 +232,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Hit.anim",
         "priority": 40
     },
     "102_Hit_02": {
@@ -230,13 +248,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Hit_02.anim",
         "priority": 40
     },
     "102_Idle": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 40,
@@ -245,13 +264,14 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Idle.anim",
         "priority": 10
     },
     "102_Idle2": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 40,
@@ -260,13 +280,14 @@
         "is_default": 1,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Idle2.anim",
         "priority": 100
     },
     "102_Idle_Show": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 40,
@@ -275,6 +296,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Idle_Show.anim",
         "priority": 100
     },
     "102_In": {
@@ -290,6 +312,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_In.anim",
         "priority": 100
     },
     "102_KnockOut_H": {
@@ -306,6 +329,7 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_KnockOut_H.anim",
         "priority": 40,
         "root_name": "102_KnockOut_H"
     },
@@ -323,6 +347,7 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_KnockOut_L.anim",
         "priority": 40,
         "root_name": "102_KnockOut_L"
     },
@@ -339,13 +364,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Roll.anim",
         "priority": 75
     },
     "102_Run": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 24,
@@ -354,13 +380,14 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Run.anim",
         "priority": 30
     },
     "102_Skill_01": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 10,
@@ -370,6 +397,7 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Skill_01_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_01.anim",
         "priority": 80,
         "root_name": "102_Skill_01"
     },
@@ -377,7 +405,7 @@
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 26,
@@ -386,6 +414,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_01_to_wait.anim",
         "priority": 25,
         "root_name": "102_Skill_01"
     },
@@ -393,7 +422,7 @@
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": 0,
         "force_next": 1,
         "frame_num": 9,
@@ -403,6 +432,7 @@
         "move_controller": 1,
         "need_hero_id": 102,
         "next_name": "102_Skill_02_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_02_Hit.anim",
         "priority": 80,
         "root_name": "102_Skill_02_begin"
     },
@@ -410,7 +440,7 @@
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 6,
@@ -420,6 +450,7 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Skill_02_Hit",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_02_Move.anim",
         "priority": 80,
         "root_name": "102_Skill_02_begin"
     },
@@ -427,7 +458,7 @@
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 28,
@@ -437,6 +468,7 @@
         "move_controller": 0,
         "need_hero_id": 102,
         "next_name": "102_Skill_02_Move",
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_02_begin.anim",
         "priority": 80,
         "root_name": "102_Skill_02_begin"
     },
@@ -444,7 +476,7 @@
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 14,
@@ -453,6 +485,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_02_to_wait.anim",
         "priority": 25,
         "root_name": "102_Skill_02_begin"
     },
@@ -469,6 +502,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 102,
+        "path": "Assets\\Content\\Character\\Hero\\102\\Animations\\102_Skill_UltraCombo.anim",
         "priority": 100
     },
     "103_Aim_to_idle": {
@@ -484,6 +518,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Aim_to_idle.anim",
         "priority": 6,
         "root_name": "103_Idle_to_aim"
     },
@@ -500,6 +535,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Death.anim",
         "priority": 10
     },
     "103_GetUp": {
@@ -515,6 +551,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_GetUp.anim",
         "priority": 7,
         "root_name": "103_KnockOut_H"
     },
@@ -531,6 +568,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_GetUp_02.anim",
         "priority": 7,
         "root_name": "103_KnockOut_L"
     },
@@ -547,6 +585,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Hit.anim",
         "priority": 7
     },
     "103_Hit_02": {
@@ -562,6 +601,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Hit_02.anim",
         "priority": 7
     },
     "103_Idle": {
@@ -577,6 +617,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Idle.anim",
         "priority": 1
     },
     "103_Idle_to_aim": {
@@ -593,6 +634,7 @@
         "move_controller": 0,
         "need_hero_id": 103,
         "next_name": "103_Shot_Up",
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Idle_to_aim.anim",
         "priority": 6,
         "root_name": "103_Idle_to_aim"
     },
@@ -610,6 +652,7 @@
         "move_controller": 1,
         "need_hero_id": 103,
         "next_name": "103_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_KnockOut_H.anim",
         "priority": 7,
         "root_name": "103_KnockOut_H"
     },
@@ -627,6 +670,7 @@
         "move_controller": 1,
         "need_hero_id": 103,
         "next_name": "103_GetUp_02",
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_KnockOut_L.anim",
         "priority": 7,
         "root_name": "103_KnockOut_L"
     },
@@ -643,6 +687,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Run.anim",
         "priority": 3
     },
     "103_Shot_Up": {
@@ -659,6 +704,7 @@
         "move_controller": 0,
         "need_hero_id": 103,
         "next_name": "103_Aim_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Shot_Up.anim",
         "priority": 6,
         "root_name": "103_Idle_to_aim"
     },
@@ -674,6 +720,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 503,
+        "path": "Assets\\Content\\Character\\Npc\\503\\Animations\\103_Skill02_Bad_Dead.anim",
         "priority": 10
     },
     "103_Skill02_Idle": {
@@ -688,6 +735,7 @@
         "is_default": 1,
         "move_controller": 0,
         "need_hero_id": 503,
+        "path": "Assets\\Content\\Character\\Npc\\503\\Animations\\103_Skill02_Idle.anim",
         "priority": 1
     },
     "103_Skill02_Shot": {
@@ -703,6 +751,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 503,
+        "path": "Assets\\Content\\Character\\Npc\\503\\Animations\\103_Skill02_Shot.anim",
         "priority": 6
     },
     "103_Skill03_Idle": {
@@ -717,6 +766,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 503,
+        "path": "Assets\\Content\\Character\\Npc\\503\\Animations\\103_Skill03_Idle.anim",
         "priority": 1
     },
     "103_Skill_01": {
@@ -732,6 +782,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Skill_01.anim",
         "priority": 6
     },
     "103_Skill_03_Aim_to_Idle": {
@@ -747,6 +798,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Skill_03_Aim_to_Idle.anim",
         "priority": 6,
         "root_name": "103_Skill_03_Idle_to_Aim"
     },
@@ -761,6 +813,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Skill_03_Idle.anim",
         "priority": 1
     },
     "103_Skill_03_Idle_to_Aim": {
@@ -777,6 +830,7 @@
         "move_controller": 0,
         "need_hero_id": 103,
         "next_name": "103_Skill_03_Shot_Up",
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Skill_03_Idle_to_Aim.anim",
         "priority": 6,
         "root_name": "103_Skill_03_Idle_to_Aim"
     },
@@ -793,6 +847,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 103,
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Skill_03_Run.anim",
         "priority": 3
     },
     "103_Skill_03_Shot_Up": {
@@ -809,6 +864,7 @@
         "move_controller": 0,
         "need_hero_id": 103,
         "next_name": "103_Skill_03_Aim_to_Idle",
+        "path": "Assets\\Content\\Character\\Hero\\103\\Animations\\103_Skill_03_Shot_Up.anim",
         "priority": 6,
         "root_name": "103_Skill_03_Idle_to_Aim"
     },
@@ -816,7 +872,7 @@
         "allow_rotate": 0,
         "anim_input": 7,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 15,
@@ -826,28 +882,31 @@
         "move_controller": 0,
         "need_hero_id": 104,
         "next_name": "104_Attack_001_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Attack_001.anim",
         "priority": 32
     },
     "104_Attack_001_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 10,
         "id": "104_Attack_001_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Attack_001_to_idle.anim",
         "priority": 16
     },
     "104_Attack_002": {
         "allow_rotate": 1,
         "anim_input": 7,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 15,
@@ -857,28 +916,31 @@
         "move_controller": 0,
         "need_hero_id": 104,
         "next_name": "104_Attack_002_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Attack_002.anim",
         "priority": 32
     },
     "104_Attack_002_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 10,
         "id": "104_Attack_002_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Attack_002_to_idle.anim",
         "priority": 16
     },
     "104_Attack_003": {
         "allow_rotate": 1,
         "anim_input": 7,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 15,
@@ -888,21 +950,24 @@
         "move_controller": 0,
         "need_hero_id": 104,
         "next_name": "104_Attack_003_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Attack_003.anim",
         "priority": 32
     },
     "104_Attack_003_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 10,
         "id": "104_Attack_003_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Attack_003_to_idle.anim",
         "priority": 16
     },
     "104_Combat_Victory": {
@@ -919,6 +984,7 @@
         "move_controller": 0,
         "need_hero_id": 104,
         "next_name": "104_Combat_Victory_Idle",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Combat_Victory.anim",
         "priority": 128,
         "root_name": "104_Combat_Victory"
     },
@@ -935,6 +1001,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Combat_Victory_Idle.anim",
         "priority": 128,
         "root_name": "104_Combat_Victory"
     },
@@ -951,6 +1018,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Death.anim",
         "priority": 128
     },
     "104_Down_Safety": {
@@ -966,6 +1034,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Down_Safety.anim",
         "priority": 40
     },
     "104_GetUp": {
@@ -981,6 +1050,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_GetUp.anim",
         "priority": 96,
         "root_name": "104_KnockOut_H"
     },
@@ -997,6 +1067,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Hit.anim",
         "priority": 64
     },
     "104_Hit_02": {
@@ -1012,13 +1083,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Hit_02.anim",
         "priority": 80
     },
     "104_Idle": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 40,
@@ -1027,13 +1099,14 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Idle.anim",
         "priority": 8
     },
     "104_Idle_Show": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 45,
@@ -1042,6 +1115,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Idle_Show.anim",
         "priority": 128
     },
     "104_In": {
@@ -1057,6 +1131,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_In.anim",
         "priority": 128
     },
     "104_KnockOut_H": {
@@ -1073,6 +1148,7 @@
         "move_controller": 0,
         "need_hero_id": 104,
         "next_name": "104_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_KnockOut_H.anim",
         "priority": 96,
         "root_name": "104_KnockOut_H"
     },
@@ -1090,6 +1166,7 @@
         "move_controller": 0,
         "need_hero_id": 104,
         "next_name": "104_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_KnockOut_L.anim",
         "priority": 96,
         "root_name": "104_KnockOut_L"
     },
@@ -1097,7 +1174,7 @@
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 30,
@@ -1106,13 +1183,14 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Run.anim",
         "priority": 24
     },
     "104_Show": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 100,
@@ -1121,13 +1199,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Show.anim",
         "priority": 128
     },
     "104_Skill_01": {
         "allow_rotate": 0,
         "anim_input": 25,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 20,
@@ -1136,13 +1215,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Skill_01.anim",
         "priority": 48
     },
     "104_Skill_02": {
         "allow_rotate": 0,
         "anim_input": 25,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 16,
@@ -1151,13 +1231,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Skill_02.anim",
         "priority": 48
     },
     "104_Skill_UltraCombo": {
         "allow_rotate": 0,
         "anim_input": 25,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 33,
@@ -1167,6 +1248,7 @@
         "move_controller": 1,
         "need_hero_id": 104,
         "next_name": "104_Skill_UltraCombo_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Skill_UltraCombo.anim",
         "priority": 48,
         "root_name": "104_Skill_UltraCombo"
     },
@@ -1174,7 +1256,7 @@
         "allow_rotate": 0,
         "anim_input": 25,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 15,
@@ -1183,6 +1265,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 104,
+        "path": "Assets\\Content\\Character\\Hero\\104\\Animations\\104_Skill_UltraCombo_to_idle.anim",
         "priority": 16,
         "root_name": "104_Skill_UltraCombo"
     },
@@ -1190,7 +1273,7 @@
         "allow_rotate": 1,
         "anim_input": 4,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 8,
@@ -1200,28 +1283,31 @@
         "move_controller": 0,
         "need_hero_id": 105,
         "next_name": "105_Attack_001_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_001.anim",
         "priority": 32
     },
     "105_Attack_001_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 14,
         "id": "105_Attack_001_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_001_to_idle.anim",
         "priority": 16
     },
     "105_Attack_002": {
         "allow_rotate": 1,
         "anim_input": 5,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 11,
@@ -1231,6 +1317,7 @@
         "move_controller": 0,
         "need_hero_id": 105,
         "next_name": "105_Attack_002_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_002.anim",
         "priority": 32
     },
     "105_Attack_002_to_idle": {
@@ -1244,15 +1331,17 @@
         "id": "105_Attack_002_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_002_to_idle.anim",
         "priority": 16
     },
     "105_Attack_003": {
         "allow_rotate": 1,
         "anim_input": 5,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 10,
@@ -1262,28 +1351,31 @@
         "move_controller": 0,
         "need_hero_id": 105,
         "next_name": "105_Attack_003_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_003.anim",
         "priority": 32
     },
     "105_Attack_003_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 14,
         "id": "105_Attack_003_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_003_to_idle.anim",
         "priority": 16
     },
     "105_Attack_004": {
         "allow_rotate": 1,
         "anim_input": 4,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 1,
         "frame_num": 8,
@@ -1293,21 +1385,24 @@
         "move_controller": 0,
         "need_hero_id": 105,
         "next_name": "105_Attack_004_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_004.anim",
         "priority": 32
     },
     "105_Attack_004_to_idle": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 14,
         "id": "105_Attack_004_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Attack_004_to_idle.anim",
         "priority": 16
     },
     "105_Combat_Victory": {
@@ -1323,6 +1418,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Combat_Victory.anim",
         "priority": 128
     },
     "105_Death": {
@@ -1338,6 +1434,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Death.anim",
         "priority": 128
     },
     "105_GetUp": {
@@ -1353,6 +1450,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_GetUp.anim",
         "priority": 96,
         "root_name": "105_KnockOut_H"
     },
@@ -1369,6 +1467,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Hit.anim",
         "priority": 64
     },
     "105_Hit_02": {
@@ -1384,6 +1483,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Hit_02.anim",
         "priority": 80
     },
     "105_Idle": {
@@ -1399,13 +1499,14 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Idle.anim",
         "priority": 8
     },
     "105_Idle_Show": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 44,
@@ -1414,6 +1515,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Idle_Show.anim",
         "priority": 128
     },
     "105_In": {
@@ -1429,6 +1531,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_In.anim",
         "priority": 128
     },
     "105_KnockOut_H": {
@@ -1445,6 +1548,7 @@
         "move_controller": 0,
         "need_hero_id": 105,
         "next_name": "105_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_KnockOut_H.anim",
         "priority": 96,
         "root_name": "105_KnockOut_H"
     },
@@ -1461,6 +1565,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_KnockOut_L.anim",
         "priority": 96,
         "root_name": "105_KnockOut_L"
     },
@@ -1477,13 +1582,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Roll.anim",
         "priority": 48
     },
     "105_Run": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 0,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 24,
@@ -1492,13 +1598,14 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Run.anim",
         "priority": 24
     },
     "105_Skill_01_Hit": {
         "allow_rotate": 0,
         "anim_input": 25,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 24,
@@ -1507,13 +1614,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Skill_01_Hit.anim",
         "priority": 48
     },
     "105_Skill_01_SprintLoop": {
         "allow_rotate": 0,
         "anim_input": 25,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 4,
@@ -1523,13 +1631,14 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Skill_01_SprintLoop.anim",
         "priority": 48
     },
     "105_Skill_02": {
         "allow_rotate": 0,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": -1,
         "force_next": 0,
         "frame_num": 30,
@@ -1538,13 +1647,14 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Skill_02.anim",
         "priority": 48
     },
     "105_Skill_UltraCombo": {
         "allow_rotate": 1,
         "anim_input": -1,
         "can_go_through": 1,
-        "cross_fade": 0,
+        "cross_fade": null,
         "endure_duration": 0,
         "force_next": 0,
         "frame_num": 85,
@@ -1553,6 +1663,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 105,
+        "path": "Assets\\Content\\Character\\Hero\\105\\Animations\\105_Skill_UltraCombo.anim",
         "priority": 48
     },
     "109_Attack_001": {
@@ -1569,6 +1680,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Attack_001_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_001.anim",
         "perfect_frame": 2300,
         "priority": 32
     },
@@ -1583,8 +1695,10 @@
         "id": "109_Attack_001_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_001_to_idle.anim",
         "priority": 16
     },
     "109_Attack_002": {
@@ -1601,6 +1715,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Attack_002_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_002.anim",
         "perfect_frame": 2300,
         "priority": 32
     },
@@ -1615,8 +1730,10 @@
         "id": "109_Attack_002_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_002_to_idle.anim",
         "priority": 16
     },
     "109_Attack_003": {
@@ -1633,6 +1750,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Attack_003_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_003.anim",
         "perfect_frame": 1700,
         "priority": 32
     },
@@ -1647,8 +1765,10 @@
         "id": "109_Attack_003_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_003_to_idle.anim",
         "priority": 16
     },
     "109_Attack_004": {
@@ -1665,6 +1785,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Attack_004_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_004.anim",
         "perfect_frame": 2300,
         "priority": 32
     },
@@ -1679,8 +1800,10 @@
         "id": "109_Attack_004_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Attack_004_to_idle.anim",
         "priority": 16
     },
     "109_Combat_Show": {
@@ -1696,6 +1819,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Combat_Show.anim",
         "priority": 128
     },
     "109_Combat_Victory": {
@@ -1711,6 +1835,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Combat_Victory.anim",
         "priority": 128
     },
     "109_Death": {
@@ -1726,6 +1851,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Death.anim",
         "priority": 128
     },
     "109_GetUp": {
@@ -1741,6 +1867,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_GetUp.anim",
         "priority": 96
     },
     "109_Hit": {
@@ -1756,6 +1883,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Hit.anim",
         "priority": 64
     },
     "109_Hit_02": {
@@ -1771,6 +1899,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Hit_02.anim",
         "priority": 80
     },
     "109_Idle": {
@@ -1786,6 +1915,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Idle.anim",
         "perfect_frame": 2000,
         "priority": 8
     },
@@ -1802,6 +1932,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_In.anim",
         "priority": 128
     },
     "109_KnockOut_H": {
@@ -1818,6 +1949,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_KnockOut_H.anim",
         "priority": 96,
         "root_name": "109_KnockOut_H"
     },
@@ -1835,6 +1967,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_KnockOut_L.anim",
         "priority": 96,
         "root_name": "109_KnockOut_L"
     },
@@ -1851,6 +1984,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Run.anim",
         "perfect_frame": 1300,
         "priority": 24
     },
@@ -1868,6 +2002,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Skill_01_End",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_01_Begin.anim",
         "priority": 48,
         "root_name": "109_Skill_01_Begin"
     },
@@ -1884,6 +2019,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_01_End.anim",
         "priority": 16,
         "root_name": "109_Skill_01_Begin"
     },
@@ -1901,6 +2037,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Skill_02_End",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_02.anim",
         "priority": 48,
         "root_name": "109_Skill_02"
     },
@@ -1917,6 +2054,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_02_End.anim",
         "priority": 16,
         "root_name": "109_Skill_02"
     },
@@ -1933,6 +2071,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_03.anim",
         "priority": 48
     },
     "109_Skill_UltraCombo_Begin": {
@@ -1949,6 +2088,7 @@
         "move_controller": 0,
         "need_hero_id": 109,
         "next_name": "109_Skill_UltraCombo_End",
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_UltraCombo_Begin.anim",
         "priority": 48,
         "root_name": "109_Skill_UltraCombo_Begin"
     },
@@ -1965,6 +2105,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 109,
+        "path": "Assets\\Content\\Character\\Hero\\109\\Animations\\109_Skill_UltraCombo_End.anim",
         "priority": 16,
         "root_name": "109_Skill_UltraCombo_End"
     },
@@ -1982,6 +2123,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Attack_001_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Attack_001.anim",
         "priority": 32
     },
     "110_Attack_001_to_idle": {
@@ -1995,8 +2137,10 @@
         "id": "110_Attack_001_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Attack_001_to_idle.anim",
         "priority": 16
     },
     "110_Attack_002": {
@@ -2013,6 +2157,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Attack_002_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Attack_002.anim",
         "priority": 32
     },
     "110_Attack_002_to_idle": {
@@ -2026,8 +2171,10 @@
         "id": "110_Attack_002_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Attack_002_to_idle.anim",
         "priority": 16
     },
     "110_Attack_003": {
@@ -2044,6 +2191,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Attack_003_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Attack_003.anim",
         "priority": 32
     },
     "110_Attack_003_to_idle": {
@@ -2057,8 +2205,10 @@
         "id": "110_Attack_003_to_idle",
         "is_cover": 0,
         "is_default": 0,
+        "is_to_idle": 1,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Attack_003_to_idle.anim",
         "priority": 16
     },
     "110_Combat_Victory": {
@@ -2074,6 +2224,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Combat_Victory.anim",
         "priority": 128
     },
     "110_Death": {
@@ -2089,6 +2240,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Death.anim",
         "priority": 128
     },
     "110_GetUp": {
@@ -2104,6 +2256,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_GetUp.anim",
         "priority": 96
     },
     "110_GetUp_02": {
@@ -2119,6 +2272,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_GetUp_02.anim",
         "priority": 96
     },
     "110_Hit": {
@@ -2134,6 +2288,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Hit.anim",
         "priority": 64
     },
     "110_Hit_02": {
@@ -2149,6 +2304,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Hit_02.anim",
         "priority": 80
     },
     "110_Idle": {
@@ -2164,6 +2320,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Idle.anim",
         "priority": 8
     },
     "110_In": {
@@ -2179,6 +2336,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_In.anim",
         "priority": 128
     },
     "110_KnockOut_H": {
@@ -2195,6 +2353,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_KnockOut_H.anim",
         "priority": 96,
         "root_name": "110_KnockOut_H"
     },
@@ -2212,6 +2371,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_KnockOut_L.anim",
         "priority": 96,
         "root_name": "110_KnockOut_L"
     },
@@ -2228,6 +2388,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Run.anim",
         "priority": 24
     },
     "110_Show": {
@@ -2243,6 +2404,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Show.anim",
         "priority": 128
     },
     "110_Show_Idle": {
@@ -2258,6 +2420,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Show_Idle.anim",
         "priority": 128
     },
     "110_Skill_01_begin": {
@@ -2274,6 +2437,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_01_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_01_begin.anim",
         "priority": 48,
         "root_name": "110_Skill_01_begin"
     },
@@ -2290,6 +2454,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_01_to_wait.anim",
         "priority": 16,
         "root_name": "110_Skill_01_begin"
     },
@@ -2307,6 +2472,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_02_02",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_01.anim",
         "priority": 48,
         "root_name": "110_Skill_02_01"
     },
@@ -2324,6 +2490,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_02_02_2",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_01_2.anim",
         "priority": 48,
         "root_name": "110_Skill_02_01_2"
     },
@@ -2340,6 +2507,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_02.anim",
         "priority": 16,
         "root_name": "110_Skill_02_01"
     },
@@ -2356,6 +2524,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_02_2.anim",
         "priority": 16,
         "root_name": "110_Skill_02_01_2"
     },
@@ -2372,6 +2541,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_03.anim",
         "priority": 48
     },
     "110_Skill_02_begin": {
@@ -2388,6 +2558,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_02_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_begin.anim",
         "priority": 48,
         "root_name": "110_Skill_02_begin"
     },
@@ -2405,6 +2576,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_02_to_wait_2",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_begin_2.anim",
         "priority": 48,
         "root_name": "110_Skill_02_begin_2"
     },
@@ -2422,6 +2594,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_02_to_wait_3",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_begin_3.anim",
         "priority": 48,
         "root_name": "110_Skill_02_begin_3"
     },
@@ -2438,6 +2611,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_to_wait.anim",
         "priority": 16,
         "root_name": "110_Skill_02_begin"
     },
@@ -2454,6 +2628,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_to_wait_2.anim",
         "priority": 16,
         "root_name": "110_Skill_02_begin_2"
     },
@@ -2470,6 +2645,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_02_to_wait_3.anim",
         "priority": 16,
         "root_name": "110_Skill_02_begin_3"
     },
@@ -2487,6 +2663,7 @@
         "move_controller": 0,
         "need_hero_id": 110,
         "next_name": "110_Skill_UltraCombo_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_UltraCombo_begin.anim",
         "priority": 48,
         "root_name": "110_Skill_UltraCombo_begin"
     },
@@ -2503,6 +2680,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 110,
+        "path": "Assets\\Content\\Character\\Hero\\110\\Animations\\110_Skill_UltraCombo_to_wait.anim",
         "priority": 16,
         "root_name": "110_Skill_UltraCombo_begin"
     },
@@ -2520,6 +2698,7 @@
         "move_controller": 0,
         "need_hero_id": 112,
         "next_name": "112_Attack_002",
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_001.anim",
         "priority": 6
     },
     "112_Attack_001_to_idle": {
@@ -2535,6 +2714,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_001_to_idle.anim",
         "priority": 6
     },
     "112_Attack_002": {
@@ -2551,6 +2731,7 @@
         "move_controller": 0,
         "need_hero_id": 112,
         "next_name": "112_Attack_003",
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_002.anim",
         "priority": 6
     },
     "112_Attack_002_to_idle": {
@@ -2566,6 +2747,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_002_to_idle.anim",
         "priority": 6
     },
     "112_Attack_003": {
@@ -2582,6 +2764,7 @@
         "move_controller": 0,
         "need_hero_id": 112,
         "next_name": "112_Attack_004",
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_003.anim",
         "priority": 6
     },
     "112_Attack_003_to_idle": {
@@ -2597,6 +2780,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_003_to_idle.anim",
         "priority": 6
     },
     "112_Attack_004": {
@@ -2612,6 +2796,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Attack_004.anim",
         "priority": 6
     },
     "112_Death": {
@@ -2627,6 +2812,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Death.anim",
         "priority": 10
     },
     "112_GetUp": {
@@ -2642,6 +2828,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_GetUp.anim",
         "priority": 7,
         "root_name": "112_KnockOut_H"
     },
@@ -2658,6 +2845,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_GetUp_02.anim",
         "priority": 7,
         "root_name": "112_KnockOut_L"
     },
@@ -2674,6 +2862,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Hit.anim",
         "priority": 7
     },
     "112_Hit_02": {
@@ -2689,6 +2878,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Hit_02.anim",
         "priority": 7
     },
     "112_Idle": {
@@ -2704,6 +2894,7 @@
         "is_default": 1,
         "move_controller": 0,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Idle.anim",
         "priority": 1
     },
     "112_KnockOut_H": {
@@ -2720,6 +2911,7 @@
         "move_controller": 1,
         "need_hero_id": 112,
         "next_name": "112_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_KnockOut_H.anim",
         "priority": 8,
         "root_name": "112_KnockOut_H"
     },
@@ -2737,6 +2929,7 @@
         "move_controller": 1,
         "need_hero_id": 112,
         "next_name": "112_GetUp_02",
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_KnockOut_L.anim",
         "priority": 8,
         "root_name": "112_KnockOut_L"
     },
@@ -2753,6 +2946,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 112,
+        "path": "Assets\\Content\\Character\\Hero\\112\\Animations\\112_Run.anim",
         "priority": 3
     },
     "123_Attack": {
@@ -2767,6 +2961,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Attack.anim",
         "priority": 8
     },
     "123_Combat_Show": {
@@ -2781,6 +2976,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Combat_Show.anim",
         "priority": 10
     },
     "123_Death": {
@@ -2795,6 +2991,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Death.anim",
         "priority": 10
     },
     "123_GetUp": {
@@ -2810,6 +3007,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_GetUp.anim",
         "priority": 7,
         "root_name": "123_KnockOut_L"
     },
@@ -2826,6 +3024,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_GetUp_02.anim",
         "priority": 7,
         "root_name": "123_KnockOut_H"
     },
@@ -2841,6 +3040,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Hit.anim",
         "priority": 6
     },
     "123_Hit_02": {
@@ -2855,6 +3055,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Hit_02.anim",
         "priority": 6
     },
     "123_Idle": {
@@ -2869,6 +3070,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Idle.anim",
         "priority": 1
     },
     "123_In": {
@@ -2883,6 +3085,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_In.anim",
         "priority": 10
     },
     "123_KnockOut_H": {
@@ -2898,6 +3101,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_KnockOut_H.anim",
         "priority": 7,
         "root_name": "123_KnockOut_H"
     },
@@ -2914,6 +3118,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_KnockOut_L.anim",
         "priority": 7,
         "root_name": "123_KnockOut_L"
     },
@@ -2929,6 +3134,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Run.anim",
         "priority": 2
     },
     "123_Skill_01_Begin": {
@@ -2945,6 +3151,7 @@
         "move_controller": 0,
         "need_hero_id": 123,
         "next_name": "123_Skill_01_Loop",
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Skill_01_Begin.anim",
         "priority": 8,
         "root_name": "123_Skill_01_Begin",
         "rotation_constrain": 1000
@@ -2961,6 +3168,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Skill_01_End.anim",
         "priority": 8,
         "root_name": "123_Skill_01_Begin"
     },
@@ -2978,6 +3186,7 @@
         "move_controller": 0,
         "need_hero_id": 123,
         "next_name": "123_Skill_01_End",
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Skill_01_Loop.anim",
         "priority": 8,
         "root_name": "123_Skill_01_Begin",
         "rotation_constrain": 1000
@@ -2994,6 +3203,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 123,
+        "path": "Assets\\Content\\Character\\Hero\\123\\Animations\\123_Skill_02.anim",
         "priority": 8
     },
     "127_Attack_01": {
@@ -3010,6 +3220,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Attack_01_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Attack_01.anim",
         "priority": 32
     },
     "127_Attack_01_to_idle": {
@@ -3025,6 +3236,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Attack_01_to_idle.anim",
         "priority": 16
     },
     "127_Attack_02": {
@@ -3041,6 +3253,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Attack_02_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Attack_02.anim",
         "priority": 32
     },
     "127_Attack_02_to_idle": {
@@ -3056,6 +3269,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Attack_02_to_idle.anim",
         "priority": 16
     },
     "127_Attack_03": {
@@ -3072,6 +3286,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Attack_03_to_idle",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Attack_03.anim",
         "priority": 32
     },
     "127_Attack_03_to_idle": {
@@ -3087,6 +3302,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Attack_03_to_idle.anim",
         "priority": 16
     },
     "127_Combat_Victory": {
@@ -3102,6 +3318,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Combat_Victory.anim",
         "priority": 128
     },
     "127_Combat_Victory_to_idle": {
@@ -3117,6 +3334,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Combat_Victory_to_idle.anim",
         "priority": 128
     },
     "127_Death": {
@@ -3132,6 +3350,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Death.anim",
         "priority": 128
     },
     "127_GetUp": {
@@ -3147,6 +3366,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_GetUp.anim",
         "priority": 96
     },
     "127_Hit": {
@@ -3162,6 +3382,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Hit.anim",
         "priority": 64
     },
     "127_Hit_02": {
@@ -3177,6 +3398,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Hit_02.anim",
         "priority": 80
     },
     "127_Idle": {
@@ -3192,6 +3414,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Idle.anim",
         "priority": 8
     },
     "127_In": {
@@ -3207,6 +3430,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_In.anim",
         "priority": 128
     },
     "127_KnockOut_H": {
@@ -3223,6 +3447,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_KnockOut_H.anim",
         "priority": 96,
         "root_name": "127_KnockOut_H"
     },
@@ -3240,6 +3465,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_GetUp",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_KnockOut_L.anim",
         "priority": 96,
         "root_name": "127_KnockOut_L"
     },
@@ -3256,6 +3482,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Run.anim",
         "priority": 24
     },
     "127_Show": {
@@ -3271,6 +3498,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Show.anim",
         "priority": 128
     },
     "127_Show_Idle": {
@@ -3286,6 +3514,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Show_Idle.anim",
         "priority": 128
     },
     "127_Skill_01_Begin": {
@@ -3302,6 +3531,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Skill_01_Loop",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_01_Begin.anim",
         "priority": 48,
         "root_name": "127_Skill_01_Begin"
     },
@@ -3319,6 +3549,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Skill_01_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_01_End.anim",
         "priority": 48,
         "root_name": "127_Skill_01_Begin"
     },
@@ -3337,6 +3568,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Skill_01_End",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_01_Loop.anim",
         "priority": 48,
         "root_name": "127_Skill_01_Begin"
     },
@@ -3353,6 +3585,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_01_to_wait.anim",
         "priority": 16,
         "root_name": "127_Skill_01_Begin"
     },
@@ -3369,6 +3602,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_02.anim",
         "priority": 48,
         "root_name": "127_Skill_02"
     },
@@ -3386,6 +3620,7 @@
         "move_controller": 0,
         "need_hero_id": 127,
         "next_name": "127_Skill_UltraCombo_to_wait",
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_UltraCombo.anim",
         "priority": 48,
         "root_name": "127_Skill_UltraCombo"
     },
@@ -3402,6 +3637,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 127,
+        "path": "Assets\\Content\\Character\\Hero\\127\\Animations\\127_Skill_UltraCombo_to_wait.anim",
         "priority": 16,
         "root_name": "127_Skill_UltraCombo"
     },
@@ -3419,6 +3655,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Attack_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Attack_Begin.anim",
         "priority": 50,
         "root_name": "301_Attack_Begin"
     },
@@ -3435,6 +3672,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Attack_End.anim",
         "priority": 50,
         "root_name": "301_Attack_Begin"
     },
@@ -3452,6 +3690,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Attack_End",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Attack_Hit.anim",
         "priority": 50,
         "root_name": "301_Attack_Begin"
     },
@@ -3470,8 +3709,10 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Attack_Hit",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Attack_Loop.anim",
         "priority": 50,
-        "root_name": "301_Attack_Begin"
+        "root_name": "301_Attack_Begin",
+        "skillloading": 1
     },
     "301_Back": {
         "allow_rotate": 0,
@@ -3486,6 +3727,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Back.anim",
         "priority": 20
     },
     "301_Born": {
@@ -3501,6 +3743,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Born.anim",
         "priority": 110
     },
     "301_Death": {
@@ -3516,6 +3759,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Death.anim",
         "priority": 110
     },
     "301_Dodge": {
@@ -3531,6 +3775,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Dodge.anim",
         "priority": 30,
         "root_name": "301_Dodge"
     },
@@ -3549,6 +3794,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_GetUp",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Down_Loop.anim",
         "priority": 70,
         "root_name": "301_KnockOut_L"
     },
@@ -3567,6 +3813,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_GetUp_02",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Down_Loop_02.anim",
         "priority": 70,
         "root_name": "301_KnockOut_H"
     },
@@ -3583,6 +3830,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Float_Down.anim",
         "priority": 70
     },
     "301_Float_Hit": {
@@ -3598,6 +3846,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Float_Hit.anim",
         "priority": 70
     },
     "301_Float_Keep": {
@@ -3613,6 +3862,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Float_Keep.anim",
         "priority": 70
     },
     "301_Float_Up": {
@@ -3628,6 +3878,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Float_Up.anim",
         "priority": 70
     },
     "301_GetUp": {
@@ -3643,6 +3894,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_GetUp.anim",
         "priority": 70,
         "root_name": "301_KnockOut_L"
     },
@@ -3659,6 +3911,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_GetUp_02.anim",
         "priority": 70,
         "root_name": "301_KnockOut_H"
     },
@@ -3675,6 +3928,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Hit.anim",
         "priority": 40
     },
     "301_Hit_02": {
@@ -3690,6 +3944,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Hit_02.anim",
         "priority": 100
     },
     "301_Idle": {
@@ -3705,6 +3960,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Idle.anim",
         "priority": 10
     },
     "301_KnockOut_H": {
@@ -3721,6 +3977,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Down_Loop_02",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_KnockOut_H.anim",
         "priority": 80,
         "root_name": "301_KnockOut_H"
     },
@@ -3738,6 +3995,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Down_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_KnockOut_L.anim",
         "priority": 80,
         "root_name": "301_KnockOut_L"
     },
@@ -3754,6 +4012,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Run.anim",
         "priority": 20
     },
     "301_Skill_Begin": {
@@ -3770,6 +4029,7 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Skill_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Skill_Begin.anim",
         "priority": 60,
         "root_name": "301_Skill_Begin"
     },
@@ -3786,6 +4046,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Skill_End.anim",
         "priority": 60,
         "root_name": "301_Skill_Begin"
     },
@@ -3804,8 +4065,10 @@
         "move_controller": 0,
         "need_hero_id": 301,
         "next_name": "301_Skill_End",
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Skill_Loop.anim",
         "priority": 60,
-        "root_name": "301_Skill_Begin"
+        "root_name": "301_Skill_Begin",
+        "skillloading": 1
     },
     "301_Stun": {
         "allow_rotate": 0,
@@ -3821,6 +4084,7 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Stun.anim",
         "priority": 90
     },
     "301_TurnLeft": {
@@ -3836,6 +4100,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_TurnLeft.anim",
         "priority": 20
     },
     "301_TurnRight": {
@@ -3851,6 +4116,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_TurnRight.anim",
         "priority": 20
     },
     "301_Walk": {
@@ -3866,6 +4132,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 301,
+        "path": "Assets\\Content\\Character\\Npc\\301\\Animations\\301_Walk.anim",
         "priority": 20
     },
     "302_Attack": {
@@ -3881,6 +4148,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Attack.anim",
         "priority": 50,
         "root_name": "302_Attack_Begin"
     },
@@ -3898,6 +4166,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_Attack",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Attack_Begin.anim",
         "priority": 50,
         "root_name": "302_Attack_Begin"
     },
@@ -3914,6 +4183,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Born.anim",
         "priority": 110
     },
     "302_Death": {
@@ -3929,6 +4199,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Death.anim",
         "priority": 110
     },
     "302_Down_Loop": {
@@ -3946,6 +4217,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_GetUp",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Down_Loop.anim",
         "priority": 70,
         "root_name": "302_KnockOut_L"
     },
@@ -3964,6 +4236,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_GetUp_02",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Down_Loop_02.anim",
         "priority": 70,
         "root_name": "302_KnockOut_H"
     },
@@ -3980,6 +4253,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_GetUp.anim",
         "priority": 70,
         "root_name": "302_KnockOut_L"
     },
@@ -3996,6 +4270,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_GetUp_02.anim",
         "priority": 70,
         "root_name": "302_KnockOut_H"
     },
@@ -4012,6 +4287,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Hit.anim",
         "priority": 40
     },
     "302_Hit_02": {
@@ -4027,6 +4303,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Hit_02.anim",
         "priority": 100
     },
     "302_Idle": {
@@ -4042,6 +4319,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Idle.anim",
         "priority": 10
     },
     "302_KnockOut_H": {
@@ -4058,6 +4336,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_Down_Loop_02",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_KnockOut_H.anim",
         "priority": 80,
         "root_name": "302_KnockOut_H"
     },
@@ -4075,6 +4354,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_Down_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_KnockOut_L.anim",
         "priority": 80,
         "root_name": "302_KnockOut_L"
     },
@@ -4091,6 +4371,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Run.anim",
         "priority": 20
     },
     "302_Skill1_Begin": {
@@ -4107,6 +4388,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_Skill1_Jump",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Skill1_Begin.anim",
         "priority": 50,
         "root_name": "302_Skill1_Begin"
     },
@@ -4123,6 +4405,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Skill1_Hit.anim",
         "priority": 50,
         "root_name": "302_Skill1_Begin"
     },
@@ -4140,6 +4423,7 @@
         "move_controller": 0,
         "need_hero_id": 302,
         "next_name": "302_Skill1_Hit",
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Skill1_Jump.anim",
         "priority": 50,
         "root_name": "302_Skill1_Begin"
     },
@@ -4157,6 +4441,7 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 302,
+        "path": "Assets\\Content\\Character\\Npc\\302\\Animations\\302_Stun.anim",
         "priority": 90
     },
     "303_Attack_Begin": {
@@ -4173,6 +4458,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Attack_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Attack_Begin.anim",
         "priority": 50,
         "root_name": "303_Attack_Begin"
     },
@@ -4189,6 +4475,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Attack_End.anim",
         "priority": 50,
         "root_name": "303_Attack_Begin"
     },
@@ -4207,6 +4494,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Attack_End",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Attack_Loop.anim",
         "priority": 50,
         "root_name": "303_Attack_Begin"
     },
@@ -4223,6 +4511,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Born.anim",
         "priority": 110
     },
     "303_Death": {
@@ -4238,6 +4527,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Death.anim",
         "priority": 110
     },
     "303_Down_Loop": {
@@ -4255,6 +4545,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_GetUp",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Down_Loop.anim",
         "priority": 70,
         "root_name": "303_KnockOut_L"
     },
@@ -4273,6 +4564,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_GetUp_02",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Down_Loop_02.anim",
         "priority": 70,
         "root_name": "303_KnockOut_H"
     },
@@ -4289,6 +4581,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_GetUp.anim",
         "priority": 70,
         "root_name": "303_KnockOut_L"
     },
@@ -4305,6 +4598,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_GetUp_02.anim",
         "priority": 70,
         "root_name": "303_KnockOut_H"
     },
@@ -4321,6 +4615,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Hit.anim",
         "priority": 40
     },
     "303_Hit_02": {
@@ -4336,6 +4631,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Hit_02.anim",
         "priority": 99
     },
     "303_Idle": {
@@ -4351,6 +4647,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Idle.anim",
         "priority": 10
     },
     "303_KnockOut_H": {
@@ -4367,6 +4664,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Down_Loop_02",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_KnockOut_H.anim",
         "priority": 40,
         "root_name": "303_KnockOut_H"
     },
@@ -4384,6 +4682,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Down_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_KnockOut_L.anim",
         "priority": 80,
         "root_name": "303_KnockOut_L"
     },
@@ -4400,6 +4699,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Run.anim",
         "priority": 20
     },
     "303_Skill_Begin01": {
@@ -4416,6 +4716,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Skill_Begin02",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Skill_Begin01.anim",
         "priority": 50,
         "root_name": "303_Skill_Begin01"
     },
@@ -4434,8 +4735,10 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Skill_Begin03",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Skill_Begin02.anim",
         "priority": 50,
-        "root_name": "303_Skill_Begin01"
+        "root_name": "303_Skill_Begin01",
+        "skillloading": 1
     },
     "303_Skill_Begin03": {
         "allow_rotate": 0,
@@ -4451,6 +4754,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Skill_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Skill_Begin03.anim",
         "priority": 50,
         "root_name": "303_Skill_Begin01"
     },
@@ -4467,6 +4771,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Skill_End.anim",
         "priority": 100,
         "root_name": "303_Skill_Begin01"
     },
@@ -4484,6 +4789,7 @@
         "move_controller": 0,
         "need_hero_id": 303,
         "next_name": "303_Skill_End",
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Skill_Loop.anim",
         "priority": 50,
         "root_name": "303_Skill_Begin01"
     },
@@ -4501,6 +4807,7 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 303,
+        "path": "Assets\\Content\\Character\\Npc\\303\\Animations\\303_Stun.anim",
         "priority": 90
     },
     "321_Attack_01": {
@@ -4516,6 +4823,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Attack_01.anim",
         "priority": 50,
         "root_name": "321_Attack_01"
     },
@@ -4532,6 +4840,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Attack_02.anim",
         "priority": 50,
         "root_name": "321_Attack_02"
     },
@@ -4548,6 +4857,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Death.anim",
         "priority": 110
     },
     "321_Down": {
@@ -4564,6 +4874,7 @@
         "loop_duration": 500,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Down.anim",
         "priority": 70
     },
     "321_GetUp": {
@@ -4579,6 +4890,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_GetUp.anim",
         "priority": 70
     },
     "321_Hit": {
@@ -4594,6 +4906,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Hit.anim",
         "priority": 40
     },
     "321_Hit_02": {
@@ -4609,6 +4922,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Hit_02.anim",
         "priority": 100
     },
     "321_Idle": {
@@ -4624,6 +4938,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Idle.anim",
         "priority": 10
     },
     "321_KnockOut_H": {
@@ -4639,6 +4954,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_KnockOut_H.anim",
         "priority": 80
     },
     "321_KnockOut_L": {
@@ -4654,6 +4970,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_KnockOut_L.anim",
         "priority": 80
     },
     "321_Run": {
@@ -4669,6 +4986,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Run.anim",
         "priority": 20
     },
     "321_Skill_01": {
@@ -4684,6 +5002,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Skill_01.anim",
         "priority": 50
     },
     "321_Skill_02_Begin": {
@@ -4700,6 +5019,7 @@
         "move_controller": 0,
         "need_hero_id": 321,
         "next_name": "321_Skill_02_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Skill_02_Begin.anim",
         "priority": 50,
         "root_name": "321_Skill_02_Begin"
     },
@@ -4716,6 +5036,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Skill_02_End.anim",
         "priority": 50,
         "root_name": "321_Skill_02_End"
     },
@@ -4733,6 +5054,7 @@
         "move_controller": 0,
         "need_hero_id": 321,
         "next_name": "321_Skill_02_End",
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Skill_02_Loop.anim",
         "priority": 50,
         "root_name": "321_Skill_02_Loop"
     },
@@ -4750,6 +5072,7 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 321,
+        "path": "Assets\\Content\\Character\\Npc\\321\\Animations\\321_Stun.anim",
         "priority": 90
     },
     "322_Death": {
@@ -4765,6 +5088,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Death.anim",
         "priority": 110
     },
     "322_Down": {
@@ -4781,6 +5105,7 @@
         "loop_duration": 500,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Down.anim",
         "priority": 70
     },
     "322_GetUp": {
@@ -4796,6 +5121,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_GetUp.anim",
         "priority": 70
     },
     "322_Hit": {
@@ -4811,6 +5137,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Hit.anim",
         "priority": 40
     },
     "322_Hit_02": {
@@ -4826,6 +5153,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Hit_02.anim",
         "priority": 100
     },
     "322_Idle": {
@@ -4841,6 +5169,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Idle.anim",
         "priority": 10
     },
     "322_KnockOut_H": {
@@ -4856,6 +5185,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_KnockOut_H.anim",
         "priority": 80
     },
     "322_KnockOut_L": {
@@ -4871,6 +5201,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_KnockOut_L.anim",
         "priority": 80
     },
     "322_Run": {
@@ -4886,6 +5217,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Run.anim",
         "priority": 20
     },
     "322_Skill_01_Begin": {
@@ -4902,6 +5234,7 @@
         "move_controller": 0,
         "need_hero_id": 322,
         "next_name": "322_Skill_01_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Skill_01_Begin.anim",
         "priority": 60,
         "root_name": "322_Skill_01_Begin"
     },
@@ -4918,6 +5251,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Skill_01_End.anim",
         "priority": 60,
         "root_name": "322_Skill_01_End"
     },
@@ -4935,6 +5269,7 @@
         "move_controller": 0,
         "need_hero_id": 322,
         "next_name": "322_Skill_01_End",
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Skill_01_Loop.anim",
         "priority": 60,
         "root_name": "322_Skill_01_Loop"
     },
@@ -4953,8 +5288,10 @@
         "move_controller": 0,
         "need_hero_id": 322,
         "next_name": "322_Skill_02_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Skill_02_Begin.anim",
         "priority": 60,
-        "root_name": "322_Skill_02_Begin"
+        "root_name": "322_Skill_02_Begin",
+        "skillloading": 1
     },
     "322_Skill_02_End": {
         "allow_rotate": 0,
@@ -4969,6 +5306,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Skill_02_End.anim",
         "priority": 60,
         "root_name": "322_Skill_02_End"
     },
@@ -4986,6 +5324,7 @@
         "move_controller": 0,
         "need_hero_id": 322,
         "next_name": "322_Skill_02_End",
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Skill_02_Loop.anim",
         "priority": 60,
         "root_name": "322_Skill_02_Loop"
     },
@@ -5003,6 +5342,7 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 322,
+        "path": "Assets\\Content\\Character\\Npc\\322\\Animations\\322_Stun.anim",
         "priority": 90
     },
     "323_Attack": {
@@ -5018,6 +5358,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Attack.anim",
         "priority": 50
     },
     "323_Death": {
@@ -5033,6 +5374,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Death.anim",
         "priority": 110
     },
     "323_Dodge": {
@@ -5048,6 +5390,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Dodge.anim",
         "priority": 30
     },
     "323_Down": {
@@ -5064,6 +5407,7 @@
         "loop_duration": 500,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Down.anim",
         "priority": 70
     },
     "323_GetUp": {
@@ -5079,6 +5423,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_GetUp.anim",
         "priority": 70
     },
     "323_Hit": {
@@ -5094,6 +5439,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Hit.anim",
         "priority": 40
     },
     "323_Hit_02": {
@@ -5109,6 +5455,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Hit_02.anim",
         "priority": 100
     },
     "323_Idle": {
@@ -5124,6 +5471,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Idle.anim",
         "priority": 10
     },
     "323_KnockOut_H": {
@@ -5139,6 +5487,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_KnockOut_H.anim",
         "priority": 80
     },
     "323_KnockOut_L": {
@@ -5154,6 +5503,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_KnockOut_L.anim",
         "priority": 80
     },
     "323_Run": {
@@ -5169,6 +5519,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Run.anim",
         "priority": 20
     },
     "323_Skill_01": {
@@ -5184,6 +5535,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Skill_01.anim",
         "priority": 60
     },
     "323_Skill_02": {
@@ -5200,7 +5552,9 @@
         "loop_duration": 500,
         "move_controller": 0,
         "need_hero_id": 323,
-        "priority": 60
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Skill_02.anim",
+        "priority": 60,
+        "skillloading": 1
     },
     "323_Skill_03": {
         "allow_rotate": 0,
@@ -5215,6 +5569,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Skill_03.anim",
         "priority": 60
     },
     "323_Stun": {
@@ -5231,6 +5586,7 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 323,
+        "path": "Assets\\Content\\Character\\Npc\\323\\Animations\\323_Stun.anim",
         "priority": 90
     },
     "505_Attack": {
@@ -5246,6 +5602,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 505,
+        "path": "Assets\\Content\\Character\\Npc\\505\\Animations\\505_Attack.anim",
         "priority": 50,
         "root_name": "505_Attack"
     },
@@ -5262,6 +5619,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 505,
+        "path": "Assets\\Content\\Character\\Npc\\505\\Animations\\505_Born.anim",
         "priority": 100
     },
     "505_Idle": {
@@ -5277,6 +5635,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 505,
+        "path": "Assets\\Content\\Character\\Npc\\505\\Animations\\505_Idle.anim",
         "priority": 10
     },
     "505_Skin": {
@@ -5292,6 +5651,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 505,
+        "path": "Assets\\Content\\Character\\Npc\\505\\Animations\\505_Skin.anim",
         "priority": 20
     },
     "605_Attack": {
@@ -5307,6 +5667,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 605,
+        "path": "Assets\\Content\\Character\\Npc\\605\\Animations\\605_Attack.anim",
         "priority": 50,
         "root_name": "605_Attack"
     },
@@ -5323,6 +5684,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 605,
+        "path": "Assets\\Content\\Character\\Npc\\605\\Animations\\605_Born.anim",
         "priority": 100
     },
     "605_Idle": {
@@ -5338,6 +5700,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 605,
+        "path": "Assets\\Content\\Character\\Npc\\605\\Animations\\605_Idle.anim",
         "priority": 10
     },
     "605_Skin": {
@@ -5353,6 +5716,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 605,
+        "path": "Assets\\Content\\Character\\Npc\\605\\Animations\\605_Skin.anim",
         "priority": 20
     },
     "68_Death": {
@@ -5368,6 +5732,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Death.anim",
         "priority": 100
     },
     "68_Down_Loop": {
@@ -5385,6 +5750,7 @@
         "move_controller": 0,
         "need_hero_id": 68,
         "next_name": "68_GetUp",
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Down_Loop.anim",
         "priority": 70,
         "root_name": "68_KnockOut_L"
     },
@@ -5403,6 +5769,7 @@
         "move_controller": 0,
         "need_hero_id": 68,
         "next_name": "68_GetUp_02",
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Down_Loop_02.anim",
         "priority": 70,
         "root_name": "68_KnockOut_H"
     },
@@ -5419,6 +5786,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_GetUp.anim",
         "priority": 70,
         "root_name": "68_KnockOut_L"
     },
@@ -5435,6 +5803,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_GetUp_02.anim",
         "priority": 70,
         "root_name": "68_KnockOut_H"
     },
@@ -5451,6 +5820,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Hit.anim",
         "priority": 70
     },
     "68_Hit_02": {
@@ -5466,6 +5836,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Hit_02.anim",
         "priority": 70
     },
     "68_Idle": {
@@ -5481,6 +5852,7 @@
         "is_default": 1,
         "move_controller": 1,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Idle.anim",
         "priority": 10
     },
     "68_KnockOut_H": {
@@ -5497,6 +5869,7 @@
         "move_controller": 0,
         "need_hero_id": 68,
         "next_name": "68_Down_Loop_02",
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_KnockOut_H.anim",
         "priority": 70,
         "root_name": "68_KnockOut_H"
     },
@@ -5514,6 +5887,7 @@
         "move_controller": 0,
         "need_hero_id": 68,
         "next_name": "68_Down_Loop",
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_KnockOut_L.anim",
         "priority": 70,
         "root_name": "68_KnockOut_L"
     },
@@ -5530,6 +5904,7 @@
         "is_default": 0,
         "move_controller": 1,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Run.anim",
         "priority": 20
     },
     "68_Skill_01": {
@@ -5545,6 +5920,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Skill_01.anim",
         "priority": 60
     },
     "68_Skill_02": {
@@ -5560,6 +5936,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Skill_02.anim",
         "priority": 60
     },
     "68_Skill_03": {
@@ -5575,6 +5952,7 @@
         "is_default": 0,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Skill_03.anim",
         "priority": 60
     },
     "68_Stun": {
@@ -5591,10 +5969,12 @@
         "loop_duration": 5000,
         "move_controller": 0,
         "need_hero_id": 68,
+        "path": "Assets\\Content\\Character\\Npc\\68\\Animations\\68_Stun.anim",
         "priority": 90
     },
     "enemy": {
         "cross_fade": 0,
+        "frame_num": null,
         "id": "enemy"
     }
 }

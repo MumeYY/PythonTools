@@ -64,6 +64,9 @@
         "target_filter": 2
     },
     "102020101": {
+        "buff_vec": [
+            102020101
+        ],
         "description": "黑寡妇被动伤害",
         "hit_anim": "Hit_02",
         "id": 102020101,
@@ -73,6 +76,9 @@
         "target_filter": 1
     },
     "102100101": {
+        "buff_vec": [
+            102100101
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "黑寡妇技能1伤害",
@@ -201,6 +207,9 @@
         "target_filter": 2
     },
     "104900101": {
+        "buff_vec": [
+            104000000
+        ],
         "id": 104900101,
         "name": "钢铁侠被动"
     },
@@ -210,20 +219,23 @@
         "description": "蜘蛛侠普攻1伤害",
         "id": 105000101,
         "name": "蜘蛛侠普攻1伤害",
-        "param1": 187,
+        "param1": null,
         "target_audio": "SE_Hit105_punch",
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
         "target_filter": 2
     },
     "105000102": {
+        "buff_vec": [
+            105200101
+        ],
         "damage_nature": 1,
         "damage_type": 2,
         "description": "蜘蛛侠被动伤害",
         "hit_anim": "Hit_02",
         "id": 105000102,
         "name": "蜘蛛侠被动伤害",
-        "param1": 0,
+        "param1": null,
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
         "target_filter": 2
@@ -234,7 +246,7 @@
         "description": "蜘蛛侠普攻2伤害",
         "id": 105000201,
         "name": "蜘蛛侠普攻2伤害",
-        "param1": 187,
+        "param1": null,
         "target_audio": "SE_Hit105_punch",
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
@@ -246,7 +258,7 @@
         "description": "蜘蛛侠普攻3伤害",
         "id": 105000301,
         "name": "蜘蛛侠普攻3伤害",
-        "param1": 187,
+        "param1": null,
         "target_audio": "SE_Hit105_punch",
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
@@ -258,7 +270,7 @@
         "description": "蜘蛛侠普攻4伤害",
         "id": 105000401,
         "name": "蜘蛛侠普攻4伤害",
-        "param1": 187,
+        "param1": null,
         "target_audio": "SE_Hit105_punch",
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
@@ -270,7 +282,7 @@
         "description": "蜘蛛侠普攻3伤害",
         "id": 105000501,
         "name": "蜘蛛侠普攻5伤害",
-        "param1": 187,
+        "param1": null,
         "target_audio": "SE_Hit105_punch",
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
@@ -286,7 +298,7 @@
         "description": "蜘蛛侠普攻4伤害",
         "id": 105000601,
         "name": "蜘蛛侠普攻6伤害",
-        "param1": 187,
+        "param1": null,
         "target_audio": "SE_Hit105_punch",
         "target_effect": "FX_Hero105_Hit_001",
         "target_effect_position": "Hit2",
@@ -310,6 +322,9 @@
         "target_filter": 2
     },
     "105010301": {
+        "buff_vec": [
+            105200102
+        ],
         "damage_nature": 1,
         "description": "蜘蛛侠闪避",
         "id": 105010301,
@@ -317,6 +332,9 @@
         "target_filter": 1
     },
     "105020102": {
+        "buff_vec": [
+            105200101
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "蜘蛛侠技能2伤害",
@@ -347,12 +365,18 @@
         "target_filter": 2
     },
     "105040102": {
+        "buff_vec": [
+            105040102
+        ],
         "damage_nature": 3,
         "id": 105040102,
         "name": "蜘蛛侠大招不被选",
         "target_filter": 1
     },
     "105050101": {
+        "buff_vec": [
+            105200101
+        ],
         "damage_nature": 3,
         "damage_type": 1,
         "description": "蜘蛛侠入场技",
@@ -365,6 +389,9 @@
         "target_filter": 2
     },
     "105060101": {
+        "buff_vec": [
+            105060101
+        ],
         "damage_nature": 3,
         "damage_type": 2,
         "id": 105060101,
@@ -373,12 +400,18 @@
         "target_effect_position": "Hit3"
     },
     "109000000": {
+        "buff_vec": [
+            109000000
+        ],
         "damage_nature": 1,
         "id": 109000000,
         "name": "美队被动倒计时",
         "target_filter": 1
     },
     "109000001": {
+        "buff_vec": [
+            109000001
+        ],
         "damage_nature": 1,
         "id": 109000001,
         "name": "美队被动效果",
@@ -433,6 +466,9 @@
         "target_filter": 2
     },
     "109010101": {
+        "buff_vec": [
+            109010102
+        ],
         "damage_nature": 3,
         "damage_type": 1,
         "description": "美队飞盾",
@@ -446,12 +482,18 @@
         "target_filter": 2
     },
     "109010102": {
+        "buff_vec": [
+            109010102
+        ],
         "damage_nature": 3,
         "description": "美队飞盾减速",
         "id": 109010102,
         "name": "美队飞盾减速--技能1"
     },
     "109020101": {
+        "buff_vec": [
+            109020101
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "美队盾牌飞行",
@@ -502,6 +544,9 @@
         "target_filter": 2
     },
     "109040102": {
+        "buff_vec": [
+            109040102
+        ],
         "damage_nature": 1,
         "description": "美队大招--不选",
         "id": 109040102,
@@ -509,6 +554,9 @@
         "target_filter": 1
     },
     "109040103": {
+        "buff_vec": [
+            109040103
+        ],
         "damage_nature": 1,
         "description": "美队大招--buff",
         "id": 109040103,
@@ -573,7 +621,7 @@
         "name": "奇异博士技能1飞剑伤害",
         "param1": 267,
         "param2": 1,
-        "param3": 0,
+        "param3": null,
         "target_audio": "SE_Hit110_punch3",
         "target_effect": "FX_Hero110_Hit",
         "target_effect_position": "Hit2",
@@ -631,6 +679,9 @@
         "target_filter": 2
     },
     "110100101": {
+        "buff_vec": [
+            110100101
+        ],
         "damage_nature": 2,
         "damage_type": 1,
         "description": "奇异博士大招",
@@ -644,6 +695,9 @@
         "target_filter": 2
     },
     "110100102": {
+        "buff_vec": [
+            110100102
+        ],
         "damage_nature": 2,
         "damage_type": 1,
         "description": "奇异博士大招",
@@ -656,6 +710,9 @@
         "target_filter": 2
     },
     "110900101": {
+        "buff_vec": [
+            110900101
+        ],
         "damage_nature": 1,
         "description": "奇异博士被动",
         "id": 110900101,
@@ -777,6 +834,9 @@
         "target_filter": 2
     },
     "127010101": {
+        "buff_vec": [
+            127010101
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "灭霸技能1抓取(判定)",
@@ -787,6 +847,9 @@
         "target_filter": 2
     },
     "127010102": {
+        "buff_vec": [
+            127010102
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "灭霸技能1伤害",
@@ -799,6 +862,9 @@
         "target_filter": 2
     },
     "127010103": {
+        "buff_vec": [
+            127010101
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "灭霸技能1抓取(特效)",
@@ -810,6 +876,9 @@
         "target_filter": 2
     },
     "127020101": {
+        "buff_vec": [
+            109010102
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "灭霸技能2AOE伤害",
@@ -822,6 +891,9 @@
         "target_filter": 2
     },
     "127040101": {
+        "buff_vec": [
+            200001
+        ],
         "damage_nature": 1,
         "damage_type": 1,
         "description": "灭霸大招伤害",
@@ -835,6 +907,9 @@
         "target_filter": 2
     },
     "127900101": {
+        "buff_vec": [
+            127900101
+        ],
         "damage_nature": 1,
         "description": "真实伤害",
         "id": 127900101,
@@ -842,6 +917,9 @@
         "target_filter": 1
     },
     "127900102": {
+        "buff_vec": [
+            127900102
+        ],
         "damage_nature": 1,
         "description": "吸血效果",
         "id": 127900102,
