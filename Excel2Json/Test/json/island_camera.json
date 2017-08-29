@@ -2,7 +2,6 @@
     "1": {
         "fov": 45.0,
         "id": "1",
-        "island_id": "island_B1",
         "position": [
             -47.0,
             65.0,
@@ -12,7 +11,6 @@
     "10": {
         "fov": 16.0,
         "id": "10",
-        "island_id": "island_S2",
         "position": [
             0.0,
             0.0,
@@ -22,7 +20,6 @@
     "11": {
         "fov": 16.0,
         "id": "11",
-        "island_id": "island_S3",
         "position": [
             0.0,
             0.0,
@@ -32,7 +29,6 @@
     "12": {
         "fov": 16.0,
         "id": "12",
-        "island_id": "island_S4",
         "position": [
             0.0,
             0.0,
@@ -42,7 +38,6 @@
     "13": {
         "fov": 16.0,
         "id": "13",
-        "island_id": "island_S5",
         "position": [
             0.0,
             0.0,
@@ -52,7 +47,6 @@
     "14": {
         "fov": 16.0,
         "id": "14",
-        "island_id": "island_S6",
         "position": [
             0.0,
             0.0,
@@ -62,7 +56,6 @@
     "15": {
         "fov": 16.0,
         "id": "15",
-        "island_id": "island_S7",
         "position": [
             0.0,
             0.0,
@@ -72,7 +65,6 @@
     "16": {
         "fov": 16.0,
         "id": "16",
-        "island_id": "island_S8",
         "position": [
             0.0,
             0.0,
@@ -82,7 +74,6 @@
     "17": {
         "fov": 16.0,
         "id": "17",
-        "island_id": "island_S9",
         "position": [
             0.0,
             0.0,
@@ -92,7 +83,6 @@
     "18": {
         "fov": 16.0,
         "id": "18",
-        "island_id": "island_S10",
         "position": [
             0.0,
             0.0,
@@ -102,7 +92,6 @@
     "2": {
         "fov": 16.0,
         "id": "2",
-        "island_id": "island_M1",
         "position": [
             58.0,
             64.0,
@@ -112,7 +101,6 @@
     "3": {
         "fov": 16.0,
         "id": "3",
-        "island_id": "island_M2",
         "position": [
             0.0,
             0.0,
@@ -122,7 +110,6 @@
     "4": {
         "fov": 16.0,
         "id": "4",
-        "island_id": "island_M3",
         "position": [
             0.0,
             0.0,
@@ -132,7 +119,6 @@
     "5": {
         "fov": 16.0,
         "id": "5",
-        "island_id": "island_B2",
         "position": [
             0.0,
             0.0,
@@ -142,7 +128,6 @@
     "6": {
         "fov": 16.0,
         "id": "6",
-        "island_id": "island_B3",
         "position": [
             0.0,
             0.0,
@@ -152,7 +137,6 @@
     "7": {
         "fov": 16.0,
         "id": "7",
-        "island_id": "island_B4",
         "position": [
             0.0,
             0.0,
@@ -162,7 +146,6 @@
     "8": {
         "fov": 16.0,
         "id": "8",
-        "island_id": "island_B5",
         "position": [
             0.0,
             0.0,
@@ -172,7 +155,6 @@
     "9": {
         "fov": 16.0,
         "id": "9",
-        "island_id": "island_S1",
         "position": [
             0.0,
             0.0,

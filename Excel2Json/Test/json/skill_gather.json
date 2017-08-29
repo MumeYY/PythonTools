@@ -1,10 +1,5 @@
 {
     "1101000": {
-        "gather_begin_play1": "110_attack_001_to_002",
-        "gather_effect2": "FX_Hero110_attack_last002",
-        "gather_play1": "110_gather_01",
-        "gather_play1_play2": "110_attack_002_to_003",
-        "gather_play2": "110_gather_02",
         "gather_skill1": 110000101,
         "gather_skill2": 110000102,
         "gather_skill3": 110000103,

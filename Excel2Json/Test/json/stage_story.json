@@ -2,13 +2,11 @@
     "4110101": {
         "chapter_id": 47101,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110002",
         "energy_cost": 0,
         "exp": 30,
         "gs": 200,
         "id": 4110101,
         "lead_exp": 30,
-        "name": "stage_sname_10102",
         "reward_first": {
             "11109": 1,
             "44109": 1
@@ -30,20 +28,16 @@
             0
         ],
         "sweep": 1,
-        "terrain": "Pve_map_0101_A",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110102": {
         "chapter_id": 47101,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110004",
         "energy_cost": 0,
         "exp": 45,
         "gs": 400,
         "id": 4110102,
         "lead_exp": 45,
-        "name": "stage_sname_10104",
         "reward_first": {
             "11109": 10,
             "44104": 1
@@ -64,20 +58,16 @@
             10
         ],
         "sweep": 1,
-        "terrain": "Pve_map_0104_LD",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110103": {
         "chapter_id": 47101,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110008",
         "energy_cost": 0,
         "exp": 60,
         "gs": 800,
         "id": 4110103,
         "lead_exp": 60,
-        "name": "stage_sname_10108",
         "reward_first": {
             "11109": 1,
             "11114": 1
@@ -99,20 +89,16 @@
             0
         ],
         "sweep": 1,
-        "terrain": "Pve_map_0105_LD",
-        "time_limit": 300,
-        "type": "boss"
+        "time_limit": 300
     },
     "4110201": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110001",
         "energy_cost": 0,
         "exp": 15,
         "gs": 900,
         "id": 4110201,
         "lead_exp": 15,
-        "name": "stage_sname_10101",
         "position3": [
             64.0,
             20.0,
@@ -131,20 +117,16 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "Pve_map_0101_A",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110202": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110002",
         "energy_cost": 0,
         "exp": 30,
         "gs": 1000,
         "id": 4110202,
         "lead_exp": 30,
-        "name": "stage_sname_10102",
         "position3": [
             62.9,
             20.0,
@@ -163,19 +145,15 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10002",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110203": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110003",
         "energy_cost": 0,
         "exp": 30,
         "id": 4110203,
         "lead_exp": 30,
-        "name": "stage_sname_10103",
         "position3": [
             61.0,
             20.0,
@@ -194,20 +172,16 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10001",
-        "time_limit": 300,
-        "type": "boss"
+        "time_limit": 300
     },
     "4110204": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110004",
         "energy_cost": 0,
         "exp": 45,
         "gs": 1200,
         "id": 4110204,
         "lead_exp": 45,
-        "name": "stage_sname_10104",
         "position3": [
             59.8,
             20.0,
@@ -226,20 +200,16 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10002",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110205": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110005",
         "energy_cost": 0,
         "exp": 45,
         "gs": 1300,
         "id": 4110205,
         "lead_exp": 45,
-        "name": "stage_sname_10105",
         "position3": [
             57.6,
             20.0,
@@ -258,20 +228,16 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10001",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110206": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110006",
         "energy_cost": 0,
         "exp": 45,
         "gs": 1400,
         "id": 4110206,
         "lead_exp": 45,
-        "name": "stage_sname_10106",
         "position3": [
             56.0,
             20.0,
@@ -290,20 +256,16 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10002",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     },
     "4110207": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110007",
         "energy_cost": 0,
         "exp": 45,
         "gs": 1500,
         "id": 4110207,
         "lead_exp": 45,
-        "name": "stage_sname_10107",
         "position3": [
             54.0,
             20.0,
@@ -322,20 +284,16 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10001",
-        "time_limit": 300,
-        "type": "boss"
+        "time_limit": 300
     },
     "4110208": {
         "chapter_id": 47102,
         "day_limit": 99,
-        "desc1": "stage_desic1_4110008",
         "energy_cost": 0,
         "exp": 60,
         "gs": 1600,
         "id": 4110208,
         "lead_exp": 60,
-        "name": "stage_sname_10108",
         "position3": [
             52.5,
             20.0,
@@ -354,8 +312,6 @@
             0
         ],
         "start_dialog": 10100,
-        "terrain": "10002",
-        "time_limit": 300,
-        "type": "normal"
+        "time_limit": 300
     }
 }

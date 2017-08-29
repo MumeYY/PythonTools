@@ -2,8 +2,6 @@
     "47101": {
         "clearance_need": 4110108,
         "id": 47101,
-        "island_id": "island_B1",
-        "name": "stage_cname_101",
         "need_level": 1,
         "reward1": {
             "11109": 10,
@@ -30,8 +28,6 @@
     "47102": {
         "clearance_need": 4110208,
         "id": 47102,
-        "island_id": "island_M1",
-        "name": "stage_cname_102",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -62,7 +58,6 @@
     },
     "47103": {
         "id": 47103,
-        "name": "stage_cname_103",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -85,7 +80,6 @@
     },
     "47104": {
         "id": 47104,
-        "name": "stage_cname_104",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -108,7 +102,6 @@
     },
     "47105": {
         "id": 47105,
-        "name": "stage_cname_105",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -131,7 +124,6 @@
     },
     "47106": {
         "id": 47106,
-        "name": "stage_cname_106",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -154,7 +146,6 @@
     },
     "47107": {
         "id": 47107,
-        "name": "stage_cname_107",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -177,7 +168,6 @@
     },
     "47108": {
         "id": 47108,
-        "name": "stage_cname_108",
         "need_level": 100,
         "reward1": {
             "11109": 10,
@@ -200,7 +190,6 @@
     },
     "47109": {
         "id": 47109,
-        "name": "stage_cname_109",
         "need_level": 100,
         "reward1": {
             "11109": 10,

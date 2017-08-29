@@ -1,19 +1,11 @@
 {
     "1": {
-        "controller": "Img_bq_L",
-        "id": 1,
-        "left_pic": "JQ_ic_gt_2",
-        "right_pic": "JQ_ic_gt_1"
+        "id": 1
     },
     "2": {
-        "controller": "Img_bq_R",
-        "id": 2,
-        "left_pic": "JQ_ic_fn",
-        "right_pic": "JQ_ic_fn"
+        "id": 2
     },
     "3": {
-        "controller": "Img_bq_L",
-        "id": 3,
-        "right_pic": "JQ_ic_wh_3"
+        "id": 3
     }
 }

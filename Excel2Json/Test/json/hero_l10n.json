@@ -1,158 +1,119 @@
 {
     "crit": {
-        "cn": "暴击几率",
         "id": "crit"
     },
     "des1_103": {
-        "cn": "射手，输出",
         "id": "des1_103"
     },
     "des1_104": {
-        "cn": "战士，突进",
         "id": "des1_104"
     },
     "des1_105": {
-        "cn": "刺客，突进",
         "id": "des1_105"
     },
     "des1_109": {
-        "cn": "坦克，生存",
         "id": "des1_109"
     },
     "des1_110": {
-        "cn": "法师，群攻",
         "id": "des1_110"
     },
     "eneatk": {
-        "cn": "能量攻击",
         "id": "eneatk"
     },
     "enedef": {
-        "cn": "能量防御",
         "id": "enedef"
     },
     "hero_109_passive_des": {
-        "cn": "被动：每攻击或施法4次后获得【盾牌庇护】，【盾牌庇护】可以帮助美国队长格挡下3次任意伤害。",
         "id": "hero_109_passive_des"
     },
     "hero_109_skill1_des": {
-        "cn": "投掷振金盾牌，盾牌会在命中的敌人之间弹射，造成%d物理伤害，盾牌最多弹射5次。",
         "id": "hero_109_skill1_des"
     },
     "hero_109_skill2_des": {
-        "cn": "向前发动冲锋，对命中的敌人，造成%d物理伤害，并击倒敌人，同时立刻刷新【盾牌庇护】。",
         "id": "hero_109_skill2_des"
     },
     "hero_109_skill3_txt": {
-        "cn": "美队队长跳向目标并旋转盾牌，对目标造成多次伤害",
         "id": "hero_109_skill3_txt"
     },
     "hero_109_ultraCombo_des": {
-        "cn": "跃向空中，向目标区域发动冲击，对区域内敌人造成%d物理伤害并将其击飞，区域内我方友军获得伤害提升10%%效果，伤害提升效果持续8秒。",
         "id": "hero_109_ultraCombo_des"
     },
     "hero_110_skill3_txt": {
-        "cn": "奇异博士控制时间，眩晕时间控制区内目标并造成大量伤害",
         "id": "hero_110_skill3_txt"
     },
     "hero_des103": {
-        "cn": "浣熊",
         "id": "hero_des103"
     },
     "hero_des104": {
-        "cn": "托尼史塔克",
         "id": "hero_des104"
     },
     "hero_des105": {
-        "cn": "彼得帕克",
         "id": "hero_des105"
     },
     "hero_des109": {
-        "cn": "拿着一个盾牌",
         "id": "hero_des109"
     },
     "hero_des110": {
-        "cn": "奇异博士，是一位伟大的正义斗士，具有强大的魔法力量。",
         "id": "hero_des110"
     },
     "hero_des112": {
-        "cn": "松鼠女",
         "id": "hero_des112"
     },
     "hero_des123": {
-        "cn": "红骷髅",
         "id": "hero_des123"
     },
     "hero_des503": {
-        "cn": "炮台",
         "id": "hero_des503"
     },
     "hero_des505": {
-        "cn": "地雷",
         "id": "hero_des505"
     },
     "hero_des_test1": {
-        "cn": "棒子，你怕吗！",
         "id": "hero_des_test1"
     },
     "hero_name102": {
-        "cn": "黑寡妇",
         "id": "hero_name102"
     },
     "hero_name103": {
-        "cn": "火箭浣熊",
         "id": "hero_name103"
     },
     "hero_name104": {
-        "cn": "钢铁侠",
         "id": "hero_name104"
     },
     "hero_name105": {
-        "cn": "蜘蛛侠",
         "id": "hero_name105"
     },
     "hero_name109": {
-        "cn": "美国队长",
         "id": "hero_name109"
     },
     "hero_name110": {
-        "cn": "奇异博士",
         "id": "hero_name110"
     },
     "hero_name112": {
-        "cn": "松鼠女",
         "id": "hero_name112"
     },
     "hero_name123": {
-        "cn": "红骷髅",
         "id": "hero_name123"
     },
     "hero_name127": {
-        "cn": "灭霸",
         "id": "hero_name127"
     },
     "hero_name503": {
-        "cn": "炮台",
         "id": "hero_name503"
     },
     "hero_name505": {
-        "cn": "地雷",
         "id": "hero_name505"
     },
     "hero_name_test1": {
-        "cn": "测试杂兵！",
         "id": "hero_name_test1"
     },
     "hp": {
-        "cn": "生命上限",
         "id": "hp"
     },
     "phyatk": {
-        "cn": "物理攻击",
         "id": "phyatk"
     },
     "phydef": {
-        "cn": "物理防御",
         "id": "phydef"
     }
 }

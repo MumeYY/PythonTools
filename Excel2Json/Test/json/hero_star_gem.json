@@ -2,61 +2,51 @@
     "1001": {
         "add_num": 100.0,
         "icon_id": 1,
-        "id": 1001,
-        "type": "hp"
+        "id": 1001
     },
     "1002": {
         "add_num": 10.0,
         "icon_id": 1,
-        "id": 1002,
-        "type": "attack_value"
+        "id": 1002
     },
     "1003": {
         "add_num": 5.0,
         "icon_id": 1,
-        "id": 1003,
-        "type": "ability_power"
+        "id": 1003
     },
     "1004": {
         "add_num": 100.0,
         "icon_id": 2,
-        "id": 1004,
-        "type": "armor"
+        "id": 1004
     },
     "1005": {
         "add_num": 10.0,
         "icon_id": 2,
-        "id": 1005,
-        "type": "magic_resist"
+        "id": 1005
     },
     "1006": {
         "add_num": 5.0,
         "icon_id": 1,
-        "id": 1006,
-        "type": "crit_chance"
+        "id": 1006
     },
     "1007": {
         "add_num": 100.0,
         "icon_id": 1,
-        "id": 1007,
-        "type": "hp"
+        "id": 1007
     },
     "1008": {
         "add_num": 10.0,
         "icon_id": 1,
-        "id": 1008,
-        "type": "attack_value"
+        "id": 1008
     },
     "1009": {
         "add_num": 5.0,
         "icon_id": 1,
-        "id": 1009,
-        "type": "ability_power"
+        "id": 1009
     },
     "1010": {
         "add_num": 5.0,
         "icon_id": 2,
-        "id": 1010,
-        "type": "armor"
+        "id": 1010
     }
 }

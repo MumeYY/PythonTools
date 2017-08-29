@@ -1,187 +1,150 @@
 {
     "10001": {
         "dialog1": [
-            "task10001_1"
+            null
         ],
         "dialog2": [
-            "task10001_2"
+            null
         ],
         "dialog3": [
-            "task10001_3"
+            null
         ],
         "dialog4": [
-            "task10001_4"
+            null
         ],
         "dialog5": [
-            "task10001_5"
+            null
         ],
         "id": 10001,
-        "pram1": "999|1",
-        "pram2": "999|1",
-        "pram3": "998|2",
-        "pram4": "998|2",
-        "pram5": "998|2",
         "type": 1
     },
     "10002": {
         "dialog1": [
-            "task10002_1"
+            null
         ],
         "dialog2": [
-            "task10002_2"
+            null
         ],
         "dialog3": [
-            "task10002_3"
+            null
         ],
         "dialog4": [
-            "task10002_4"
+            null
         ],
         "dialog5": [
-            "task10002_5"
+            null
         ],
         "dialog6": [
-            "task10002_6"
+            null
         ],
         "dialog7": [
-            "task10002_7"
+            null
         ],
         "id": 10002,
-        "pram1": "109|1",
-        "pram2": "999|2",
-        "pram3": "998|1",
-        "pram4": "998|1",
-        "pram5": "999|2",
-        "pram6": "105|1",
-        "pram7": "999|2",
         "type": 1
     },
     "10003": {
         "dialog1": [
-            "task10003_1"
+            null
         ],
         "dialog2": [
-            "task10003_2"
+            null
         ],
         "dialog3": [
-            "task10003_3"
+            null
         ],
         "dialog4": [
-            "task10003_4"
+            null
         ],
         "dialog5": [
-            "task10003_5"
+            null
         ],
         "dialog6": [
-            "task10003_6"
+            null
         ],
         "id": 10003,
-        "pram1": "998|1",
-        "pram2": "998|1",
-        "pram3": "998|1",
-        "pram4": "109|2",
-        "pram5": "109|2",
-        "pram6": "105|2",
         "type": 1
     },
     "10004": {
         "dialog1": [
-            "task10004_1"
+            null
         ],
         "dialog2": [
-            "task10004_2"
+            null
         ],
         "dialog3": [
-            "task10004_3"
+            null
         ],
         "dialog4": [
-            "task10004_4"
+            null
         ],
         "dialog5": [
-            "task10004_5"
+            null
         ],
         "dialog6": [
-            "task10004_6"
+            null
         ],
         "dialog7": [
-            "task10004_7"
+            null
         ],
         "id": 10004,
-        "pram1": "997|1|1",
-        "pram2": "109|2",
-        "pram3": "105|2|1",
-        "pram4": "997|1",
-        "pram5": "105|2",
-        "pram6": "110|1",
-        "pram7": "105|2",
         "type": 1
     },
     "10006": {
         "dialog1": [
-            "task10006_1"
+            null
         ],
         "dialog2": [
-            "task10006_2"
+            null
         ],
         "id": 10006,
-        "pram1": "998|1",
-        "pram2": "998|1",
         "type": 1
     },
     "10100": {
         "dialog1": [
-            "stage_010101"
+            null
         ],
         "dialog2": [
-            "stage_010102"
+            null
         ],
         "dialog3": [
-            "stage_010103",
-            "stage_010104"
+            null,
+            null
         ],
         "dialog4": [
-            "stage_010105"
+            null
         ],
         "id": 10100,
-        "pram1": "104|1|3",
-        "pram2": "123|2|1",
-        "pram3": "104|1",
-        "pram4": "123|2|2",
         "type": 1
     },
     "10200": {
         "dialog1": [
-            "chapter_0101"
+            null
         ],
         "dialog2": [
-            "chapter_0102"
+            null
         ],
         "dialog3": [
-            "chapter_0103"
+            null
         ],
         "dialog4": [
-            "chapter_0104"
+            null
         ],
         "id": 10200,
-        "pram1": "104|1|1",
-        "pram2": "123|2|2",
-        "pram3": "104|1",
-        "pram4": "123|2",
         "type": 1
     },
     "20101": {
         "dialog1": [
-            "Prompt_0001"
+            null
         ],
         "id": 20101,
-        "pram1": "2000",
         "type": 2
     },
     "20102": {
         "dialog1": [
-            "Prompt_0002"
+            null
         ],
         "id": 20102,
-        "pram1": "2000",
         "type": 2
     }
 }

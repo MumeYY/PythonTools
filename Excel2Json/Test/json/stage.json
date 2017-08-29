@@ -1,22 +1,14 @@
 {
     "10001": {
-        "id": 10001,
-        "scenePath": "PVP_TDM_S_01",
-        "stagePath": "pve0_0"
+        "id": 10001
     },
     "10002": {
-        "id": 10002,
-        "scenePath": "pve_map_0101",
-        "stagePath": "pve0_0"
+        "id": 10002
     },
     "10003": {
-        "id": 10003,
-        "scenePath": "pve_map_0101_A",
-        "stagePath": "pve0_0"
+        "id": 10003
     },
     "10004": {
-        "id": 10004,
-        "scenePath": "pve_map_0104",
-        "stagePath": "pve0_0"
+        "id": 10004
     }
 }

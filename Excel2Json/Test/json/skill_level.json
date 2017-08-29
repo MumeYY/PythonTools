@@ -1,12 +1,11 @@
 {
     "10971": {
-        "cooldown": 100,
+        "cooldown": 30000,
         "cost_type1": 3,
         "cost_type2": 0,
         "cost_value1": 100,
         "cost_value2": 0,
         "id": 10971,
-        "skill_description": "美队大招",
         "skill_id": 109040101,
         "skill_level": 1
     },
@@ -27,7 +26,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11021,
-        "skill_description": "奇异博士普攻",
         "skill_id": 110000001,
         "skill_level": 1
     },
@@ -38,7 +36,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11022,
-        "skill_description": "奇异博士普攻1",
         "skill_id": 110000101,
         "skill_level": 1
     },
@@ -49,7 +46,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11023,
-        "skill_description": "奇异博士普攻2",
         "skill_id": 110000102,
         "skill_level": 1
     },
@@ -60,7 +56,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11024,
-        "skill_description": "奇异博士普攻3",
         "skill_id": 110000103,
         "skill_level": 1
     },
@@ -71,7 +66,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11025,
-        "skill_description": "奇异博士技能1",
         "skill_id": 110010101,
         "skill_level": 1
     },
@@ -82,7 +76,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11026,
-        "skill_description": "奇异博士技能1连招",
         "skill_id": 110010201,
         "skill_level": 1
     },
@@ -93,7 +86,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11027,
-        "skill_description": "奇异博士技能2",
         "skill_id": 110020101,
         "skill_level": 1
     },
@@ -104,7 +96,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11028,
-        "skill_description": "奇异博士技能2连招",
         "skill_id": 110020201,
         "skill_level": 1
     },
@@ -115,7 +106,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11029,
-        "skill_description": "奇异博士大招",
         "skill_id": 110100101,
         "skill_level": 1
     },
@@ -126,7 +116,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11030,
-        "skill_description": "奇异博士技能3",
         "skill_id": 110030101,
         "skill_level": 1
     },
@@ -137,7 +126,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 11031,
-        "skill_description": "奇异博士闪避",
         "skill_id": 110040101,
         "skill_level": 1
     },
@@ -148,7 +136,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 1012121,
-        "skill_description": "松鼠女普攻2段",
         "skill_id": 112000102,
         "skill_level": 1
     },
@@ -159,7 +146,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 1012131,
-        "skill_description": "松鼠女普攻3段",
         "skill_id": 112000103,
         "skill_level": 1
     },
@@ -170,7 +156,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 1012141,
-        "skill_description": "松鼠女普攻4段",
         "skill_id": 112000104,
         "skill_level": 1
     },
@@ -181,7 +166,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 12302011,
-        "skill_description": "红骷髅技能2",
         "skill_id": 123102101,
         "skill_level": 1
     },
@@ -192,7 +176,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30100011,
-        "skill_description": "远程杂兵普攻",
         "skill_id": 301000101,
         "skill_level": 1
     },
@@ -203,7 +186,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30101011,
-        "skill_description": "远程杂兵技能1",
         "skill_id": 301010101,
         "skill_level": 1
     },
@@ -214,7 +196,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30102011,
-        "skill_description": "远程杂兵闪躲",
         "skill_id": 301020101,
         "skill_level": 1
     },
@@ -225,7 +206,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30200011,
-        "skill_description": "九头蛇_双棍普攻",
         "skill_id": 302000101,
         "skill_level": 1
     },
@@ -236,7 +216,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30201011,
-        "skill_description": "九头蛇_双棍跳跃",
         "skill_id": 302010101,
         "skill_level": 1
     },
@@ -247,7 +226,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30300011,
-        "skill_description": "九头蛇_盾牌普攻",
         "skill_id": 303000101,
         "skill_level": 1
     },
@@ -258,8 +236,27 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 30301011,
-        "skill_description": "九头蛇_盾牌冲锋",
         "skill_id": 303010101,
+        "skill_level": 1
+    },
+    "30400011": {
+        "cooldown": 7000,
+        "cost_type1": 0,
+        "cost_type2": 0,
+        "cost_value1": 0,
+        "cost_value2": 0,
+        "id": 30400011,
+        "skill_id": 304000101,
+        "skill_level": 1
+    },
+    "30401011": {
+        "cooldown": 0,
+        "cost_type1": 0,
+        "cost_type2": 0,
+        "cost_value1": 0,
+        "cost_value2": 0,
+        "id": 30401011,
+        "skill_id": 304010101,
         "skill_level": 1
     },
     "32100011": {
@@ -269,7 +266,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32100011,
-        "skill_description": "长枪兵普攻3连",
         "skill_id": 321000101,
         "skill_level": 1
     },
@@ -280,7 +276,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32101011,
-        "skill_description": "连击",
         "skill_id": 321010101,
         "skill_level": 1
     },
@@ -291,7 +286,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32102011,
-        "skill_description": "突刺",
         "skill_id": 321020101,
         "skill_level": 1
     },
@@ -302,7 +296,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32200011,
-        "skill_description": "灵魂锁链",
         "skill_id": 322000101,
         "skill_level": 1
     },
@@ -313,7 +306,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32201011,
-        "skill_description": "魔法球",
         "skill_id": 322010101,
         "skill_level": 1
     },
@@ -324,51 +316,46 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32300011,
-        "skill_description": "弓箭手普攻",
         "skill_id": 323000101,
         "skill_level": 1
     },
     "32301011": {
-        "cooldown": 4000,
+        "cooldown": 8000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 32301011,
-        "skill_description": "箭雨",
         "skill_id": 323010101,
         "skill_level": 1
     },
     "32302011": {
-        "cooldown": 5000,
-        "cost_type1": 0,
-        "cost_type2": 0,
-        "cost_value1": 0,
-        "cost_value2": 0,
-        "id": 32302011,
-        "skill_description": "蓄力直射",
-        "skill_id": 323020101,
-        "skill_level": 1
-    },
-    "32303011": {
-        "cooldown": 6000,
-        "cost_type1": 0,
-        "cost_type2": 0,
-        "cost_value1": 0,
-        "cost_value2": 0,
-        "id": 32303011,
-        "skill_description": "击退",
-        "skill_id": 323030101,
-        "skill_level": 1
-    },
-    "32304011": {
         "cooldown": 7000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
+        "id": 32302011,
+        "skill_id": 323020101,
+        "skill_level": 1
+    },
+    "32303011": {
+        "cooldown": 5000,
+        "cost_type1": 0,
+        "cost_type2": 0,
+        "cost_value1": 0,
+        "cost_value2": 0,
+        "id": 32303011,
+        "skill_id": 323030101,
+        "skill_level": 1
+    },
+    "32304011": {
+        "cooldown": 10000,
+        "cost_type1": 0,
+        "cost_type2": 0,
+        "cost_value1": 0,
+        "cost_value2": 0,
         "id": 32304011,
-        "skill_description": "闪避",
         "skill_id": 323040101,
         "skill_level": 1
     },
@@ -379,8 +366,17 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 50500011,
-        "skill_description": "地雷爆炸",
         "skill_id": 505000101,
+        "skill_level": 1
+    },
+    "102000001": {
+        "cooldown": 860,
+        "cost_type1": 0,
+        "cost_type2": 0,
+        "cost_value1": 0,
+        "cost_value2": 0,
+        "id": 102000001,
+        "skill_id": 102000001,
         "skill_level": 1
     },
     "102000101": {
@@ -390,7 +386,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102000101,
-        "skill_description": "黑寡妇普攻1",
         "skill_id": 102000101,
         "skill_level": 1
     },
@@ -401,7 +396,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102000201,
-        "skill_description": "黑寡妇普攻2",
         "skill_id": 102000201,
         "skill_level": 1
     },
@@ -412,7 +406,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102000301,
-        "skill_description": "黑寡妇普攻3",
         "skill_id": 102000301,
         "skill_level": 1
     },
@@ -423,19 +416,7 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102000401,
-        "skill_description": "黑寡妇普攻4",
         "skill_id": 102000401,
-        "skill_level": 1
-    },
-    "102000501": {
-        "cooldown": 8000,
-        "cost_type1": 0,
-        "cost_type2": 0,
-        "cost_value1": 0,
-        "cost_value2": 0,
-        "id": 102000501,
-        "skill_description": "黑寡妇技能1",
-        "skill_id": 102000501,
         "skill_level": 1
     },
     "102010101": {
@@ -445,7 +426,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102010101,
-        "skill_description": "黑寡妇技能1",
         "skill_id": 102010101,
         "skill_level": 1
     },
@@ -456,41 +436,17 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102020101,
-        "skill_description": "黑寡妇技能1",
         "skill_id": 102020101,
         "skill_level": 1
     },
     "102100101": {
-        "cooldown": 30000,
+        "cooldown": 12000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 102100101,
-        "skill_description": "黑寡妇技能2",
         "skill_id": 102100101,
-        "skill_level": 1
-    },
-    "102200101": {
-        "cooldown": 6000,
-        "cost_type1": 10,
-        "cost_type2": 0,
-        "cost_value1": 100,
-        "cost_value2": 0,
-        "id": 102200101,
-        "skill_description": "黑寡妇大招",
-        "skill_id": 102200101,
-        "skill_level": 1
-    },
-    "102900101": {
-        "cooldown": 30000,
-        "cost_type1": 0,
-        "cost_type2": 0,
-        "cost_value1": 0,
-        "cost_value2": 0,
-        "id": 102900101,
-        "skill_description": "黑寡妇闪避",
-        "skill_id": 102900101,
         "skill_level": 1
     },
     "105000101": {
@@ -500,7 +456,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105000101,
-        "skill_description": "蜘蛛侠普攻1",
         "skill_id": 105000101,
         "skill_level": 1
     },
@@ -511,7 +466,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105000201,
-        "skill_description": "蜘蛛侠普攻2",
         "skill_id": 105000201,
         "skill_level": 1
     },
@@ -522,7 +476,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105000301,
-        "skill_description": "蜘蛛侠普攻3",
         "skill_id": 105000301,
         "skill_level": 1
     },
@@ -533,7 +486,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105000401,
-        "skill_description": "蜘蛛侠普攻4",
         "skill_id": 105000401,
         "skill_level": 1
     },
@@ -544,7 +496,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105010101,
-        "skill_description": "蜘蛛侠技能1",
         "skill_id": 105010101,
         "skill_level": 1,
         "special_active_duration_time": 4000
@@ -556,7 +507,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105010201,
-        "skill_description": "蜘蛛侠技能1",
         "skill_id": 105010201,
         "skill_level": 1
     },
@@ -567,7 +517,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105010301,
-        "skill_description": "蜘蛛侠技能1",
         "skill_id": 105010301,
         "skill_level": 1
     },
@@ -578,7 +527,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105020101,
-        "skill_description": "蜘蛛侠技能2",
         "skill_id": 105020101,
         "skill_level": 1
     },
@@ -589,7 +537,6 @@
         "cost_value1": 100,
         "cost_value2": 0,
         "id": 105030101,
-        "skill_description": "蜘蛛侠大招",
         "skill_id": 105030101,
         "skill_level": 1
     },
@@ -600,7 +547,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 105040101,
-        "skill_description": "蜘蛛侠闪避",
         "skill_id": 105040101,
         "skill_level": 1
     },
@@ -611,7 +557,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127000001,
-        "skill_description": "灭霸普攻",
         "skill_id": 127000001,
         "skill_level": 1
     },
@@ -622,7 +567,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127000101,
-        "skill_description": "灭霸普攻1段",
         "skill_id": 127000101,
         "skill_level": 1
     },
@@ -633,7 +577,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127000102,
-        "skill_description": "灭霸普攻2段",
         "skill_id": 127000102,
         "skill_level": 1
     },
@@ -644,40 +587,36 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127000103,
-        "skill_description": "灭霸普攻3段",
         "skill_id": 127000103,
         "skill_level": 1
     },
     "127010101": {
-        "cooldown": 100,
+        "cooldown": 8000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127010101,
-        "skill_description": "灭霸飞盾--技能1",
         "skill_id": 127010101,
         "skill_level": 1
     },
     "127020101": {
-        "cooldown": 100,
+        "cooldown": 7000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127020101,
-        "skill_description": "灭霸冲锋--技能2",
         "skill_id": 127020101,
         "skill_level": 1
     },
     "127040101": {
-        "cooldown": 100,
+        "cooldown": 30000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127040101,
-        "skill_description": "灭霸大招伤害--大招",
         "skill_id": 127040101,
         "skill_level": 1
     },
@@ -688,7 +627,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": 127070101,
-        "skill_description": "灭霸入场技",
         "skill_id": 127070101,
         "skill_level": 1
     },
@@ -699,7 +637,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10311",
-        "skill_description": "浣熊普攻",
         "skill_id": 103000101,
         "skill_level": 1
     },
@@ -710,7 +647,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10400001",
-        "skill_description": "钢铁侠普攻",
         "skill_id": 104000101,
         "skill_level": 1
     },
@@ -721,7 +657,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10401001",
-        "skill_description": "钢铁侠射线--技能1",
         "skill_id": 104010101,
         "skill_level": 1
     },
@@ -732,7 +667,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10402001",
-        "skill_description": "钢铁侠冲刺-技能2",
         "skill_id": 104020101,
         "skill_level": 1
     },
@@ -743,7 +677,6 @@
         "cost_value1": 100,
         "cost_value2": 0,
         "id": "10410001",
-        "skill_description": "钢铁侠大招",
         "skill_id": 104100101,
         "skill_level": 1
     },
@@ -754,7 +687,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10420001",
-        "skill_description": "钢铁侠入场",
         "skill_id": 104200101,
         "skill_level": 1
     },
@@ -765,7 +697,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10490001",
-        "skill_description": "钢铁侠被动",
         "skill_id": 104900101,
         "skill_level": 1
     },
@@ -776,7 +707,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "1051",
-        "skill_description": "蜘蛛侠被动",
         "skill_id": 105,
         "skill_level": 1
     },
@@ -787,7 +717,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "109111",
-        "skill_description": "美队普攻1段",
         "skill_id": 109000101,
         "skill_level": 1
     },
@@ -798,7 +727,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "109121",
-        "skill_description": "美队普攻2段",
         "skill_id": 109000102,
         "skill_level": 1
     },
@@ -809,7 +737,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "109131",
-        "skill_description": "美队普攻3段",
         "skill_id": 109000103,
         "skill_level": 1
     },
@@ -820,29 +747,26 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "109141",
-        "skill_description": "美队普攻4段",
         "skill_id": 109000104,
         "skill_level": 1
     },
     "10931": {
-        "cooldown": 100,
+        "cooldown": 6000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10931",
-        "skill_description": "美队扔盾牌",
         "skill_id": 109010101,
         "skill_level": 1
     },
     "10941": {
-        "cooldown": 100,
+        "cooldown": 8000,
         "cost_type1": 0,
         "cost_type2": 0,
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10941",
-        "skill_description": "美队冲锋",
         "skill_id": 109020101,
         "skill_level": 1
     },
@@ -853,7 +777,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "10961",
-        "skill_description": "美队冲锋后连招1",
         "skill_id": 109030101,
         "skill_level": 1
     },
@@ -864,7 +787,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "11211",
-        "skill_description": "松鼠女普攻1段",
         "skill_id": 112000101,
         "skill_level": 1
     },
@@ -875,7 +797,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "12301011",
-        "skill_description": "红骷髅技能1",
         "skill_id": 123101101,
         "skill_level": 1
     },
@@ -886,7 +807,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "12311011",
-        "skill_description": "红骷髅普攻",
         "skill_id": 123000101,
         "skill_level": 1
     },
@@ -897,7 +817,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "68011",
-        "skill_description": "棒子技能1",
         "skill_id": 68000101,
         "skill_level": 1
     },
@@ -908,7 +827,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "68021",
-        "skill_description": "棒子技能2",
         "skill_id": 68000102,
         "skill_level": 1
     },
@@ -919,7 +837,6 @@
         "cost_value1": 0,
         "cost_value2": 0,
         "id": "68031",
-        "skill_description": "棒子技能3",
         "skill_id": 68000103,
         "skill_level": 1
     }

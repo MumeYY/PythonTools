@@ -4,32 +4,24 @@
         "id": 1,
         "in_battle": 1,
         "interval_time": 2,
-        "param1": 506000101,
-        "target_sfx": "reply_blood",
-        "target_sfx_position": "Hit3"
+        "param1": 506000101
     },
     "2": {
         "affix_type": 2,
         "id": 2,
         "in_battle": 1,
         "interval_time": 8,
-        "master_sfx": "FX_Npc_505_summon",
         "param1": 505,
         "param2": 1,
-        "param3": 5,
-        "target_sfx": "FX_Npc_505_spawn",
-        "target_sfx_position": "root"
+        "param3": 5
     },
     "3": {
         "affix_type": 2,
         "id": 3,
         "in_battle": 1,
         "interval_time": 20,
-        "master_sfx": "FX_Npc_505_summon",
         "param1": 1304,
         "param2": 1,
-        "param3": 10,
-        "target_sfx": "FX_Npc_505_spawn",
-        "target_sfx_position": "root"
+        "param3": 10
     }
 }

@@ -1,40 +1,40 @@
 {
     "105": {
         "dialog_entrance": [
-            "hero_1050101",
-            "hero_1050102",
-            "hero_1050103"
+            null,
+            null,
+            null
         ],
         "dialog_turn": [
-            "hero_1050201",
-            "hero_1050202",
-            "hero_1050203"
+            null,
+            null,
+            null
         ],
         "id": 105
     },
     "109": {
         "dialog_entrance": [
-            "hero_1090101",
-            "hero_1090102",
-            "hero_1090103"
+            null,
+            null,
+            null
         ],
         "dialog_turn": [
-            "hero_1090201",
-            "hero_1090202",
-            "hero_1090203"
+            null,
+            null,
+            null
         ],
         "id": 109
     },
     "110": {
         "dialog_entrance": [
-            "hero_1100101",
-            "hero_1100102",
-            "hero_1100103"
+            null,
+            null,
+            null
         ],
         "dialog_turn": [
-            "hero_1100201",
-            "hero_1100202",
-            "hero_1100203"
+            null,
+            null,
+            null
         ],
         "id": 110
     }

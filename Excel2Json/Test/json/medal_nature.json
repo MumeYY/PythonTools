@@ -1,10 +1,8 @@
 {
     "1": {
-        "icon": "haoke",
         "id": "1",
         "level": 1,
-        "name": "浩克勋章",
-        "propMap": 1,
+        "propmap": 1,
         "type": 1
     }
 }
